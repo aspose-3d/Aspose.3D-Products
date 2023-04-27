@@ -23,3 +23,4 @@ Developers can easily go through the same process listed above to verify blind w
 
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/feature-page-options formats="all" afterslug="Watermark Verification" >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

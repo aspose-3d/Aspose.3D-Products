@@ -23,3 +23,4 @@ Developers can easily create your Lithophane through the same process listed abo
 
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/feature-page-options formats="all" afterslug="Lithophane" >}}
+{{< /blocks/products/pf/feature-page-wrap >}}
