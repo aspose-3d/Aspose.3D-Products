@@ -30,3 +30,4 @@ Il processo di conversione è semplice. Basta caricare il file di origine 3D uti
 
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/feature-page-options pairs="stl-to-obj obj-to-stl obj-to-3ds dae-to-obj fbx-to-stl" >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

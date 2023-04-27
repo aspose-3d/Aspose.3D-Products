@@ -30,3 +30,4 @@ Le processus de conversion est simple. Chargez simplement le fichier source 3D e
 
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/feature-page-options pairs="stl-to-obj obj-to-stl obj-to-3ds dae-to-obj fbx-to-stl" >}}
+{{< /blocks/products/pf/feature-page-wrap >}}

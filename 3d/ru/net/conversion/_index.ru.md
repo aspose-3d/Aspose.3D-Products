@@ -29,3 +29,4 @@ description: Преобразование форматов 3D 3ds 3mf amf ase at
 
 {{% /blocks/products/pf/feature-page-section %}}
 {{< blocks/products/pf/feature-page-options pairs="stl-to-obj obj-to-stl obj-to-3ds dae-to-obj fbx-to-stl" >}}
+{{< /blocks/products/pf/feature-page-wrap >}}
