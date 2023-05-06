@@ -26,7 +26,7 @@ So, whether you're a designer, developer, or just someone who needs to work with
 <div class="code-sample">
     <ul class="link-list">
         <li class="link-item"><a href="https://products.aspose.com/3d/view/">View 3D files online</a></li>
-        <li class="link-item"><a href="create-sphere-with-material">Learn how to create sphere with material</a></li>
+        <li class="link-item"><a href="create-cylinder-with-material">Learn how to create cylinder with material</a></li>
         <li class="link-item"><a href="https://docs.aspose.com/3d/net/features/">Documentation for Aspose.3D features</a></li>
         <li class="link-item"><a href="https://docs.aspose.com/3d/net/installation/">Installation of Aspose.3D</a></li>
     </ul>
