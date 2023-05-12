@@ -28,6 +28,8 @@ So, whether you're a designer, developer, or just someone who needs to work with
         <li class="link-item"><a href="https://products.aspose.com/3d/view/">View 3D files online</a></li>
         <li class="link-item"><a href="create-cylinder-with-material">Learn how to create cylinder with material</a></li>
         <li class="link-item"><a href="transform-scene-geometries">Learn How To transform scene's geometries</a></li>
+        <li class="link-item"><a href="create-mesh-from-linear-extrusion">Learn How To create mesh from linear extrusion</a></li>
+        <li class="link-item"><a href="split-mesh-using-sub-materials">Learn How To split mesh using sub materials</a></li>
         <li class="link-item"><a href="https://docs.aspose.com/3d/net/features/">Documentation for Aspose.3D features</a></li>
         <li class="link-item"><a href="https://docs.aspose.com/3d/net/installation/">Installation of Aspose.3D</a></li>
     </ul>
