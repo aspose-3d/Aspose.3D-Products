@@ -2,7 +2,7 @@
 title: Aspose.3D Transform scene's geometries 
 weight: 7700
 limit: 
-description: Learn How to transform scene's geometries.
+description: Learn how to transform scene's geometries.
 keywords: [3d scene, transform, geometries]
 url: /tutorial/transform-scene-geometries
 ---
@@ -21,7 +21,7 @@ We'll start by creating a new scene using the <a href="https://www.nuget.org/pac
 
 <br />
 {{< app/3d/tutorial >}}
-//ExSummary: Please check the following code to find out how To transform scene's geometries, you can modify the code and run it directly in your browser.
+//ExSummary: Please check the following code to find out how to transform scene's geometries, you can modify the code and run it directly in your browser.
 //ExStepSummary:0: The following code shows how to create a box and transform it.
 //ExStepImage:0:step-1.png
 //ExStepSummary:1: The following code shows how to scale the box proportionally.
