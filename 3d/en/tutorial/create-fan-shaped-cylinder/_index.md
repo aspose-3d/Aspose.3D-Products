@@ -3,7 +3,7 @@ title: Aspose.3D Create box with material
 weight: 7700
 limit: 
 description: Learn how to create fan-shaped Cylinder
-keywords: [3d scene, Box, prb material]
+keywords: [3d scene, Cylinder, fan-shaped]
 url: /tutorial/create-fan-shaped-cylinder
 ---
 
