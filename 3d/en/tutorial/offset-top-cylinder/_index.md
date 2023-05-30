@@ -1,5 +1,5 @@
 ---
-title: Aspose.3D Create box with material
+title: Aspose.3D Offset the top of a cylinder
 weight: 7700
 limit: 
 description: Learn how to offset the top of a Cylinder
