@@ -1,5 +1,5 @@
 ---
-title: Aspose.3D Create box with material
+title: Aspose.3D Perform linear extrusion within a rectangle
 weight: 7700
 limit: 
 description: Learn how to Perform linear extrusion within a Rectangle
