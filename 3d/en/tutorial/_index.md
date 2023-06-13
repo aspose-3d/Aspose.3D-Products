@@ -25,7 +25,7 @@ So, whether you're a designer, developer, or just someone who needs to work with
 
 <div class="code-sample">
     <ul class="link-list">
-        <li class="link-item"><a href="https://products.aspose.com/3d/view/">View 3D files online</a></li>
+        <li class="link-item"><a href="create-3d-text-mesh">Learn how to create 3D text mesh with font file</a></li>
         <li class="link-item"><a href="create-cylinder-with-material">Learn how to create cylinder with material</a></li>
         <li class="link-item"><a href="transform-scene-geometries">Learn how to transform scene's geometries</a></li>
         <li class="link-item"><a href="create-box-with-material">Learn how to create box with material</a></li>
