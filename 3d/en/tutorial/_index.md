@@ -39,6 +39,7 @@ So, whether you're a designer, developer, or just someone who needs to work with
         <li class="link-item"><a href="perform-linear-extrusion-within-rectangle">Learn how to perform linear extrusion within a rectangle</a></li>
         <li class="link-item"><a href="create-sphere-material">Learn how to create a sphere using phong material</a></li>
         <li class="link-item"><a href="change-direction-plane">Learn how to change the direction of a plane</a></li>
+       <li class="link-item"><a href="perform-linear-extrusion-twist-offset">Learn how to perform linear extrusion using twist offset</a></li>
         <li class="link-item"><a href="https://docs.aspose.com/3d/net/features/">Documentation for Aspose.3D features</a></li>
         <li class="link-item"><a href="https://docs.aspose.com/3d/net/installation/">Installation of Aspose.3D</a></li>
     </ul>
