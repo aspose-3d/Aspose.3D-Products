@@ -9,7 +9,7 @@ url: /tutorial/lighten-box-scene
 
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/feature-page-section h2="Learn How To lighten Boxes in a scene" >}}
+{{< blocks/products/pf/feature-page-section h2="Learn How To lighten Boxes In A Scene" >}}
 
 <p>
 In this tutorial, we will create two different boxes by setting the CastShadows and ReceiveShadows properties. We will light up the boxes in the scene by creating a Light object.

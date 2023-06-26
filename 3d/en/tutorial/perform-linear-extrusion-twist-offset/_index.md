@@ -9,7 +9,7 @@ url: /tutorial/perform-linear-extrusion-twist-offset
 
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/feature-page-section h2="Learn How To Perform Linear Extrusion using Twist Offset" >}}
+{{< blocks/products/pf/feature-page-section h2="Learn How To Perform Linear Extrusion Using Twist Offset" >}}
 
 <p>
 In this tutorial, we will create two rectangles in the scene. We will apply a <a href="https://reference.aspose.com/3d/net/aspose.threed.entities/linearextrusion/">linear extrusion</a> to one of the rectangles using the TwistOffset property, allowing us to observe the changes to the rectangle caused by the current attribute. By comparing the two rectangles, we can clearly see the differences.

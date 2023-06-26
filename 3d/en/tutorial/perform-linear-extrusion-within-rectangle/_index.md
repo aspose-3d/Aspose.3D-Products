@@ -9,7 +9,7 @@ url: /tutorial/perform-linear-extrusion-within-rectangle
 
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/feature-page-section h2="Learn How To Perform linear extrusion within a rectangle" >}}
+{{< blocks/products/pf/feature-page-section h2="Learn How To Perform Linear Extrusion Within A Rectangle" >}}
 
 <p>
 In this tutorial, we will create two rectangles in the scene. We will apply <a href="https://reference.aspose.com/3d/net/aspose.threed.entities/linearextrusion/">linear extrusion</a> with distortion and slicing attributes to one of the rectangles using the left-side node. For the other rectangle, we will apply linear extrusion with distortion, slicing, and directional attributes using the right-side node. By comparing them, we can clearly observe the differences between the different attributes.
