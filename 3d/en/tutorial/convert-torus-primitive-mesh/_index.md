@@ -12,11 +12,11 @@ url: /tutorial/convert-torus-primitive-mesh
 {{< blocks/products/pf/feature-page-section h2="Learn How To Convert A Torus Primitive To Mesh" >}}
 
 <p>
-In this tutorial, In this tutorial, we'll learn how to convert a torus primitive To mesh.
+In this tutorial,we'll learn how to convert a torus primitive To mesh.
 </p>
 
 <p>
-We'll create a sphere in the scene. We initialize an IMeshConvertible object using the torus class, and then we convert the torus into a mesh using the 'ToMesh' method.Finally, we add the node to the scene.
+We'll create a torus in the scene. We initialize an <a href="https://reference.aspose.com/3d/net/aspose.threed.entities/imeshconvertible/">IMeshConvertible</a> object using the torus class, and then we convert the torus into a mesh using the 'ToMesh' method.Finally, we add the node to the scene.
 </p>
 
 <br />
@@ -24,7 +24,7 @@ We'll create a sphere in the scene. We initialize an IMeshConvertible object usi
 //ExSummary: Please check the following code to find out how to convert a torus primitive to mesh, you can modify the code and run it directly in your browser.
 //ExStepSummary:0: The following code shows how to create a new 3D scene.
 //ExStepImage:0:step-1.png
-//ExStepSummary:1: The following code demonstrates how to convert a sphere to a mesh.
+//ExStepSummary:1: The following code demonstrates how to convert a torus to a mesh.
 //ExStepImage:1:step-2.png
 //ExStepSummary:2: The following code demonstrates how to add a node to the scene.
 //ExStepImage:2:step-3.png
