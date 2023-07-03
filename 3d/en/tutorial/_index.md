@@ -33,6 +33,15 @@ So, whether you're a designer, developer, or just someone who needs to work with
         <li class="link-item"><a href="create-fan-shaped-cylinder">Learn how to create fan-shaped cylinder</a></li>
         <li class="link-item"><a href="offset-top-cylinder">Learn how to offset the top of a cylinder</a></li>
         <li class="link-item"><a href="shear-bottom-cylinder">Learn how to shear the bottom of a cylinder</a></li>
+        <li class="link-item"><a href="rotate-geometry-scene">Learn how to rotate geometry in a scene</a></li>
+        <li class="link-item"><a href="lighten-box-scene">Learn how to lighten boxes in a scene</a></li>
+         <li class="link-item"><a href="set-radius-sphere">Learn how to set the radius of a sphere</a></li>
+        <li class="link-item"><a href="perform-linear-extrusion-within-rectangle">Learn how to perform linear extrusion within a rectangle</a></li>
+        <li class="link-item"><a href="create-sphere-material">Learn how to create a sphere using phong material</a></li>
+        <li class="link-item"><a href="change-direction-plane">Learn how to change the direction of a plane</a></li>
+       <li class="link-item"><a href="perform-linear-extrusion-twist-offset">Learn how to perform linear extrusion using twist offset</a></li>
+       <li class="link-item"><a href="convert-torus-primitive-mesh">Learn how to convert a torus primitive to mesh</a></li>
+       <li class="link-item"><a href="set-up-mesh-geometry-data">Learn how to set up mesh geometry data</a></li>
         <li class="link-item"><a href="https://docs.aspose.com/3d/net/features/">Documentation for Aspose.3D features</a></li>
         <li class="link-item"><a href="https://docs.aspose.com/3d/net/installation/">Installation of Aspose.3D</a></li>
     </ul>
