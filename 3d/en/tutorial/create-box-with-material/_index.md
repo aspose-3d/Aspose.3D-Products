@@ -3,7 +3,7 @@ title: Aspose.3D Create box with material
 weight: 7700
 limit: 
 description: Learn how to create Box with material
-keywords: [3d scene, Box, prb material]
+keywords: [3d scene, Box, pbr material]
 url: /tutorial/create-box-with-material
 ---
 
