@@ -20,7 +20,7 @@ We'll start by creating a new scene using the <a href="https://www.nuget.org/pac
 </p>
 
 <br />
-{{< app/3d/tutorial >}}
+{{< app/3d/tutorial2 >}}
 //ExSummary: Please check the following code to find out how to transform scene's geometries, you can modify the code and run it directly in your browser.
 //ExStepSummary:0: The following code shows how to create a box and transform it.
 //ExStepImage:0:step-1.png
@@ -54,7 +54,7 @@ tr.EulerAngles = new Vector3(10, 17, 0);
 tr = scene.RootNode.CreateChildNode(box).Transform;
 scene
 //ExEnd
-{{< /app/3d/tutorial >}}
+{{< /app/3d/tutorial2 >}}
 <br />
 
 <br />

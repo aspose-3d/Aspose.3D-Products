@@ -20,7 +20,7 @@ We'll start by creating a new font instance from file and create a text profile 
 </p>
 
 <br />
-{{< app/3d/tutorial >}}
+{{< app/3d/tutorial2 >}}
 //ExSummary: Please check the following code to find out how to create a box and attach it to a scene, you can modify the code and run it directly in your browser.
 //ExFile: NotoSans-Regular.ttf:/3d/tutorial/NotoSans-Regular.ttf
 //ExStepSummary:0: The following code shows how to create a font instance from bytes.
@@ -71,7 +71,7 @@ textNode.Material = mat;
 //ExStep:0-
 scene
 //ExEnd
-{{< /app/3d/tutorial >}}
+{{< /app/3d/tutorial2 >}}
 <br />
 
 <br />

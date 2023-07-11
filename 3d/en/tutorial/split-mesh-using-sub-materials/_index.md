@@ -17,7 +17,7 @@ In this tutorial, we'll create a mesh from a <a href="https://reference.aspose.c
 </p>
 
 <br />
-{{< app/3d/tutorial >}}
+{{< app/3d/tutorial2 >}}
 //ExSummary: Please review the following code that demonstrates how to split a mesh by sub material id. You can make changes to the code and run it directly in your browser.
 //ExStepSummary:0: The code below demonstrates how to create a new 3D scene with a box mesh.
 //ExStepImage:0:step-0.png
@@ -72,7 +72,7 @@ scene
 //ExEnd
 
 
-{{< /app/3d/tutorial >}}
+{{< /app/3d/tutorial2 >}}
 <br />
 
 <br />

@@ -20,7 +20,7 @@ We'll start by creating a new scene using the <a href="https://www.nuget.org/pac
 </p>
 
 <br />
-{{< app/3d/tutorial >}}
+{{< app/3d/tutorial2 >}}
 //ExSummary: Please check the following code to find out how to create a cylinder and attach it to a scene, you can modify the code and run it directly in your browser.
 //ExStepSummary:0: The following code shows how to create a new 3D scene
 //ExStepImage:0:step-1.png
@@ -53,7 +53,7 @@ node.Material = material;
 //ExStep:0-
 scene
 //ExEnd
-{{< /app/3d/tutorial >}}
+{{< /app/3d/tutorial2 >}}
 <br />
 
 <br />
