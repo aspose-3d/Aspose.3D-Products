@@ -16,7 +16,7 @@ In this tutorial, we will create two box objects and then <a href="https://refer
 </p>
 
 <br />
-{{< app/3d/tutorial >}}
+{{< app/3d/tutorial2 >}}
 //ExSummary: Please review the following code that demonstrates how to use center and slices property to perform linear extrusion in a Box. You can make changes to the code and run it directly in your browser.
 //ExStepSummary:0: The following code demonstrates how to create two box objects.
 //ExStepImage:0:step-1.png
@@ -60,7 +60,7 @@ right.CreateChildNode(new LinearExtrusion(profile, 3) { Center = true, Slices = 
 //ExStep:0-
 scene
 //ExEnd
-{{< /app/3d/tutorial >}}
+{{< /app/3d/tutorial2 >}}
 <br />
 
 <br />

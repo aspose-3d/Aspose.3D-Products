@@ -17,7 +17,7 @@ In this tutorial, we'll create a <a href="https://reference.aspose.com/3d/net/as
 </p>
 
 <br />
-{{< app/3d/tutorial >}}
+{{< app/3d/tutorial2 >}}
 //ExSummary: Please review the following code that demonstrates how to create a mesh using linear extrusion. You can make changes to the code and run it directly in your browser.
 //ExStepSummary:0: The code below demonstrates how to create a new 3D scene with a linear extrusion object.
 //ExStepImage:0:step-1.png
@@ -74,7 +74,7 @@ scene
 //ExEnd
 
 
-{{< /app/3d/tutorial >}}
+{{< /app/3d/tutorial2 >}}
 <br />
 
 <br />
