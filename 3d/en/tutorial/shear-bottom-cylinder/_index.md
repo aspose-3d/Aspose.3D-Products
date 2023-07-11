@@ -1,5 +1,5 @@
 ---
-title: Aspose.3D Create box with material
+title: Aspose.3D Shear the bottom of a Cylinder
 weight: 7700
 limit: 
 description: Learn how to shear the bottom of a Cylinder

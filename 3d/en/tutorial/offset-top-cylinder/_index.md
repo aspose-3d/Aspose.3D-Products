@@ -1,5 +1,5 @@
 ---
-title: Aspose.3D Create box with material
+title: Aspose.3D Offset the top of a cylinder
 weight: 7700
 limit: 
 description: Learn how to offset the top of a Cylinder
@@ -9,7 +9,7 @@ url: /tutorial/offset-top-cylinder
 
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/feature-page-section h2="Learn How To offset the top of a Cylinder" >}}
+{{< blocks/products/pf/feature-page-section h2="Learn How To Offset The Top OF A Cylinder" >}}
 
 <p>
 In this tutorial, we will create two cylinders in a 3D scene. We will offset the top of one of the cylinders using the OffsetTop property. By creating a regular cylinder for comparison, we can clearly see the differences.

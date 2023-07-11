@@ -1,5 +1,5 @@
 ---
-title: Aspose.3D Create box with material
+title: Aspose.3D Create fan-shaped Cylinder
 weight: 7700
 limit: 
 description: Learn how to create fan-shaped Cylinder

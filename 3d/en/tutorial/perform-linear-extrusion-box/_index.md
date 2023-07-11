@@ -1,5 +1,5 @@
 ---
-title: Aspose.3D Create box with material
+title: Aspose.3D Perform linear extrusion in a Box
 weight: 7700
 limit: 
 description: Learn how to use center and slices property to perform linear extrusion in a Box

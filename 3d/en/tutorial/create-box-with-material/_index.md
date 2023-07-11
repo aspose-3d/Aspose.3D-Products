@@ -12,7 +12,7 @@ url: /tutorial/create-box-with-material
 {{< blocks/products/pf/feature-page-section h2="Learn How To Create Box with material" >}}
 
 <p>
-In this tutorial, we will create a box in a 3D scene and apply materials to it. Materials are a powerful feature of 3D, and adding materials to it can make the scene visually more attractive.
+In this tutorial, we will create a box in a 3D scene and apply materials to it. <a href="https://reference.aspose.com/3d/net/aspose.threed.shading/">Materials</a> are a powerful feature of 3D, and adding materials to it can make the scene visually more attractive.
 </p>
 
 <p>
