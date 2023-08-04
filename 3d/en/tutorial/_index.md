@@ -46,7 +46,8 @@ So, whether you're a designer, developer, or just someone who needs to work with
        <li class="link-item"><a href="transform-nodes-transformation-matrix">Learn how to transform nodes using a transformation matrix</a></li>
        <li class="link-item"><a href="use-phong-material-to-pbr-material">Learn how to use phong material to pbr material</a></li>
        <li class="link-item"><a href="set-rendering-mode-geometry">Learn how to set the rendering mode of geometry</a></li>
-       <li class="link-item"><a href="generate-uv-data">Learn how to generate uv data</a></li> 
+       <li class="link-item"><a href="generate-uv-data">Learn how to generate uv data</a></li>
+       <li class="link-item"><a href="get-geometric-transformations">Learn how to get geometric transformations</a></li> 
        <li class="link-item"><a href="https://docs.aspose.com/3d/net/features/">Documentation for Aspose.3D features</a></li>
         <li class="link-item"><a href="https://docs.aspose.com/3d/net/installation/">Installation of Aspose.3D</a></li>
     </ul>
