@@ -51,6 +51,7 @@ So, whether you're a designer, developer, or just someone who needs to work with
        <li class="link-item"><a href="get-geometric-scaling-rotation">Learn how to get geometric scaling and rotation</a></li>
        <li class="link-item"><a href="set-coordinates-sphere">Learn how to set the coordinates of a sphere</a></li>
        <li class="link-item"><a href="change-plane-size">Learn how to change the plane size</a></li>
+       <li class="link-item"><a href="use-attribute-collections">Learn how to use 3d attribute collections</a></li>
        <li class="link-item"><a href="https://docs.aspose.com/3d/net/features/">Documentation for Aspose.3D features</a></li>
         <li class="link-item"><a href="https://docs.aspose.com/3d/net/installation/">Installation of Aspose.3D</a></li>
     </ul>
