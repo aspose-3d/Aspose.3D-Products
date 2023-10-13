@@ -14,7 +14,7 @@ description: Sample code for 3DS to USDZ Node.js conversion. Aspose.3D for Node.
 {{% blocks/products/pf/agp/content h2="How to Convert 3DS to USDZ Using Node.js" %}}
 
  In order to convert 3DS to USDZ, we’ll use
- [Aspose.3D for Node.js via Java](https://products.aspose.com/3d/java) 
+ [Aspose.3D for Node.js via Java](https://products.aspose.com/3d/nodejs-java/) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for Node.js. You can download its latest version directly from
  [Aspose Maven Repository](https://repository.aspose.com/3d/)
  and by adding configuration in pom.xml.
@@ -42,7 +42,7 @@ install aspose.threed
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Load 3DS file via the from_file of Scene class
+1.  Load 3DS file via the fromFile of Scene class
 1.  Call the Scene.save method with USDZ's format.
 1.  Check resultant USDZ file at specified path
 

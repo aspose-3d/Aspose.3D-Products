@@ -14,7 +14,7 @@ description: Sample code for 3DS to DRC Node.js conversion. Aspose.3D for Node.j
 {{% blocks/products/pf/agp/content h2="How to Convert 3DS to DRC Using Node.js" %}}
 
  In order to convert 3DS to DRC, we’ll use
- [Aspose.3D for Node.js via Java](https://products.aspose.com/3d/java) 
+ [Aspose.3D for Node.js via Java](https://products.aspose.com/3d/nodejs-java/) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for Node.js. You can download its latest version directly from
  [Aspose Maven Repository](https://repository.aspose.com/3d/)
  and by adding configuration in pom.xml.
