@@ -15,7 +15,7 @@ description: Sample Node.js verify blind watermark code for VRML file. Use this 
 
  In order to watermark verification VRML file, we’ll use
  [Aspose.3D for Node.js via Java](https://products.aspose.com/3d/nodejs-java/) 
-API which is a feature-rich, powerful and easy to use API for Node.js platform to be used with add any watermark. You can download its latest version directly from
+API which is a feature-rich, powerful and easy to use API for Node.js platform to be used with add any watermark verification. You can download its latest version directly from
  [Aspose Maven Repository](https://repository.aspose.com/3d/)
  and by adding configuration in pom.xml.
  You may also use the following command from the Package Manager Console.
