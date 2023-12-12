@@ -6,11 +6,11 @@ description: Node.js library to create read convert and modify 3D files in Windo
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Node.js 3D Files API" h2="Create, Manipulate & Save 3D files to multiple formats without requiring any external modeling & rendering software." logoImageSrc="/3d/aspose_3d-for-nodejs-via-java-banner.svg" pfName="Aspose.3D" subTitlepfName="for Node.js via Java" downloadUrl="https://releases.aspose.com/3d/java" >}}
+{{< blocks/products/pf/upper-banner h1="Node.js 3D Files API" h2="Create, Manipulate and Save 3D file to multiple formats without requiring any external modeling & rendering software using Node.js API." logoImageSrc="/3d/aspose_3d-for-nodejs-via-java-banner.svg" pfName="Aspose.3D" subTitlepfName="for Node.js via Java" downloadUrl="https://releases.aspose.com/3d/nodejs-java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="for Node.js via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/3d/aspose_3d-for-nodejs-java.svg" liveDemosLink="https://products.aspose.app/3d/family" PricingLink="https://purchase.aspose.com/pricing/3d/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/3d/java/" installationsDocsLink="https://docs.aspose.com/3d/java/installation/" nugetLink="https://www.nuget.org/packages/Aspose.3D/" nugetPackageName="Aspose.3D" mavenRepoLink="https://repository.aspose.com/3d/" directDownloadLink="https://releases.aspose.com/3d/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/3d/aspose_3d-for-nodejs-java.svg" liveDemosLink="https://products.aspose.app/3d/family" PricingLink="https://purchase.aspose.com/pricing/3d/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/3d/java/" installationsDocsLink="" nugetLink="" nugetPackageName="Aspose.3D" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/3d/nodejs-java/" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -470,9 +470,9 @@ var aspose = aspose || {};
 
 aspose.threed = require("aspose.threed"); 
 
-var sence = new aspose.threed.Scene("template.fbx");
+var sence = new aspose.threed.Scene("template.stl");
 
-sence.save("output.stl", aspose.threed.FileFormat.STLASCII);
+sence.save("output.obj");
 	 
 	 </code></pre>
     </div>
@@ -562,7 +562,7 @@ sence.save("output.stl", aspose.threed.FileFormat.STLASCII);
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/3d/java" pricingInformationLink="https://purchase.aspose.com/pricing/3d/net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/3d/nodejs-java/" pricingInformationLink="https://purchase.aspose.com/pricing/3d/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D offers individual 3D processing APIs for other popular development environments as listed below:" >}}
 
