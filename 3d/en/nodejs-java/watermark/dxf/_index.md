@@ -53,7 +53,7 @@ install aspose.threed
 
 {{% blocks/products/pf/agp/text %}}
 
-Before running the Node.js conversion code, make sure that you have the following prerequisites.
+ Aspose.3D for Node.js is supported on all major operating systems. Just make sure that you have the following prerequisites.
 
 {{% /blocks/products/pf/agp/text %}}
 
