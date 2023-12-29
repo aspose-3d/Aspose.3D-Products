@@ -23,6 +23,10 @@ Native Java APIs for the desktop, web or any kind of application based on Java S
 Use Python to accelerate the development. Generate and manipulate documents with Python scripts. Our product provides a comprehensive set of features you may need in your software solutions.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.3D for" title="Node.js via Java" imgSrc="https://releases.aspose.app/res_repo/images/aspose_3d-for-nodejs-java.svg" productLink="/3d/nodejs-java/" >}}
+Create, manipulate, convert & render 3D files via Node.js.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 
