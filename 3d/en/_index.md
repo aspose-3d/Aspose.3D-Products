@@ -7,7 +7,7 @@ google_site_verification: pJzfspWbY9hmASAU3ozD0x1YVIt8rcjsmkvNtlT8jsM
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="3D File Format Solution" h2="Native APIs and apps offering features to read, edit and convert 3D files without requiring any 3D modeling or rendering software." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-brand.svg" imageAlt="Aspose.3D Product Solution" >}}
+{{< blocks/products/pf/upper-banner h1="3D File Format Solution" h2="Native APIs and apps offering features to read, edit and convert 3D files without requiring any 3D modeling or rendering software." logoImageSrc="/3d/aspose_3d-brand.svg" imageAlt="Aspose.3D Product Solution" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.3D High Code APIs Include" >}}
@@ -31,7 +31,7 @@ Use Python to accelerate the development. Generate and manipulate documents with
 
 {{< blocks/products/pf/product-card-row title="Aspose.3D Low Code APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.3D" title="Cloud for cURL" imgSrc="https://cms.admin.containerize.com/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_3d-for-curl.png" productLink="https://products.aspose.cloud/3d/curl" >}}
+{{< blocks/products/pf/product pfName="Aspose.3D" title="Cloud for cURL" imgSrc="/3d/aspose_3d-for-curl.png" productLink="https://products.aspose.cloud/3d/curl" >}}
 cURL commands to access 3D models & 3D objects hosted on the cloud for easy processing & manipulation.
 {{< /blocks/products/pf/product >}}
 
@@ -39,7 +39,7 @@ cURL commands to access 3D models & 3D objects hosted on the cloud for easy proc
 Enhance your C#, ASP.NET & Visual Studio code to create, transform & convert cloud-based 3D objects & 3D entities.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.3D" title="Cloud SDK for Java" imgSrc="https://cms.admin.containerize.com/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_3d-for-java.png" productLink="https://products.aspose.cloud/3d/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.3D" title="Cloud SDK for Java" imgSrc="/3d/aspose_3d-for-java.png" productLink="https://products.aspose.cloud/3d/java" >}}
 Build Java programs to create & process 3D Box, 3D Cylinder, 3D Plane & other 3D entities in the cloud.
 {{< /blocks/products/pf/product >}}
 
@@ -49,7 +49,7 @@ Build Java programs to create & process 3D Box, 3D Cylinder, 3D Plane & other 3D
 
 {{< blocks/products/pf/product-card-row title="Aspose.3D No Code Apps Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.3D" title="Conversion" imgSrc="https://cms.admin.containerize.com/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/3d/conversion" >}}
+{{< blocks/products/pf/product pfName="Aspose.3D" title="Conversion" imgSrc="/3d/aspose_conversion-app.png" productLink="https://products.aspose.app/3d/conversion" >}}
 Free App offers features to convert 3D files to Autodesk, Wavefront, 3D Studio & Draco formats.
 {{< /blocks/products/pf/product >}}
 

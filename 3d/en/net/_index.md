@@ -6,11 +6,11 @@ description: C# VB.NET ASP.NET library to create read convert and modify 3D file
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET 3D File Manipulation APIs" h2="Read, Write, Manipulate and Convert 3D file formats within any .NET-based application." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/headers/aspose_3d-for-net.svg" pfName="Aspose.3D" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/3d/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET 3D File Manipulation APIs" h2="Read, Write, Manipulate and Convert 3D file formats within any .NET-based application." logoImageSrc="/3d/aspose_3d-for-net.svg" pfName="Aspose.3D" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/3d/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg" liveDemosLink="https://products.aspose.app/3d/family" PricingLink="https://purchase.aspose.com/pricing/3d/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/3d/net/" installationsDocsLink="https://docs.aspose.com/3d/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.3D/" nugetPackageName="Aspose.3D" mavenRepoLink="https://repository.aspose.com/3d/" directDownloadLink="https://releases.aspose.com/3d/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/3d/aspose_3d-for-net.svg" liveDemosLink="https://products.aspose.app/3d/family" PricingLink="https://purchase.aspose.com/pricing/3d/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/3d/net/" installationsDocsLink="https://docs.aspose.com/3d/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.3D/" nugetPackageName="Aspose.3D" mavenRepoLink="https://repository.aspose.com/3d/" directDownloadLink="https://releases.aspose.com/3d/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -133,7 +133,7 @@ description: C# VB.NET ASP.NET library to create read convert and modify 3D file
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=".NET 3D APIs" src="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg"/>
+  <img width="70" height="75" alt=".NET 3D APIs" src="/3d/aspose_3d-for-net.svg"/>
   <header>
    Aspose.3d
   </header>
@@ -188,7 +188,7 @@ description: C# VB.NET ASP.NET library to create read convert and modify 3D file
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="3D CAD API for .NET" src="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg"/>
+  <img width="70" height="75" alt="3D CAD API for .NET" src="/3d/aspose_3d-for-net.svg"/>
   <header>
    Aspose.3d
   </header>
@@ -266,6 +266,12 @@ description: C# VB.NET ASP.NET library to create read convert and modify 3D file
     </li>
     <li>
      <b>
+      Universal Scene Description:
+     </b> USDA, USDC, USDZ
+     (Text/Binary)
+    </li>
+    <li>
+     <b>
       RVM
      </b>
      (Text/Binary)
@@ -333,7 +339,7 @@ description: C# VB.NET ASP.NET library to create read convert and modify 3D file
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="FBX Manipulation API" src="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-net.svg"/>
+  <img width="70" height="75" alt="FBX Manipulation API" src="/3d/aspose_3d-for-net.svg"/>
   <header>
    Aspose.3d
   </header>

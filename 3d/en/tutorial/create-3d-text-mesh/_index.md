@@ -9,18 +9,10 @@ url: /tutorial/create-3d-text-mesh
 
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/feature-page-section h2="Learn How To Create 3D Text Mesh" >}}
 
-<p>
-In this tutorial, we'll learn how to extrude a text profile into a 3D mesh.
-</p>
+{{< app/3d/tutorial-example >}}
 
-<p>
-We'll start by creating a new font instance from file and create a text profile from a string using this font. Then we extrude the text profile into a mesh with a thickness, finally we'll add a material to the mesh. 
-</p>
 
-<br />
-{{< app/3d/tutorial2 >}}
 //ExSummary: Please check the following code to find out how to create a box and attach it to a scene, you can modify the code and run it directly in your browser.
 //ExFile: NotoSans-Regular.ttf:/3d/tutorial/NotoSans-Regular.ttf
 //ExStepSummary:0: The following code shows how to create a font instance from bytes.
@@ -71,21 +63,29 @@ textNode.Material = mat;
 //ExStep:0-
 scene
 //ExEnd
-{{< /app/3d/tutorial2 >}}
-<br />
+//ExLinkCategory: API References
+//ExLink: Scene:https://reference.aspose.com/3d/net/aspose.threed/scene/
+//ExLink: Text:https://reference.aspose.com/3d/net/aspose.threed.profiles/text/
+//ExLink: Font:https://reference.aspose.com/3d/net/aspose.threed.profiles/fontfile/
+//ExLink: LinearExtrusion:https://reference.aspose.com/3d/net/aspose.threed.entities/linearextrusion/
+//ExLink: PbrMaterial:https://reference.aspose.com/3d/net/aspose.threed.shading/pbrmaterial/
+//ExLinkCategory: Documents
+//ExLink: Working with Linear Extrusion:https://docs.aspose.com/3d/net/working-with-linear-extrusion/
+{{< /app/3d/tutorial-example >}}
 
-<br />
-<br />
-<div class="code-sample">
-    <ul class="link-list">
-        <li class="link-item"><a href="https://docs.aspose.com/3d/net/installation/">Installation of Aspose.3D</a></li>
-        <li class="link-item"><a href="https://products.aspose.app/3d/editor/">3D Editor</a></li>
-    </ul>
-</div>
+{{% app/3d/tutorial-main summary="You can write code here to use Aspose.3D and run the code in browser to see how it works." %}}
 
-{{< /blocks/products/pf/feature-page-section >}}
+In this tutorial, we'll learn how to extrude a text profile into a 3D mesh.
+
+We'll start by creating a new font instance from file and create a text profile from a string using this font. Then we extrude the text profile into a mesh with a thickness, finally we'll add a material to the mesh. 
+
+* [Installation of Aspose.3D](https://docs.aspose.com/3d/net/installation/)
+* [3D Editor](https://products.aspose.app/3d/editor/)
+
+
+{{% /app/3d/tutorial-main %}}
+
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
