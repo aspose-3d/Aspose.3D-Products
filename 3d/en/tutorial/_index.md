@@ -94,12 +94,9 @@ So, whether you're a designer, developer, or just someone who needs to work with
 * [Learn how to lighten boxes in a scene](lighten-box-scene)
 * [Learn how to perform linear extrusion within a rectangle](perform-linear-extrusion-within-rectangle)
 * [Learn how to create cylinder with material](create-cylinder-with-material)
-* [Learn how to create box with material](create-box-with-material)
 * [Learn how to create fan-shaped cylinder](create-fan-shaped-cylinder)
 * [Learn how to offset the top of a cylinder](offset-top-cylinder)
 * [Learn how to shear the bottom of a cylinder](shear-bottom-cylinder)
-* [Learn how to generate uv data](generate-uv-data)
-* [Learn how to use phong material to pbr material](use-phong-material-to-pbr-material)
 * [Learn how to rotate geometry in a scene](rotate-geometry-scene)
 * [Learn how to set the radius of a sphere](set-radius-sphere)
 * [Learn how to create a sphere using phong material](create-sphere-material)
@@ -115,7 +112,9 @@ So, whether you're a designer, developer, or just someone who needs to work with
 * [Learn how to set the coordinates of a sphere](set-coordinates-sphere)
 * [Learn how to change the plane size](change-plane-size)
 * [Learn how to use 3d attribute collections](use-attribute-collections)
-
+<!-- * [Learn how to create box with material](create-box-with-material) -->
+<!-- * [Learn how to generate uv data](generate-uv-data) -->
+<!-- * [Learn how to use phong material to pbr material](use-phong-material-to-pbr-material) -->
 
 {{% /app/3d/tutorial-main %}}
 

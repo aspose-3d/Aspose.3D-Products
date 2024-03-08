@@ -9,14 +9,10 @@ url: /tutorial/rotate-geometry-scene
 
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/feature-page-section h2="Learn How To Rotate geometry in a scene" >}}
 
-<p>
-In this tutorial, we will create and connect quaternions. We will create multiple geometric objects in a 3D scene and use quaternions to rotate these objects. By comparing multiple geometric objects, we can clearly see the differences.
-</p>
+{{< app/3d/tutorial-example >}}
 
-<br />
-{{< app/3d/tutorial >}}
+
 //ExSummary: Please check the following code to find out how to rotate geometry in a scene, you can modify the code and run it directly in your browser.
 //ExStepSummary:0: The following code demonstrates how to create and connect quaternions.
 //ExStepImage:0:step-1.png
@@ -65,19 +61,26 @@ cylinder.Transform.Translation = new Vector3(5, 0, 0);
 //ExStep:0-
 scene
 //ExEnd
-{{< /app/3d/tutorial >}}
-<br />
+//ExLinkCategory: API References
+//ExLink: Scene:https://reference.aspose.com/3d/net/aspose.threed/scene/
+//ExLink: Quaternion:https://reference.aspose.com/3d/net/aspose.threed.utilities/quaternion/
+//ExLink: Cylinder:https://reference.aspose.com/3d/net/aspose.threed.entities/cylinder/
+//ExLink: Vector3:https://reference.aspose.com/3d/net/aspose.threed.utilities/vector3/
+//ExLink: Transform:https://reference.aspose.com/3d/net/aspose.threed/transform/
+//ExLinkCategory: Documents
+//ExLink: Concatenate Quaternions and apply on 3D entities:https://docs.aspose.com/3d/net/concatenate-quaternions-and-apply-on-3d-entities/
+{{< /app/3d/tutorial-example >}}
 
-<br />
-<br />
-<div class="code-sample">
-    <ul class="link-list">
-        <li class="link-item"><a href="https://docs.aspose.com/3d/net/installation/">Installation of Aspose.3D</a></li>
-        <li class="link-item"><a href="https://products.aspose.app/3d/editor/">3D Editor</a></li>
-    </ul>
-</div>
+{{% app/3d/tutorial-main summary="You can write code here to use Aspose.3D and run the code in browser to see how it works." %}}
 
-{{< /blocks/products/pf/feature-page-section >}}
+In this tutorial, we will create and connect quaternions. We will create multiple geometric objects in a 3D scene and use quaternions to rotate these objects. By comparing multiple geometric objects, we can clearly see the differences.
+
+* [Installation of Aspose.3D](https://docs.aspose.com/3d/net/installation/)
+* [3D Editor](https://products.aspose.app/3d/editor/)
+
+
+{{% /app/3d/tutorial-main %}}
+
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 

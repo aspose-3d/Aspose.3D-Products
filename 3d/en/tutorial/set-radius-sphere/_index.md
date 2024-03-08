@@ -9,18 +9,10 @@ url: /tutorial/set-radius-sphere
 
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/feature-page-section h2="Learn How To Set the radius of a Sphere" >}}
 
-<p>
-In this tutorial, we will create two spheres in a 3D scene and modify their sizes using the Radius property. By comparing them, we can clearly see the difference in sphere sizes.
-</p>
+{{< app/3d/tutorial-example >}}
 
-<p>
-We'll start by creating a new scene using the <a href="https://www.nuget.org/packages/Aspose.3D">Aspose.3D library</a>. Then we will create two spheres with different radii for visual comparison.
-</p>
 
-<br />
-{{< app/3d/tutorial >}}
 //ExSummary: Please check the following code to find out how to set the radius of a Sphere, you can modify the code and run it directly in your browser.
 //ExStepSummary:0: The following code shows how to create a new 3D scene.
 //ExStepImage:0:step-1.png
@@ -48,19 +40,28 @@ scene.RootNode.CreateChildNode(new Sphere() { Radius = 1.5 }).Transform.Translat
 //ExStep:0-
 scene
 //ExEnd
-{{< /app/3d/tutorial >}}
-<br />
+//ExLinkCategory: API References
+//ExLink: Scene:https://reference.aspose.com/3d/net/aspose.threed/scene/
+//ExLink: Sphere:https://reference.aspose.com/3d/net/aspose.threed.entities/sphere/
+//ExLink: Radius:https://reference.aspose.com/3d/net/aspose.threed.entities/sphere/radius/
+//ExLink: Vector3:https://reference.aspose.com/3d/net/aspose.threed.utilities/vector3/
+//ExLink: Transform:https://reference.aspose.com/3d/net/aspose.threed/transform/
+//ExLinkCategory: Documents
+//ExLink: Working with Radius of Sphere:https://docs.aspose.com/3d/net/working-with-radius-of-sphere/
+{{< /app/3d/tutorial-example >}}
 
-<br />
-<br />
-<div class="code-sample">
-    <ul class="link-list">
-        <li class="link-item"><a href="https://docs.aspose.com/3d/net/installation/">Installation of Aspose.3D</a></li>
-        <li class="link-item"><a href="https://products.aspose.app/3d/editor/">3D Editor</a></li>
-    </ul>
-</div>
+{{% app/3d/tutorial-main summary="You can write code here to use Aspose.3D and run the code in browser to see how it works." %}}
 
-{{< /blocks/products/pf/feature-page-section >}}
+In this tutorial, we will create two spheres in a 3D scene and modify their sizes using the Radius property. By comparing them, we can clearly see the difference in sphere sizes.
+
+We'll start by creating a new scene using the <a href="https://www.nuget.org/packages/Aspose.3D">Aspose.3D library</a>. Then we will create two spheres with different radii for visual comparison.
+
+* [Installation of Aspose.3D](https://docs.aspose.com/3d/net/installation/)
+* [3D Editor](https://products.aspose.app/3d/editor/)
+
+
+{{% /app/3d/tutorial-main %}}
+
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
