@@ -21,6 +21,7 @@ url: /tutorial/create-3d-text-mesh
 //ExStepImage:1:step-1.png
 //ExStepSummary:2: The following code shows how create a mesh by extruding the text profile with a thickness.
 //ExStepImage:2:step-3.png
+//ExPostExecuteCommand:shading:wireframe
 //ExStart
 //ExStep:0-
 using Aspose.ThreeD;
@@ -52,25 +53,19 @@ var ven = PolygonModifier.GenerateNormal(mesh);
 mesh.AddElement(ven);
 //Create a scene with the mesh and rotate it
 var textNode = scene.RootNode.CreateChildNode(mesh);
-textNode.Transform.EulerAngles = new Vector3(180, 0, 0);
+textNode.Transform.EulerAngles = new Vector3(-10, 0, 0);
 
 //initialize PBR material object
 PbrMaterial mat = new PbrMaterial();
 mat.MetallicFactor = 0.9;
 mat.RoughnessFactor = 0.4;
+mat.Albedo = new Vector3(1, 1, 1);
 textNode.Material = mat;
+
 
 //ExStep:0-
 scene
 //ExEnd
-//ExLinkCategory: API References
-//ExLink: Scene:https://reference.aspose.com/3d/net/aspose.threed/scene/
-//ExLink: Text:https://reference.aspose.com/3d/net/aspose.threed.profiles/text/
-//ExLink: Font:https://reference.aspose.com/3d/net/aspose.threed.profiles/fontfile/
-//ExLink: LinearExtrusion:https://reference.aspose.com/3d/net/aspose.threed.entities/linearextrusion/
-//ExLink: PbrMaterial:https://reference.aspose.com/3d/net/aspose.threed.shading/pbrmaterial/
-//ExLinkCategory: Documents
-//ExLink: Working with Linear Extrusion:https://docs.aspose.com/3d/net/working-with-linear-extrusion/
 {{< /app/3d/tutorial-example >}}
 
 {{% app/3d/tutorial-main summary="You can write code here to use Aspose.3D and run the code in browser to see how it works." %}}
@@ -81,7 +76,12 @@ We'll start by creating a new font instance from file and create a text profile 
 
 * [Installation of Aspose.3D](https://docs.aspose.com/3d/net/installation/)
 * [3D Editor](https://products.aspose.app/3d/editor/)
-
+* [Working with linear extrusion](https://docs.aspose.com/3d/net/working-with-linear-extrusion/)
+* [API LinearExtrusion](https://reference.aspose.com/3d/net/aspose.threed.entities/linearextrusion/)
+* [API Text](https://reference.aspose.com/3d/net/aspose.threed.profiles/text/)
+* [API Font](https://reference.aspose.com/3d/net/aspose.threed.profiles/fontfile/)
+* [API PbrMaterial](https://reference.aspose.com/3d/net/aspose.threed.shading/pbrmaterial/)
+* [API Scene](https://reference.aspose.com/3d/net/aspose.threed/scene/)
 
 {{% /app/3d/tutorial-main %}}
 

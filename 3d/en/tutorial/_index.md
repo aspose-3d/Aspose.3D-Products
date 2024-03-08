@@ -66,7 +66,12 @@ So, whether you're a designer, developer, or just someone who needs to work with
 {{< app/3d/tutorial-example >}}
 using Aspose.ThreeD;
 using Aspose.ThreeD.Entities;
-var sphere = new Sphere();
+var sphere = new Sphere()
+{
+    Radius = 40,
+    HeightSegments = 20,
+    WidthSegments = 20
+};
 var scene = new Scene(sphere);
 
 
@@ -89,6 +94,8 @@ So, whether you're a designer, developer, or just someone who needs to work with
 * [Documentation for Aspose.3D features](https://docs.aspose.com/3d/net/feature-list/)
 * [Installation of Aspose.3D](https://docs.aspose.com/3d/net/installation/)
 * [Learn how to create 3D text mesh with font file](create-3d-text-mesh)
+* [Learn how to triangulate a 3D mesh](triangulate-3d-mesh)
+* [Learn how to deduplicate a 3D mesh](triangulate-3d-mesh)
 * [Learn how to transform scene's geometries](transform-scene-geometries)
 * [Learn how to perform linear extrusion in a box](perform-linear-extrusion-box)
 * [Learn how to lighten boxes in a scene](lighten-box-scene)
