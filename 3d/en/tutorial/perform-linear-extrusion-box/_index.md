@@ -9,14 +9,10 @@ url: /tutorial/perform-linear-extrusion-box
 
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/feature-page-section h2="Learn How To Perform Linear Extrusion In A Box" >}}
 
-<p>
-In this tutorial, we will create two box objects and then <a href="https://reference.aspose.com/3d/net/aspose.threed.entities/linearextrusion/">linear extrusion</a> them. We will perform this series of operations by using the center and slices property. Finally, by comparing the box objects in the scene, the differences can be clearly seen.
-</p>
+{{< app/3d/tutorial-example >}}
 
-<br />
-{{< app/3d/tutorial2 >}}
+
 //ExSummary: Please review the following code that demonstrates how to use center and slices property to perform linear extrusion in a Box. You can make changes to the code and run it directly in your browser.
 //ExStepSummary:0: The following code demonstrates how to create two box objects.
 //ExStepImage:0:step-1.png
@@ -60,21 +56,27 @@ right.CreateChildNode(new LinearExtrusion(profile, 3) { Center = true, Slices = 
 //ExStep:0-
 scene
 //ExEnd
-{{< /app/3d/tutorial2 >}}
-<br />
+//ExLinkCategory: API References
+//ExLink: Scene:https://reference.aspose.com/3d/net/aspose.threed/scene/
+//ExLink: RectangleShape:https://reference.aspose.com/3d/net/aspose.threed.profiles/rectangleshape/
+//ExLink: Transform:https://reference.aspose.com/3d/net/aspose.threed/transform/
+//ExLink: LinearExtrusion:https://reference.aspose.com/3d/net/aspose.threed.entities/linearextrusion/
+//ExLink: Box:https://reference.aspose.com/3d/net/aspose.threed.entities/box/
+//ExLinkCategory: Documents
+//ExLink: Working with Linear Extrusion:https://docs.aspose.com/3d/net/working-with-linear-extrusion/
+{{< /app/3d/tutorial-example >}}
 
-<br />
-<br />
-<div class="code-sample">
-    <ul class="link-list">
-        <li class="link-item"><a href="https://docs.aspose.com/3d/net/installation/">Installation of Aspose.3D</a></li>
-        <li class="link-item"><a href="https://products.aspose.app/3d/editor/">3D Editor</a></li>
-    </ul>
-</div>
+{{% app/3d/tutorial-main summary="You can write code here to use Aspose.3D and run the code in browser to see how it works." %}}
 
-{{< /blocks/products/pf/feature-page-section >}}
+In this tutorial, we will create two box objects and then <a href="https://reference.aspose.com/3d/net/aspose.threed.entities/linearextrusion/">linear extrusion</a> them. We will perform this series of operations by using the center and slices property. Finally, by comparing the box objects in the scene, the differences can be clearly seen.
+
+* [Installation of Aspose.3D](https://docs.aspose.com/3d/net/installation/)
+* [3D Editor](https://products.aspose.app/3d/editor/)
+
+
+{{% /app/3d/tutorial-main %}}
+
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-

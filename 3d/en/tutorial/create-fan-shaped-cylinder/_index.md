@@ -9,18 +9,10 @@ url: /tutorial/create-fan-shaped-cylinder
 
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/feature-page-section h2="Learn How To Create fan-shaped Cylinder" >}}
 
-<p>
-In this tutorial, we will create a fan-shaped cylinder. We complete this operation through the GenerateFanCylinder property. We can clearly see the differences by creating ordinary cylinders for comparison.
-</p>
+{{< app/3d/tutorial-example >}}
 
-<p>
-We'll start by creating a new scene using the <a href="https://www.nuget.org/packages/Aspose.3D">Aspose.3D library</a>. Then we will create a fan-shaped cylinder and a regular cylinder for intuitive comparison.
-</p>
 
-<br />
-{{< app/3d/tutorial2 >}}
 //ExSummary: Please check the following code to find out how to create regular cylinder and fan-shaped cylinder,you can modify the code and run it directly in your browser.
 //ExStepSummary:0: The following code shows how to create a new 3D scene.
 //ExStepImage:0:step-1.png
@@ -66,19 +58,28 @@ scene.RootNode.CreateChildNode(fan).Transform.Translation = new Vector3(2, 0, 0)
 //ExStep:0-
 scene
 //ExEnd
-{{< /app/3d/tutorial2 >}}
-<br />
+//ExLinkCategory: API References
+//ExLink: Scene:https://reference.aspose.com/3d/net/aspose.threed/scene/
+//ExLink: Cylinder:https://reference.aspose.com/3d/net/aspose.threed.entities/cylinder/
+//ExLink: Vector3:https://reference.aspose.com/3d/net/aspose.threed.utilities/vector3/
+//ExLink: Transform:https://reference.aspose.com/3d/net/aspose.threed/transform/
+//ExLink: ThetaLength:https://reference.aspose.com/3d/net/aspose.threed.entities/cylinder/thetalength/
+//ExLinkCategory: Documents
+//ExLink: Working with Cylinder:https://docs.aspose.com/3d/net/working-with-cylinder/
+{{< /app/3d/tutorial-example >}}
 
-<br />
-<br />
-<div class="code-sample">
-    <ul class="link-list">
-        <li class="link-item"><a href="https://docs.aspose.com/3d/net/installation/">Installation of Aspose.3D</a></li>
-        <li class="link-item"><a href="https://products.aspose.app/3d/editor/">3D Editor</a></li>
-    </ul>
-</div>
+{{% app/3d/tutorial-main summary="You can write code here to use Aspose.3D and run the code in browser to see how it works." %}}
 
-{{< /blocks/products/pf/feature-page-section >}}
+In this tutorial, we will create a fan-shaped cylinder. We complete this operation through the GenerateFanCylinder property. We can clearly see the differences by creating ordinary cylinders for comparison.
+
+We'll start by creating a new scene using the <a href="https://www.nuget.org/packages/Aspose.3D">Aspose.3D library</a>. Then we will create a fan-shaped cylinder and a regular cylinder for intuitive comparison.
+
+* [Installation of Aspose.3D](https://docs.aspose.com/3d/net/installation/)
+* [3D Editor](https://products.aspose.app/3d/editor/)
+
+
+{{% /app/3d/tutorial-main %}}
+
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 

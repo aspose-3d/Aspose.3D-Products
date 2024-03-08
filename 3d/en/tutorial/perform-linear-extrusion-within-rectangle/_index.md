@@ -9,14 +9,10 @@ url: /tutorial/perform-linear-extrusion-within-rectangle
 
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/feature-page-section h2="Learn How To Perform Linear Extrusion Within A Rectangle" >}}
 
-<p>
-In this tutorial, we will create two rectangles in the scene. We will apply <a href="https://reference.aspose.com/3d/net/aspose.threed.entities/linearextrusion/">linear extrusion</a> with distortion and slicing attributes to one of the rectangles using the left-side node. For the other rectangle, we will apply linear extrusion with distortion, slicing, and directional attributes using the right-side node. By comparing them, we can clearly observe the differences between the different attributes.
-</p>
+{{< app/3d/tutorial-example >}}
 
-<br />
-{{< app/3d/tutorial >}}
+
 //ExSummary: Please check the following code to find out how to perform linear extrusion within a rectangle, you can modify the code and run it directly in your browser.
 //ExStepSummary:0: The following code shows how to create a new 3D scene and create node locations.
 //ExStepImage:0:step-1.png
@@ -60,21 +56,27 @@ right.CreateChildNode(new LinearExtrusion(profile, 7) { Twist = 360, Slices = 10
 //ExStep:0-
 scene
 //ExEnd
-{{< /app/3d/tutorial >}}
-<br />
+//ExLinkCategory: API References
+//ExLink: Scene:https://reference.aspose.com/3d/net/aspose.threed/scene/
+//ExLink: RectangleShape:https://reference.aspose.com/3d/net/aspose.threed.profiles/rectangleshape/
+//ExLink: Transform:https://reference.aspose.com/3d/net/aspose.threed/transform/
+//ExLink: LinearExtrusion:https://reference.aspose.com/3d/net/aspose.threed.entities/linearextrusion/
+//ExLink: Vector3:https://reference.aspose.com/3d/net/aspose.threed.utilities/vector3/
+//ExLinkCategory: Documents
+//ExLink: Working with Linear Extrusion:https://docs.aspose.com/3d/net/working-with-linear-extrusion/
+{{< /app/3d/tutorial-example >}}
 
-<br />
-<br />
-<div class="code-sample">
-    <ul class="link-list">
-        <li class="link-item"><a href="https://docs.aspose.com/3d/net/installation/">Installation of Aspose.3D</a></li>
-        <li class="link-item"><a href="https://products.aspose.app/3d/editor/">3D Editor</a></li>
-    </ul>
-</div>
+{{% app/3d/tutorial-main summary="You can write code here to use Aspose.3D and run the code in browser to see how it works." %}}
 
-{{< /blocks/products/pf/feature-page-section >}}
+In this tutorial, we will create two rectangles in the scene. We will apply <a href="https://reference.aspose.com/3d/net/aspose.threed.entities/linearextrusion/">linear extrusion</a> with distortion and slicing attributes to one of the rectangles using the left-side node. For the other rectangle, we will apply linear extrusion with distortion, slicing, and directional attributes using the right-side node. By comparing them, we can clearly observe the differences between the different attributes.
+
+* [Installation of Aspose.3D](https://docs.aspose.com/3d/net/installation/)
+* [3D Editor](https://products.aspose.app/3d/editor/)
+
+
+{{% /app/3d/tutorial-main %}}
+
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< blocks/products/products-backtop-button >}}
-
