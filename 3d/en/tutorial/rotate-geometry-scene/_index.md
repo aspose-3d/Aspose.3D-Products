@@ -61,14 +61,6 @@ cylinder.Transform.Translation = new Vector3(5, 0, 0);
 //ExStep:0-
 scene
 //ExEnd
-//ExLinkCategory: API References
-//ExLink: Scene:https://reference.aspose.com/3d/net/aspose.threed/scene/
-//ExLink: Quaternion:https://reference.aspose.com/3d/net/aspose.threed.utilities/quaternion/
-//ExLink: Cylinder:https://reference.aspose.com/3d/net/aspose.threed.entities/cylinder/
-//ExLink: Vector3:https://reference.aspose.com/3d/net/aspose.threed.utilities/vector3/
-//ExLink: Transform:https://reference.aspose.com/3d/net/aspose.threed/transform/
-//ExLinkCategory: Documents
-//ExLink: Concatenate Quaternions and apply on 3D entities:https://docs.aspose.com/3d/net/concatenate-quaternions-and-apply-on-3d-entities/
 {{< /app/3d/tutorial-example >}}
 
 {{% app/3d/tutorial-main summary="You can write code here to use Aspose.3D and run the code in browser to see how it works." %}}
@@ -77,7 +69,12 @@ In this tutorial, we will create and connect quaternions. We will create multipl
 
 * [Installation of Aspose.3D](https://docs.aspose.com/3d/net/installation/)
 * [3D Editor](https://products.aspose.app/3d/editor/)
-
+* [Concatenate Quaternions and apply on 3D entities](https://docs.aspose.com/3d/net/concatenate-quaternions-and-apply-on-3d-entities/)
+* [API Transform](https://reference.aspose.com/3d/net/aspose.threed/transform/)
+* [API Vector3](https://reference.aspose.com/3d/net/aspose.threed.utilities/vector3/)
+* [API Cylinder](https://reference.aspose.com/3d/net/aspose.threed.entities/cylinder/)
+* [API Quaternion](https://reference.aspose.com/3d/net/aspose.threed.utilities/quaternion/)
+* [API Scene](https://reference.aspose.com/3d/net/aspose.threed/scene/)
 
 {{% /app/3d/tutorial-main %}}
 

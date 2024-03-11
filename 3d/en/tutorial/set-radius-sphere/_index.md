@@ -40,14 +40,6 @@ scene.RootNode.CreateChildNode(new Sphere() { Radius = 1.5 }).Transform.Translat
 //ExStep:0-
 scene
 //ExEnd
-//ExLinkCategory: API References
-//ExLink: Scene:https://reference.aspose.com/3d/net/aspose.threed/scene/
-//ExLink: Sphere:https://reference.aspose.com/3d/net/aspose.threed.entities/sphere/
-//ExLink: Radius:https://reference.aspose.com/3d/net/aspose.threed.entities/sphere/radius/
-//ExLink: Vector3:https://reference.aspose.com/3d/net/aspose.threed.utilities/vector3/
-//ExLink: Transform:https://reference.aspose.com/3d/net/aspose.threed/transform/
-//ExLinkCategory: Documents
-//ExLink: Working with Radius of Sphere:https://docs.aspose.com/3d/net/working-with-radius-of-sphere/
 {{< /app/3d/tutorial-example >}}
 
 {{% app/3d/tutorial-main summary="You can write code here to use Aspose.3D and run the code in browser to see how it works." %}}
@@ -58,7 +50,12 @@ We'll start by creating a new scene using the <a href="https://www.nuget.org/pac
 
 * [Installation of Aspose.3D](https://docs.aspose.com/3d/net/installation/)
 * [3D Editor](https://products.aspose.app/3d/editor/)
-
+* [Working with Radius of Sphere](https://docs.aspose.com/3d/net/working-with-radius-of-sphere/)
+* [API Transform](https://reference.aspose.com/3d/net/aspose.threed/transform/)
+* [API Vector3](https://reference.aspose.com/3d/net/aspose.threed.utilities/vector3/)
+* [API Radius](https://reference.aspose.com/3d/net/aspose.threed.entities/sphere/radius/)
+* [API Sphere](https://reference.aspose.com/3d/net/aspose.threed.entities/sphere/)
+* [API Scene](https://reference.aspose.com/3d/net/aspose.threed/scene/)
 
 {{% /app/3d/tutorial-main %}}
 

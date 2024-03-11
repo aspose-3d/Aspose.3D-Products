@@ -46,13 +46,6 @@ tr.EulerAngles = new Vector3(10, 17, 0);
 tr = scene.RootNode.CreateChildNode(box).Transform;
 scene
 //ExEnd
-//ExLinkCategory: API References
-//ExLink: Scene:https://reference.aspose.com/3d/net/aspose.threed/scene/
-//ExLink: Vector3:https://reference.aspose.com/3d/net/aspose.threed.utilities/vector3/
-//ExLink: Box:https://reference.aspose.com/3d/net/aspose.threed.entities/box/
-//ExLink: Transform:https://reference.aspose.com/3d/net/aspose.threed/transform/
-//ExLinkCategory: Documents
-//ExLink: Scale geometries of a 3D Scene:https://docs.aspose.com/3d/net/scale-geometries-of-a-3d-scene/
 {{< /app/3d/tutorial-example >}}
 
 {{% app/3d/tutorial-main summary="You can write code here to use Aspose.3D and run the code in browser to see how it works." %}}
@@ -63,7 +56,11 @@ We'll start by creating a new scene using the <a href="https://www.nuget.org/pac
 
 * [Installation of Aspose.3D](https://docs.aspose.com/3d/net/installation/)
 * [3D Editor](https://products.aspose.app/3d/editor/)
-
+* [Scale geometries of a 3D Scene](https://docs.aspose.com/3d/net/scale-geometries-of-a-3d-scene/)
+* [API Transform](https://reference.aspose.com/3d/net/aspose.threed/transform/)
+* [API Box](https://reference.aspose.com/3d/net/aspose.threed.entities/box/)
+* [API Vector3](https://reference.aspose.com/3d/net/aspose.threed.utilities/vector3/)
+* [API Scene](https://reference.aspose.com/3d/net/aspose.threed/scene/)
 
 {{% /app/3d/tutorial-main %}}
 
