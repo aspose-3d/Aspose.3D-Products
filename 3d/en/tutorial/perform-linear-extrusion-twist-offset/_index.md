@@ -56,14 +56,6 @@ right.CreateChildNode(new LinearExtrusion(profile, 7) { Twist = 360, Slices = 10
 //ExStep:0-
 scene
 //ExEnd
-//ExLinkCategory: API References
-//ExLink: Scene:https://reference.aspose.com/3d/net/aspose.threed/scene/
-//ExLink: RectangleShape:https://reference.aspose.com/3d/net/aspose.threed.profiles/rectangleshape/
-//ExLink: Transform:https://reference.aspose.com/3d/net/aspose.threed/transform/
-//ExLink: LinearExtrusion:https://reference.aspose.com/3d/net/aspose.threed.entities/linearextrusion/
-//ExLink: Vector3:https://reference.aspose.com/3d/net/aspose.threed.utilities/vector3/
-//ExLinkCategory: Documents
-//ExLink: Working with Linear Extrusion:https://docs.aspose.com/3d/net/working-with-linear-extrusion/
 {{< /app/3d/tutorial-example >}}
 
 {{% app/3d/tutorial-main summary="You can write code here to use Aspose.3D and run the code in browser to see how it works." %}}
@@ -72,7 +64,12 @@ In this tutorial, we will create two rectangles in the scene. We will apply a <a
 
 * [Installation of Aspose.3D](https://docs.aspose.com/3d/net/installation/)
 * [3D Editor](https://products.aspose.app/3d/editor/)
-
+* [Working with Linear Extrusion](https://docs.aspose.com/3d/net/working-with-linear-extrusion/)
+* [API Vector3](https://reference.aspose.com/3d/net/aspose.threed.utilities/vector3/)
+* [API LinearExtrusion](https://reference.aspose.com/3d/net/aspose.threed.entities/linearextrusion/)
+* [API Transform](https://reference.aspose.com/3d/net/aspose.threed/transform/)
+* [API RectangleShape](https://reference.aspose.com/3d/net/aspose.threed.profiles/rectangleshape/)
+* [API Scene](https://reference.aspose.com/3d/net/aspose.threed/scene/)
 
 {{% /app/3d/tutorial-main %}}
 

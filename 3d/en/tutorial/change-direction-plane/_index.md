@@ -41,13 +41,6 @@ plane.Up = new Vector3(2, 2, 3);
 //ExStep:0-
 scene
 //ExEnd
-//ExLinkCategory: API References
-//ExLink: Scene:https://reference.aspose.com/3d/net/aspose.threed/scene/
-//ExLink: Vector3:https://reference.aspose.com/3d/net/aspose.threed.utilities/vector3/
-//ExLink: Plane:https://reference.aspose.com/3d/net/aspose.threed.entities/plane/
-//ExLink: Up:https://reference.aspose.com/3d/net/aspose.threed.entities/plane/up/
-//ExLinkCategory: Documents
-//ExLink: Changing Plane Orientation:https://docs.aspose.com/3d/net/changing-plane-orientation/
 {{< /app/3d/tutorial-example >}}
 
 {{% app/3d/tutorial-main summary="You can write code here to use Aspose.3D and run the code in browser to see how it works." %}}
@@ -56,7 +49,11 @@ In this tutorial, we will start by using the <a href="https://www.nuget.org/pack
 
 * [Installation of Aspose.3D](https://docs.aspose.com/3d/net/installation/)
 * [3D Editor](https://products.aspose.app/3d/editor/)
-
+* [Changing Plane Orientation](https://docs.aspose.com/3d/net/changing-plane-orientation/)
+* [API Up](https://reference.aspose.com/3d/net/aspose.threed.entities/plane/up/)
+* [API Plane](https://reference.aspose.com/3d/net/aspose.threed.entities/plane/)
+* [API Vector3](https://reference.aspose.com/3d/net/aspose.threed.utilities/vector3/)
+* [API Scene](https://reference.aspose.com/3d/net/aspose.threed/scene/)
 
 {{% /app/3d/tutorial-main %}}
 

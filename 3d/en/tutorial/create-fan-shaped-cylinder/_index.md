@@ -58,14 +58,6 @@ scene.RootNode.CreateChildNode(fan).Transform.Translation = new Vector3(2, 0, 0)
 //ExStep:0-
 scene
 //ExEnd
-//ExLinkCategory: API References
-//ExLink: Scene:https://reference.aspose.com/3d/net/aspose.threed/scene/
-//ExLink: Cylinder:https://reference.aspose.com/3d/net/aspose.threed.entities/cylinder/
-//ExLink: Vector3:https://reference.aspose.com/3d/net/aspose.threed.utilities/vector3/
-//ExLink: Transform:https://reference.aspose.com/3d/net/aspose.threed/transform/
-//ExLink: ThetaLength:https://reference.aspose.com/3d/net/aspose.threed.entities/cylinder/thetalength/
-//ExLinkCategory: Documents
-//ExLink: Working with Cylinder:https://docs.aspose.com/3d/net/working-with-cylinder/
 {{< /app/3d/tutorial-example >}}
 
 {{% app/3d/tutorial-main summary="You can write code here to use Aspose.3D and run the code in browser to see how it works." %}}
@@ -76,7 +68,12 @@ We'll start by creating a new scene using the <a href="https://www.nuget.org/pac
 
 * [Installation of Aspose.3D](https://docs.aspose.com/3d/net/installation/)
 * [3D Editor](https://products.aspose.app/3d/editor/)
-
+* [Working with Cylinder](https://docs.aspose.com/3d/net/working-with-cylinder/)
+* [API ThetaLength](https://reference.aspose.com/3d/net/aspose.threed.entities/cylinder/thetalength/)
+* [API Transform](https://reference.aspose.com/3d/net/aspose.threed/transform/)
+* [API Vector3](https://reference.aspose.com/3d/net/aspose.threed.utilities/vector3/)
+* [API Cylinder](https://reference.aspose.com/3d/net/aspose.threed.entities/cylinder/)
+* [API Scene](https://reference.aspose.com/3d/net/aspose.threed/scene/)
 
 {{% /app/3d/tutorial-main %}}
 
