@@ -9,18 +9,10 @@ url: /tutorial/transform-nodes-transformation-matrix
 
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/feature-page-section h2="Learn How To Transform Nodes Using A Transformation Matrix" >}}
 
-<p>
-In this tutorial, we'll learn how to transform nodes using a transformation matrix.
-</p>
+{{< app/3d/tutorial-example >}}
 
-<p>
-We will use the Torus class to initialize the <a href="https://reference.aspose.com/3d/net/aspose.threed.entities/imeshconvertible/">IMeshConvertible</a> object, initialize the node object, and add the torus to the scene. We use the TransformMatrix method to transform one of the torus, and we can clearly see the changes.
-</p>
 
-<br />
-{{< app/3d/tutorial >}}
 //ExSummary: Please review the following code that demonstrates how to transform nodes using a transformation matrix. You can make changes to the code and run it directly in your browser.
 //ExStepSummary:0: The following code shows how to create a new 3D scene and initialize an IMeshConvertible object.
 //ExStepImage:0:step-1.png
@@ -81,19 +73,25 @@ scene.RootNode.ChildNodes.Add(cubeNode2);
 //ExStep:0-
 scene
 //ExEnd
-{{< /app/3d/tutorial >}}
-<br />
+{{< /app/3d/tutorial-example >}}
 
-<br />
-<br />
-<div class="code-sample">
-    <ul class="link-list">
-        <li class="link-item"><a href="https://docs.aspose.com/3d/net/installation/">Installation of Aspose.3D</a></li>
-        <li class="link-item"><a href="https://products.aspose.app/3d/editor/">3D Editor</a></li>
-    </ul>
-</div>
+{{% app/3d/tutorial-main summary="You can write code here to use Aspose.3D and run the code in browser to see how it works." %}}
 
-{{< /blocks/products/pf/feature-page-section >}}
+In this tutorial, we'll learn how to transform nodes using a transformation matrix.
+
+We will use the Torus class to initialize the <a href="https://reference.aspose.com/3d/net/aspose.threed.entities/imeshconvertible/">IMeshConvertible</a> object, initialize the node object, and add the torus to the scene. We use the TransformMatrix method to transform one of the torus, and we can clearly see the changes.
+
+* [Installation of Aspose.3D](https://docs.aspose.com/3d/net/installation/)
+* [3D Editor](https://products.aspose.app/3d/editor/)
+* [Custom Transformation Matrix](https://docs.aspose.com/3d/net/adding-transformation-to-the-node/#custom-transformation-matrix)
+* [API Mesh](https://reference.aspose.com/3d/net/aspose.threed.entities/mesh/)
+* [API IMeshConvertible](https://reference.aspose.com/3d/net/aspose.threed.entities/imeshconvertible/)
+* [API Vector3](https://reference.aspose.com/3d/net/aspose.threed.utilities/vector3/)
+* [API Transform](https://reference.aspose.com/3d/net/aspose.threed/transform/)
+* [API Scene](https://reference.aspose.com/3d/net/aspose.threed/scene/)
+
+{{% /app/3d/tutorial-main %}}
+
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 

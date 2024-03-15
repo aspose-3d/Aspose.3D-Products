@@ -9,18 +9,10 @@ url: /tutorial/convert-torus-primitive-mesh
 
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/feature-page-section h2="Learn How To Convert A Torus Primitive To Mesh" >}}
 
-<p>
-In this tutorial,we'll learn how to convert a torus primitive To mesh.
-</p>
+{{< app/3d/tutorial-example >}}
 
-<p>
-We'll create a torus in the scene. We initialize an <a href="https://reference.aspose.com/3d/net/aspose.threed.entities/imeshconvertible/">IMeshConvertible</a> object using the torus class, and then we convert the torus into a mesh using the 'ToMesh' method.Finally, we add the node to the scene.
-</p>
 
-<br />
-{{< app/3d/tutorial >}}
 //ExSummary: Please check the following code to find out how to convert a torus primitive to mesh, you can modify the code and run it directly in your browser.
 //ExStepSummary:0: The following code shows how to create a new 3D scene.
 //ExStepImage:0:step-1.png
@@ -56,19 +48,24 @@ scene.RootNode.ChildNodes.Add(cubeNode);
 //ExStep:0-
 scene
 //ExEnd
-{{< /app/3d/tutorial >}}
-<br />
+{{< /app/3d/tutorial-example >}}
 
-<br />
-<br />
-<div class="code-sample">
-    <ul class="link-list">
-        <li class="link-item"><a href="https://docs.aspose.com/3d/net/installation/">Installation of Aspose.3D</a></li>
-        <li class="link-item"><a href="https://products.aspose.app/3d/editor/">3D Editor</a></li>
-    </ul>
-</div>
+{{% app/3d/tutorial-main summary="You can write code here to use Aspose.3D and run the code in browser to see how it works." %}}
 
-{{< /blocks/products/pf/feature-page-section >}}
+In this tutorial,we'll learn how to convert a torus primitive To mesh.
+
+We'll create a torus in the scene. We initialize an <a href="https://reference.aspose.com/3d/net/aspose.threed.entities/imeshconvertible/">IMeshConvertible</a> object using the torus class, and then we convert the torus into a mesh using the 'ToMesh' method.Finally, we add the node to the scene.
+
+* [Installation of Aspose.3D](https://docs.aspose.com/3d/net/installation/)
+* [3D Editor](https://products.aspose.app/3d/editor/)
+* [Convert the Primitive to a Mesh](https://docs.aspose.com/3d/net/convert-mesh-to-triangle-mesh-and-primitive-shape-to-mesh/#convert-the-primitive-to-a-mesh)
+* [API IMeshConvertible](https://reference.aspose.com/3d/net/aspose.threed.entities/imeshconvertible/)
+* [API Mesh](https://reference.aspose.com/3d/net/aspose.threed.entities/mesh/)
+* [API Torus](https://reference.aspose.com/3d/net/aspose.threed.entities/torus/)
+* [API Scene](https://reference.aspose.com/3d/net/aspose.threed/scene/)
+
+{{% /app/3d/tutorial-main %}}
+
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
