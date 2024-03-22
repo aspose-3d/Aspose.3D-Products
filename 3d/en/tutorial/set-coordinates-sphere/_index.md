@@ -9,18 +9,10 @@ url: /tutorial/set-coordinates-sphere
 
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/feature-page-section h2="Learn How To Set The Coordinates Of A Sphere" >}}
 
-<p>
-In this tutorial, we'll learn how to set the coordinates of a sphere.
-</p>
+{{< app/3d/tutorial-example >}}
 
-<p>
-We'll start by creating a new scene using the <a href="https://www.nuget.org/packages/Aspose.3D">Aspose.3D library</a>.Then we will create two spheres with different radii. We will set the coordinate attributes for one of the spheres, and we can clearly see the differences.
-</p>
 
-<br />
-{{< app/3d/tutorial2 >}}
 //ExSummary: Please check the following code to find out how to set the coordinates of a Sphere, you can modify the code and run it directly in your browser.
 //ExStepSummary:0: The following code shows how to create a new 3D scene.
 //ExStepImage:0:step-1.png
@@ -48,19 +40,25 @@ scene.RootNode.CreateChildNode(new Sphere() { Radius = 1.5,ThetaStart=1,ThetaLen
 //ExStep:0-
 scene
 //ExEnd
-{{< /app/3d/tutorial2 >}}
-<br />
+{{< /app/3d/tutorial-example >}}
 
-<br />
-<br />
-<div class="code-sample">
-    <ul class="link-list">
-        <li class="link-item"><a href="https://docs.aspose.com/3d/net/installation/">Installation of Aspose.3D</a></li>
-        <li class="link-item"><a href="https://products.aspose.app/3d/editor/">3D Editor</a></li>
-    </ul>
-</div>
+{{% app/3d/tutorial-main summary="You can write code here to use Aspose.3D and run the code in browser to see how it works." %}}
 
-{{< /blocks/products/pf/feature-page-section >}}
+In this tutorial, we'll learn how to set the coordinates of a sphere.
+
+We'll start by creating a new scene using the <a href="https://www.nuget.org/packages/Aspose.3D">Aspose.3D library</a>.Then we will create two spheres with different radii. We will set the coordinate attributes for one of the spheres, and we can clearly see the differences.
+
+* [Installation of Aspose.3D](https://docs.aspose.com/3d/net/installation/)
+* [3D Editor](https://products.aspose.app/3d/editor/)
+* [Working with Radius of Sphere](https://docs.aspose.com/3d/net/working-with-radius-of-sphere/)
+* [API Transform](https://reference.aspose.com/3d/net/aspose.threed/transform/)
+* [API PhiLength](https://reference.aspose.com/3d/net/aspose.threed.entities/sphere/philength/)
+* [API Radius](https://reference.aspose.com/3d/net/aspose.threed.entities/sphere/radius/)
+* [API ThetaLength](https://reference.aspose.com/3d/net/aspose.threed.entities/sphere/thetalength/)
+* [API Scene](https://reference.aspose.com/3d/net/aspose.threed/scene/)
+
+{{% /app/3d/tutorial-main %}}
+
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 

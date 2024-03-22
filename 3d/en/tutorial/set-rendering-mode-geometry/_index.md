@@ -9,18 +9,10 @@ url: /tutorial/set-rendering-mode-geometry
 
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/feature-page-section h2="Learn How To Set The Rendering Mode Of Geometry" >}}
 
-<p>
-In this tutorial, we'll learn how to set the rendering mode of geometry.
-</p>
+{{< app/3d/tutorial-example >}}
 
-<p>
-We'll create a cylinder and add a Phong <a href="https://reference.aspose.com/3d/net/aspose.threed.shading/material/">material</a> to it so it changes. We will set the save object PdfSaveOptions. We will set the lighting scheme and rendering mode through the PdfSaveOptions object.
-</p>
 
-<br />
-{{< app/3d/tutorial2 >}}
 //ExSummary: Please review the following code that demonstrates how to set the rendering mode of geometry. You can make changes to the code and run it directly in your browser.
 //ExStepSummary:0: The following code shows how to create a new 3D scene.
 //ExStepImage:0:step-1.png
@@ -60,19 +52,25 @@ opt.RenderMode = PdfRenderMode.ShadedIllustration;
 //ExStep:0-
 scene
 //ExEnd
-{{< /app/3d/tutorial2 >}}
-<br />
+{{< /app/3d/tutorial-example >}}
 
-<br />
-<br />
-<div class="code-sample">
-    <ul class="link-list">
-        <li class="link-item"><a href="https://docs.aspose.com/3d/net/installation/">Installation of Aspose.3D</a></li>
-        <li class="link-item"><a href="https://products.aspose.app/3d/editor/">3D Editor</a></li>
-    </ul>
-</div>
+{{% app/3d/tutorial-main summary="You can write code here to use Aspose.3D and run the code in browser to see how it works." %}}
 
-{{< /blocks/products/pf/feature-page-section >}}
+In this tutorial, we'll learn how to set the rendering mode of geometry.
+
+We'll create a cylinder and add a Phong <a href="https://reference.aspose.com/3d/net/aspose.threed.shading/material/">material</a> to it so it changes. We will set the save object PdfSaveOptions. We will set the lighting scheme and rendering mode through the PdfSaveOptions object.
+
+* [Installation of Aspose.3D](https://docs.aspose.com/3d/net/installation/)
+* [3D Editor](https://products.aspose.app/3d/editor/)
+* [Non-PBR to PBR Material Conversion](https://docs.aspose.com/3d/net/customize-non-pbr-to-pbr-materials-conversion-before-saving-3d-scenes-to-gltf-2-0-format/#non-pbr-to-pbr-material-conversion)
+* [API Vector3](https://reference.aspose.com/3d/net/aspose.threed.utilities/vector3/)
+* [API PhongMaterial](https://reference.aspose.com/3d/net/aspose.threed.shading/phongmaterial/)
+* [API PdfSaveOptions](https://reference.aspose.com/3d/net/aspose.threed.formats/pdfsaveoptions/)
+* [API PdfLightingScheme](https://reference.aspose.com/3d/net/aspose.threed.formats/pdflightingscheme/)
+* [API Scene](https://reference.aspose.com/3d/net/aspose.threed/scene/)
+
+{{% /app/3d/tutorial-main %}}
+
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 

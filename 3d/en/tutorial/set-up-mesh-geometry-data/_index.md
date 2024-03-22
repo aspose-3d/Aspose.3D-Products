@@ -9,18 +9,10 @@ url: /tutorial/set-up-mesh-geometry-data
 
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/feature-page-section h2="Learn How To Set Up Mesh Geometry Data" >}}
 
-<p>
-In this tutorial, we'll learn how to set up mesh geometry data.
-</p>
+{{< app/3d/tutorial-example >}}
 
-<p>
-We will set the data for the color. We initialize an <a href="https://reference.aspose.com/3d/net/aspose.threed.entities/imeshconvertible/">IMeshConvertible</a> object using the Torus class, initialize a node object, and add it to the scene. Finally, we initialize a <a href="https://reference.aspose.com/3d/net/aspose.threed.shading/lambertmaterial/">LambertMaterial</a> object and set the color data. We can clearly see the changes in it.
-</p>
 
-<br />
-{{< app/3d/tutorial >}}
 //ExSummary: Please review the following code that demonstrates how to set up mesh geometry data. You can make changes to the code and run it directly in your browser.
 //ExStepSummary:0: The following code shows how to create a new 3D scene and add color data.
 //ExStepImage:0:step-1.png
@@ -73,19 +65,25 @@ cube.Transform.Translation = new Vector3(2, 0, 0);
 //ExStep:0-
 scene
 //ExEnd
-{{< /app/3d/tutorial >}}
-<br />
+{{< /app/3d/tutorial-example >}}
 
-<br />
-<br />
-<div class="code-sample">
-    <ul class="link-list">
-        <li class="link-item"><a href="https://docs.aspose.com/3d/net/installation/">Installation of Aspose.3D</a></li>
-        <li class="link-item"><a href="https://products.aspose.app/3d/editor/">3D Editor</a></li>
-    </ul>
-</div>
+{{% app/3d/tutorial-main summary="You can write code here to use Aspose.3D and run the code in browser to see how it works." %}}
 
-{{< /blocks/products/pf/feature-page-section >}}
+In this tutorial, we'll learn how to set up mesh geometry data.
+
+We will set the data for the color. We initialize an <a href="https://reference.aspose.com/3d/net/aspose.threed.entities/imeshconvertible/">IMeshConvertible</a> object using the Torus class, initialize a node object, and add it to the scene. Finally, we initialize a <a href="https://reference.aspose.com/3d/net/aspose.threed.shading/lambertmaterial/">LambertMaterial</a> object and set the color data. We can clearly see the changes in it.
+
+* [Installation of Aspose.3D](https://docs.aspose.com/3d/net/installation/)
+* [3D Editor](https://products.aspose.app/3d/editor/)
+* [Share Mesh’s Geometry Data between Multiple Nodes](https://docs.aspose.com/3d/net/add-node-hierarchy-and-share-geometric-data-of-mesh-among-multiple-nodes-of-3d-scene/#share-meshs-geometry-data-between-multiple-nodes)
+* [API IMeshConvertible](https://reference.aspose.com/3d/net/aspose.threed.entities/imeshconvertible/)
+* [API Mesh](https://reference.aspose.com/3d/net/aspose.threed.entities/mesh/)
+* [API LambertMaterial](https://reference.aspose.com/3d/net/aspose.threed.shading/lambertmaterial/)
+* [API Vector3](https://reference.aspose.com/3d/net/aspose.threed.utilities/vector3/)
+* [API Scene](https://reference.aspose.com/3d/net/aspose.threed/scene/)
+
+{{% /app/3d/tutorial-main %}}
+
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
