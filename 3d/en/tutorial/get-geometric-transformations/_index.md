@@ -9,18 +9,10 @@ url: /tutorial/get-geometric-transformations
 
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/feature-page-section h2="Learn How To Get Geometric Transformations" >}}
 
-<p>
-In this tutorial, we'll learn how to get geometric transformations.
-</p>
+{{< app/3d/tutorial-example >}}
 
-<p>
-We'll use the Sphere class to initialize the <a href="https://reference.aspose.com/3d/net/aspose.threed.entities/imeshconvertible/">IMeshConvertible</a> object, initialize the node object, and add the sphere to the scene. We use the GeometricTranslation method to transform the sphere and we can clearly see the change.
-</p>
 
-<br />
-{{< app/3d/tutorial2 >}}
 //ExSummary: Please review the following code that demonstrates how to get geometric transformations. You can make changes to the code and run it directly in your browser.
 //ExStepSummary:0: The following code shows how to create a new 3D scene and initialize an IMeshConvertible object.
 //ExStepImage:0:step-1.png
@@ -60,19 +52,25 @@ n.Transform.GeometricTranslation  = new Vector3(-5, -5, -5);
 //ExStep:0-
 scene
 //ExEnd
-{{< /app/3d/tutorial2 >}}
-<br />
+{{< /app/3d/tutorial-example >}}
 
-<br />
-<br />
-<div class="code-sample">
-    <ul class="link-list">
-        <li class="link-item"><a href="https://docs.aspose.com/3d/net/installation/">Installation of Aspose.3D</a></li>
-        <li class="link-item"><a href="https://products.aspose.app/3d/editor/">3D Editor</a></li>
-    </ul>
-</div>
+{{% app/3d/tutorial-main summary="You can write code here to use Aspose.3D and run the code in browser to see how it works." %}}
 
-{{< /blocks/products/pf/feature-page-section >}}
+In this tutorial, we'll learn how to get geometric transformations.
+
+We'll use the Sphere class to initialize the <a href="https://reference.aspose.com/3d/net/aspose.threed.entities/imeshconvertible/">IMeshConvertible</a> object, initialize the node object, and add the sphere to the scene. We use the GeometricTranslation method to transform the sphere and we can clearly see the change.
+
+* [Installation of Aspose.3D](https://docs.aspose.com/3d/net/installation/)
+* [3D Editor](https://products.aspose.app/3d/editor/)
+* [Expose Geometric Transformation](https://docs.aspose.com/3d/net/expose-geometric-transformation/)
+* [API IMeshConvertible](https://reference.aspose.com/3d/net/aspose.threed.entities/imeshconvertible/)
+* [API Mesh](https://reference.aspose.com/3d/net/aspose.threed.entities/mesh/)
+* [API Vector3](https://reference.aspose.com/3d/net/aspose.threed.utilities/vector3/)
+* [API Transform](https://reference.aspose.com/3d/net/aspose.threed/transform/)
+* [API Scene](https://reference.aspose.com/3d/net/aspose.threed/scene/)
+
+{{% /app/3d/tutorial-main %}}
+
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
