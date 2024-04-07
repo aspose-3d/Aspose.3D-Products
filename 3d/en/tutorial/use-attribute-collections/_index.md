@@ -9,18 +9,10 @@ url: /tutorial/use-attribute-collections
 
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/feature-page-section h2="Learn How To Use 3D Attribute Collections" >}}
 
-<p>
-In this tutorial, we'll learn how to use 3d attribute collections.
-</p>
+{{< app/3d/tutorial-example >}}
 
-<p>
-We first create a new scene using the <a href="https://www.nuget.org/packages/Aspose.3D">Aspose.3D library</a>, and then create a cylinder in the 3D scene. We create a material object, we use the PropertyCollection object to collect the properties of the material object, and then take out the properties according to the name. We can clearly see the changes in the material.
-</p>
 
-<br />
-{{< app/3d/tutorial2 >}}
 //ExSummary: Please check the following code to find out how to use 3d attribute collections, you can modify the code and run it directly in your browser.
 //ExStepSummary:0: The following code shows how to create a new 3D scene.
 //ExStepImage:0:step-1.png
@@ -62,19 +54,24 @@ props["Material"] = material;
 //ExStep:0-
 scene
 //ExEnd
-{{< /app/3d/tutorial2 >}}
-<br />
+{{< /app/3d/tutorial-example >}}
 
-<br />
-<br />
-<div class="code-sample">
-    <ul class="link-list">
-        <li class="link-item"><a href="https://docs.aspose.com/3d/net/installation/">Installation of Aspose.3D</a></li>
-        <li class="link-item"><a href="https://products.aspose.app/3d/editor/">3D Editor</a></li>
-    </ul>
-</div>
+{{% app/3d/tutorial-main summary="You can write code here to use Aspose.3D and run the code in browser to see how it works." %}}
 
-{{< /blocks/products/pf/feature-page-section >}}
+In this tutorial, we'll learn how to use 3d attribute collections.
+
+We first create a new scene using the <a href="https://www.nuget.org/packages/Aspose.3D">Aspose.3D library</a>, and then create a cylinder in the 3D scene. We create a material object, we use the PropertyCollection object to collect the properties of the material object, and then take out the properties according to the name. We can clearly see the changes in the material.
+
+* [Installation of Aspose.3D](https://docs.aspose.com/3d/net/installation/)
+* [3D Editor](https://products.aspose.app/3d/editor/)
+* [API PbrMaterial](https://reference.aspose.com/3d/net/aspose.threed.shading/pbrmaterial/)
+* [API PropertyCollection](https://reference.aspose.com/3d/net/aspose.threed/propertycollection/)
+* [API Vector3](https://reference.aspose.com/3d/net/aspose.threed.utilities/vector3/)
+* [API Cylinder](https://reference.aspose.com/3d/net/aspose.threed.entities/cylinder/)
+* [API Scene](https://reference.aspose.com/3d/net/aspose.threed/scene/)
+
+{{% /app/3d/tutorial-main %}}
+
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
