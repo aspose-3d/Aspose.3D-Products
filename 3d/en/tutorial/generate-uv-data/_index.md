@@ -9,18 +9,10 @@ url: /tutorial/generate-uv-data
 
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/feature-page-section h2="Learn How To Generate Uv Data" >}}
 
-<p>
-In this tutorial, we'll learn how to generate uv data.
-</p>
+{{< app/3d/tutorial-example >}}
 
-<p>
-We will create a pyramid and place it in the scene. We will manually delete the <a href="https://reference.aspose.com/3d/net/aspose.threed.entities/vertexelementtype/">uv</a> data, and then we will manually generate uv data for it. The generated uv data is not associated with the mesh, we should manually add to the mesh.
-</p>
 
-<br />
-{{< app/3d/tutorial2 >}}
 //ExSummary: Please review the following code that demonstrates how to generate uv data. You can make changes to the code and run it directly in your browser.
 //ExStepSummary:0: The following code shows how to create a new 3D scene.
 //ExStepImage:0:step-1.png
@@ -58,19 +50,25 @@ mesh.AddElement(uv);
 //ExStep:0-
 scene
 //ExEnd
-{{< /app/3d/tutorial2 >}}
-<br />
+{{< /app/3d/tutorial-example >}}
 
-<br />
-<br />
-<div class="code-sample">
-    <ul class="link-list">
-        <li class="link-item"><a href="https://docs.aspose.com/3d/net/installation/">Installation of Aspose.3D</a></li>
-        <li class="link-item"><a href="https://products.aspose.app/3d/editor/">3D Editor</a></li>
-    </ul>
-</div>
+{{% app/3d/tutorial-main summary="You can write code here to use Aspose.3D and run the code in browser to see how it works." %}}
 
-{{< /blocks/products/pf/feature-page-section >}}
+In this tutorial, we'll learn how to generate uv data.
+
+We will create a pyramid and place it in the scene. We will manually delete the <a href="https://reference.aspose.com/3d/net/aspose.threed.entities/vertexelementtype/">uv</a> data, and then we will manually generate uv data for it. The generated uv data is not associated with the mesh, we should manually add to the mesh.
+
+* [Installation of Aspose.3D](https://docs.aspose.com/3d/net/installation/)
+* [3D Editor](https://products.aspose.app/3d/editor/)
+* [Generate UV](https://docs.aspose.com/3d/net/generate-uv/)
+* [API Pyramid](https://reference.aspose.com/3d/net/aspose.threed.entities/pyramid/)
+* [API Transform](https://reference.aspose.com/3d/net/aspose.threed/transform/)
+* [API Vector3](https://reference.aspose.com/3d/net/aspose.threed.utilities/vector3/)
+* [API PolygonModifier](https://reference.aspose.com/3d/net/aspose.threed.entities/polygonmodifier/)
+* [API Scene](https://reference.aspose.com/3d/net/aspose.threed/scene/)
+
+{{% /app/3d/tutorial-main %}}
+
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}
 
