@@ -54,9 +54,13 @@ scene
 
 {{% app/3d/tutorial-main summary="You can write code here to use Aspose.3D and run the code in browser to see how it works." %}}
 
-In this tutorial, we'll learn how to use Boolean operation to model complex geometry.
+Aspose.3D is a powerful library for working with 3D models in various formats, providing developers with extensive features to manipulate, create, and render 3D scenes. This document outlines one of the notable features of Aspose.3D as demonstrated by the provided code snippet.
+
+The following code snippet demonstrates how to create a scene containing two meshes without using Boolean operations, and then merge them into a single manifold mesh using the | operator:
 
 We'll start by creating two overlapped meshes, then we merge two meshes using our operator `|` overload, finally we'll render this to your browser. 
+
+Aspose.3D provides developers with the capability to create complex 3D scenes and manipulate meshes efficiently. The ability to merge meshes without using Boolean operations offers flexibility and ease of use, particularly in scenarios such as 3D printing where manifold meshes are required. This feature enhances the capabilities of Aspose.3D, making it a valuable tool for 3D graphics development and manipulation.
 
 * [Installation of Aspose.3D](https://docs.aspose.com/3d/net/installation/)
 * [3D Editor](https://products.aspose.app/3d/editor/)
