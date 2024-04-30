@@ -91,7 +91,7 @@ A JPEG is a type of image format that is saved using the method of lossy compres
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="3ds" readMoreLink="https://docs.fileformat.com/3d/3ds/" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="3DS" readMoreLink="https://docs.fileformat.com/3d/3ds/" >}}
 A file with 3DS extension represents 3D Studio (DOS) mesh file format used by Autodesk 3D Studio. Autodesk 3D Studio has been in 3D file format market since 1990s and has now evolved to 3D Studio MAX for working with 3D modeling, animation and rendering. A 3DS file contains data for 3D representation of scenes and images and is one of the popular file formats for 3D data import and export. It considers information like camera locations, Mesh data, lighting information, viewport configurations, smoothing group data, bitmap references and attributes to create vertices and polygons for rendering a scene.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
