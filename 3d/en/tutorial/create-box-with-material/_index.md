@@ -25,6 +25,7 @@ url: /tutorial/create-box-with-material
 using Aspose.ThreeD;
 using Aspose.ThreeD.Entities;
 using Aspose.ThreeD.Shading;
+using Aspose.ThreeD.Utilities;
 
 //Create a new 3D scene
 Scene scene = new Scene();
@@ -39,6 +40,8 @@ PbrMaterial mat = new PbrMaterial();
 
 // an almost metal material
 mat.MetallicFactor = 0.9;
+
+mat.Albedo = new Vector3(0.3, 0.8, 0.8);
 
 // material surface is very rough
 mat.RoughnessFactor = 0.4;

@@ -120,7 +120,7 @@ So, whether you're a designer, developer, or just someone who needs to work with
 * [Learn how to get geometric scaling and rotation](get-geometric-scaling-rotation)
 * [Learn how to set the coordinates of a sphere](set-coordinates-sphere)
 * [Learn how to change the plane size](change-plane-size)
-* [Learn how to use 3d attribute collections](use-attribute-collections)
+* [Learn how to use property collections](use-property-collections)
 * [Learn how to create box with material](create-box-with-material)
 * [Learn how to generate uv data](generate-uv-data)
 * [Learn how to use phong material to pbr material](use-phong-material-to-pbr-material)

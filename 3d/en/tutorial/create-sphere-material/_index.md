@@ -31,18 +31,26 @@ using Aspose.ThreeD.Shading;
 Scene scene = new Scene();
 
 //Create a sphere without material.
-var sphere=scene.RootNode.CreateChildNode("sphere", new Sphere());
+var sphere=scene.RootNode.CreateChildNode("sphere", new Sphere(2, 70, 20));
 sphere.Transform.Translation = new Vector3(-4, 0, 0);
 
 //ExStep:1-
 //Add Phong material to the sphere.
-sphere.Material = new PhongMaterial();
+sphere.Material = new PhongMaterial()
+{
+  DiffuseColor = new Vector3(0, 1, 0)
+};
 
 //ExStep:2-
 //Add another sphere with a PBR material.
-var sphere1=scene.RootNode.CreateChildNode("sphere1", new Sphere());
+var sphere1=scene.RootNode.CreateChildNode("sphere1", new Sphere(2, 70, 20));
 sphere1.Transform.Translation = new Vector3(2, 0, 0);
-sphere1.Material = new PbrMaterial();
+sphere1.Material = new PbrMaterial()
+{
+    Albedo = new Vector3(1, 0, 0),
+    RoughnessFactor = 0.6,
+    MetallicFactor = 0.3
+};
 
 //ExStep:0-
 scene
