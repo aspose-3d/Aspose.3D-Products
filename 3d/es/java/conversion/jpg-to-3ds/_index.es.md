@@ -122,7 +122,7 @@ Un archivo con extensión 3DS representa el formato de archivo de malla 3D Studi
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Otras conversiones admitidas" subTitle="También puede convertir JPG a muchos otros formatos de archivo, incluidos algunos de los que se enumeran a continuación." >}}
+<!-- {{< blocks/products/pf/agp/other-supported-section title="Otras conversiones admitidas" subTitle="También puede convertir JPG a muchos otros formatos de archivo, incluidos algunos de los que se enumeran a continuación." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jpg-to-amf/" name="JPG A AMF" description="Archivo de fabricación aditiva" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jpg-to-dae/" name="JPG A DAE" description="Formato de archivo de intercambio de activos digitales" >}}
@@ -133,7 +133,7 @@ Un archivo con extensión 3DS representa el formato de archivo de malla 3D Studi
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jpg-to-ply/" name="JPG A PLY" description="Formato de archivo de polígono" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jpg-to-rvm/" name="JPG A RVM" description="RVM formato de archivo" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jpg-to-stl/" name="JPG A STL" description="Estereolitografía" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jpg-to-u3d/" name="JPG A U3D" description="Universal 3D formato de archivo" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jpg-to-u3d/" name="JPG A U3D" description="Universal 3D formato de archivo" >}} -->
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -78,7 +78,7 @@ document.Save("output.fbx", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="Aplikasi Gratis untuk Mengonversi ATT ke FBX" sectionDescription="Periksa demo langsung kami untuk [ATT menjadi FBX konversi](https://products.aspose.app/3d/conversion/att-to-fbx) dengan manfaat sebagai berikut." >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="Aplikasi Gratis untuk Mengonversi ATT ke FBX" sectionDescription="Periksa demo langsung kami untuk [ATT menjadi FBX konversi](https://products.aspose.app/3d/conversion) dengan manfaat sebagai berikut." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Tidak perlu mengunduh atau mengatur apa pun." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Tidak perlu menulis kode apa pun." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Cukup unggah file ATT Anda dan tekan tombol \"Konversi\"." >}}
@@ -94,8 +94,8 @@ document.Save("output.fbx", options);
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ATT" readMoreLink="/{{att_url}}" >}}
-{{att}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ATT" readMoreLink="#" >}}
+
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

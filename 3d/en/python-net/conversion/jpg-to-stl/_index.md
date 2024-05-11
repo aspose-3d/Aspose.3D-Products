@@ -102,7 +102,7 @@ STL, abbreviation for stereolithrography, is an interchangeable file format that
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert JPG into many other file formats including few listed below." >}}
+<!-- {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert JPG into many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/python-net/conversion/jpg-to-amf/" name="JPG TO AMF" description="Additive Manufacturing Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/python-net/conversion/jpg-to-dae/" name="JPG TO DAE" description="Digital Asset Exchange" >}}
@@ -112,7 +112,7 @@ STL, abbreviation for stereolithrography, is an interchangeable file format that
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/python-net/conversion/jpg-to-pdf/" name="JPG TO PDF" description="Portable Document Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/python-net/conversion/jpg-to-ply/" name="JPG TO PLY" description="Polygon File Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/python-net/conversion/jpg-to-rvm/" name="JPG TO RVM" description="AVEVA Plant Design Model" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/python-net/conversion/jpg-to-u3d/" name="JPG TO U3D" description="Universal 3D" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/python-net/conversion/jpg-to-u3d/" name="JPG TO U3D" description="Universal 3D" >}} -->
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

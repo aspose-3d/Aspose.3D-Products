@@ -102,8 +102,8 @@ Aspose.3D, 3D dosyalarını yüklemek, değiştirmek ve dönüştürmek için ku
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Sadece DRC dosyasını yükleyin ve \"Görüntüle\" düğmesine basın" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Gerekirse bağlantıdan DRC dosyasını indirin" >}}
 
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="DRC" readMoreLink="/{{drc_url}}" >}}
-{{drc}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="DRC" readMoreLink="https://docs.fileformat.com/3d/drc/" >}}
+.drc uzantılı bir dosya, Google Draco kitaplığıyla oluşturulan sıkıştırılmış bir 3D dosya biçimidir. Google, 3B geometrik ağları ve nokta bulutlarını sıkıştırmak ve açmak için Draco'yu açık kaynak kitaplık olarak sunar ve 3B grafiklerin depolanmasını ve aktarımını geliştirir. Giriş verilerini kodlar ve .drc dosyası olarak kaydeder. Alıcı uçta API, .drc dosyalarını okur ve bunları PLY veya OBJ dosyaları olarak çıkarabilir. Sıkıştırılmış çıktı dosyası, kullanıcıların uygulamaları daha hızlı indirmesine olanak tanır ve 3D grafiklerin tarayıcılara hızlı yüklenmesini sağlar.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

@@ -102,8 +102,8 @@ Aspose.3D 是用于加载、修改和转换 3D 文件的 CAD 和游戏软件 API
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" 只需上传 DRC 文件并点击“查看”按钮" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" 如果需要，从链接下载 DRC 文件" >}}
 
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="DRC" readMoreLink="/{{drc_url}}" >}}
-{{drc}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="DRC" readMoreLink="https://docs.fileformat.com/3d/drc/" >}}
+扩展名为 .drc 的文件是使用 Google Draco 库创建的压缩 3D 文件格式。 Google 提供 Draco 作为开源库，用于压缩和解压缩 3D 几何网格和点云，并改进 3D 图形的存储和传输。 它对输入数据进行编码并将其保存为 .drc 文件。 在接收端，API 读取 .drc 文件并将其输出为 PLY 或 OBJ 文件。 压缩的输出文件使用户能够更快地下载应用程序并在浏览器中快速加载 3D 图形。
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

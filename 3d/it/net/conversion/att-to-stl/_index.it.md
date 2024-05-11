@@ -78,7 +78,7 @@ document.Save("output.stl", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="App gratuita per convertire ATT in STL" sectionDescription="Controlla le nostre demo dal vivo per [conversione da ATT a STL](https://products.aspose.app/3d/conversion/att-to-stl) con i seguenti vantaggi." >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="App gratuita per convertire ATT in STL" sectionDescription="Controlla le nostre demo dal vivo per [conversione da ATT a STL](https://products.aspose.app/3d/conversion) con i seguenti vantaggi." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Non è necessario scaricare o configurare nulla." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Non c\'è bisogno di scrivere alcun codice." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Carica il tuo file ATT e premi il pulsante \"Converti\"." >}}
@@ -94,8 +94,8 @@ document.Save("output.stl", options);
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ATT" readMoreLink="/{{att_url}}" >}}
-{{att}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ATT" readMoreLink="#" >}}
+
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

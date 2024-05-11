@@ -78,7 +78,7 @@ document.Save("output.3ds", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="Bezplatná aplikace pro převod ATT na 3DS" sectionDescription="Podívejte se na naše živé ukázky [Konverze ATT na 3DS](https://products.aspose.app/3d/conversion/att-to-3ds) s následujícími výhodami." >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="Bezplatná aplikace pro převod ATT na 3DS" sectionDescription="Podívejte se na naše živé ukázky [Konverze ATT na 3DS](https://products.aspose.app/3d/conversion) s následujícími výhodami." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není potřeba nic stahovat ani nastavovat." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Není třeba psát žádný kód." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Stačí nahrát svůj soubor ATT a stisknout tlačítko „Převést“." >}}
@@ -94,8 +94,8 @@ document.Save("output.3ds", options);
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ATT" readMoreLink="/{{att_url}}" >}}
-{{att}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ATT" readMoreLink="#" >}}
+
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

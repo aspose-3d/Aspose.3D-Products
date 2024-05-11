@@ -78,7 +78,7 @@ document.Save("output.fbx", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="Бесплатное приложение для преобразования ATT в FBX" sectionDescription="Проверьте наши живые демонстрации для [Преобразование ATT в FBX](https://products.aspose.app/3d/conversion/att-to-fbx) со следующими преимуществами." >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="Бесплатное приложение для преобразования ATT в FBX" sectionDescription="Проверьте наши живые демонстрации для [Преобразование ATT в FBX](https://products.aspose.app/3d/conversion) со следующими преимуществами." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Не нужно ничего скачивать или настраивать." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Нет необходимости писать какой-либо код." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Просто загрузите файл ATT и нажмите кнопку \"Конвертировать\"." >}}
@@ -94,8 +94,7 @@ document.Save("output.fbx", options);
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ATT" readMoreLink="/{{att_url}}" >}}
-{{att}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ATT" readMoreLink="#" >}}
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

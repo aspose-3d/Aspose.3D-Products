@@ -78,7 +78,7 @@ document.Save("output.u3d", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="ATT\'i U3D\'e Dönüştürmek için Ücretsiz Uygulama" sectionDescription="için canlı demolarımızı kontrol edin [ATT - U3D dönüşüm](https://products.aspose.app/3d/conversion/att-to-u3d) aşağıdaki faydaları ile." >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="ATT\'i U3D\'e Dönüştürmek için Ücretsiz Uygulama" sectionDescription="için canlı demolarımızı kontrol edin [ATT - U3D dönüşüm](https://products.aspose.app/3d/conversion) aşağıdaki faydaları ile." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Herhangi bir şey indirmenize veya kurmanıza gerek yok." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Herhangi bir kod yazmaya gerek yok." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Sadece ATT dosyanızı yükleyin ve \"Dönüştür\" düğmesine basın." >}}
@@ -94,8 +94,8 @@ document.Save("output.u3d", options);
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ATT" readMoreLink="/{{att_url}}" >}}
-{{att}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ATT" readMoreLink="#" >}}
+
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

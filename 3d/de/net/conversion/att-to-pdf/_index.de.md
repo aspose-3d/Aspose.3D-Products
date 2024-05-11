@@ -78,7 +78,7 @@ document.Save("output.pdf", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="Kostenlose App zum Konvertieren von ATT in PDF" sectionDescription="Sehen Sie sich unsere Live-Demos an [Umwandlung von ATT in PDF](https://products.aspose.app/3d/conversion/att-to-pdf) mit folgenden Vorteilen." >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="Kostenlose App zum Konvertieren von ATT in PDF" sectionDescription="Sehen Sie sich unsere Live-Demos an [Umwandlung von ATT in PDF](https://products.aspose.app/3d/conversion) mit folgenden Vorteilen." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Sie müssen nichts herunterladen oder einrichten." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Es muss kein Code geschrieben werden." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Laden Sie einfach Ihre ATT-Datei hoch und klicken Sie auf die Schaltfläche \"Konvertieren\"." >}}
@@ -94,8 +94,8 @@ document.Save("output.pdf", options);
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ATT" readMoreLink="/{{att_url}}" >}}
-{{att}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ATT" readMoreLink="#" >}}
+
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 
