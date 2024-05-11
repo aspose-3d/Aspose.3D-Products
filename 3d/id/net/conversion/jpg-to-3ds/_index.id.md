@@ -102,7 +102,7 @@ File dengan ekstensi 3DS mewakili format file mesh 3D Studio (DOS) yang digunaka
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Konversi lain yang Didukung" subTitle="Anda juga dapat mengonversi JPG menjadi banyak format file lain termasuk beberapa yang tercantum di bawah ini." >}}
+<!-- {{< blocks/products/pf/agp/other-supported-section title="Konversi lain yang Didukung" subTitle="Anda juga dapat mengonversi JPG menjadi banyak format file lain termasuk beberapa yang tercantum di bawah ini." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/jpg-to-amf/" name="JPG KE AMF" description="Format Manufaktur Aditif" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/jpg-to-dae/" name="JPG HARI INI" description="Pertukaran Aset Digital" >}}
@@ -112,7 +112,7 @@ File dengan ekstensi 3DS mewakili format file mesh 3D Studio (DOS) yang digunaka
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/jpg-to-ply/" name="JPG UNTUK PLY" description="Format File Poligon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/jpg-to-rvm/" name="JPG KE RVM" description="Model Desain Tanaman HAD" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/jpg-to-stl/" name="JPG KE STL" description="Geometri Permukaan 3D yang Dapat Dipertukarkan" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/jpg-to-u3d/" name="JPG KE U3D" description="Universal ZD" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/jpg-to-u3d/" name="JPG KE U3D" description="Universal ZD" >}} -->
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

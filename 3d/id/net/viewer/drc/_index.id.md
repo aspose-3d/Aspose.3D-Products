@@ -102,8 +102,8 @@ Aspose.3D adalah CAD dan Gameware API untuk memuat, memodifikasi, dan mengonvers
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Cukup unggah file DRC dan tekan tombol \"Lihat\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Unduh file DRC dari tautan, jika diperlukan" >}}
 
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="DRC" readMoreLink="/{{drc_url}}" >}}
-{{drc}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="DRC" readMoreLink="https://docs.fileformat.com/3d/drc/" >}}
+File dengan ekstensi .drc adalah format file 3D terkompresi yang dibuat dengan perpustakaan Google Draco. Google menawarkan Draco sebagai perpustakaan sumber terbuka untuk mengompresi dan mendekompresi jerat geometris 3D dan awan titik, serta meningkatkan penyimpanan dan transmisi grafik 3D. Ini mengkodekan data input dan menyimpannya sebagai file .drc. Di pihak penerima, API membaca file .drc dan dapat menampilkannya sebagai file PLY atau OBJ. File keluaran terkompresi memungkinkan pengguna mengunduh aplikasi lebih cepat dan menyediakan pemuatan grafis 3D dengan cepat di browser.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

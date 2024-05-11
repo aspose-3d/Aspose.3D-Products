@@ -78,7 +78,7 @@ document.Save("output.rvm", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="Bezplatná aplikace pro převod ATT na RVM" sectionDescription="Podívejte se na naše živé ukázky [Konverze ATT na RVM](https://products.aspose.app/3d/conversion/att-to-rvm) s následujícími výhodami." >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="Bezplatná aplikace pro převod ATT na RVM" sectionDescription="Podívejte se na naše živé ukázky [Konverze ATT na RVM](https://products.aspose.app/3d/conversion) s následujícími výhodami." >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" Není potřeba nic stahovat ani nastavovat." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" Není třeba psát žádný kód." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Stačí nahrát svůj soubor ATT a stisknout tlačítko „Převést“." >}}
@@ -94,8 +94,8 @@ document.Save("output.rvm", options);
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ATT" readMoreLink="/{{att_url}}" >}}
-{{att}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ATT" readMoreLink="#" >}}
+
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

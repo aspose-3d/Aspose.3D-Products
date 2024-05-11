@@ -120,7 +120,7 @@ Pliki OBJ są używane przez aplikację Advanced Visualizer firmy Wavefront do d
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane konwersje" subTitle="Możesz także konwertować JPG na wiele innych formatów plików, w tym kilka wymienionych poniżej." >}}
+<!-- {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane konwersje" subTitle="Możesz także konwertować JPG na wiele innych formatów plików, w tym kilka wymienionych poniżej." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jpg-to-amf/" name="JPG DO AMF" description="Plik wytwarzania przyrostowego" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jpg-to-dae/" name="JPG DO DAE" description="Format pliku wymiany zasobów cyfrowych" >}}
@@ -130,7 +130,7 @@ Pliki OBJ są używane przez aplikację Advanced Visualizer firmy Wavefront do d
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jpg-to-ply/" name="JPG DO PLY" description="Format pliku wielokąta" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jpg-to-rvm/" name="JPG DO RVM" description="RVM Format pliku" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jpg-to-stl/" name="JPG DO STL" description="Stereolitografia" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jpg-to-u3d/" name="JPG DO U3D" description="Universal 3D Format pliku" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jpg-to-u3d/" name="JPG DO U3D" description="Universal 3D Format pliku" >}} -->
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

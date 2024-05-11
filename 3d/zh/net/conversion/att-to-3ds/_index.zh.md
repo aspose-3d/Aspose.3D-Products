@@ -78,7 +78,7 @@ document.Save("output.3ds", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="将 ATT 转换为 3DS 的免费应用程序" sectionDescription="查看我们的现场演示 [ATT 到 3DS 的转换](https://products.aspose.app/3d/conversion/att-to-3ds) 具有以下好处。" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="将 ATT 转换为 3DS 的免费应用程序" sectionDescription="查看我们的现场演示 [ATT 到 3DS 的转换](https://products.aspose.app/3d/conversion) 具有以下好处。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" 无需下载或设置任何东西。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 无需编写任何代码。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" 只需上传您的 ATT 文件并点击“转换”按钮。" >}}
@@ -94,8 +94,8 @@ document.Save("output.3ds", options);
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ATT" readMoreLink="/{{att_url}}" >}}
-{{att}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ATT" readMoreLink="#" >}}
+
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

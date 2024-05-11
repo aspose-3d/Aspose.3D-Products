@@ -120,7 +120,7 @@ Az STL, a sztereolitrográfia rövidítése, egy felcserélhető fájlformátum,
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott konverziók" subTitle="A JPG-t számos más fájlformátumra is konvertálhatja, beleértve az alábbiakban felsorolt ​​néhányat." >}}
+<!-- {{< blocks/products/pf/agp/other-supported-section title="Egyéb támogatott konverziók" subTitle="A JPG-t számos más fájlformátumra is konvertálhatja, beleértve az alábbiakban felsorolt ​​néhányat." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jpg-to-3ds/" name="JPG - 3DS" description="3D Studio Mesh fájlformátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jpg-to-amf/" name="JPG - AMF" description="Additív gyártási fájl" >}}
@@ -131,7 +131,7 @@ Az STL, a sztereolitrográfia rövidítése, egy felcserélhető fájlformátum,
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jpg-to-obj/" name="JPG - OBJ" description="OBJ fájlformátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jpg-to-ply/" name="JPG - PLY" description="Sokszög fájlformátum" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jpg-to-rvm/" name="JPG - RVM" description="RVM Fájlformátum" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jpg-to-u3d/" name="JPG - U3D" description="Universal 3D Fájlformátum" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jpg-to-u3d/" name="JPG - U3D" description="Universal 3D Fájlformátum" >}} -->
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

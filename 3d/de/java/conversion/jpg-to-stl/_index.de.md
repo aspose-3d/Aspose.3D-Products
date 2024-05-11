@@ -121,7 +121,7 @@ STL, Abkürzung für Stereolithrographie, ist ein austauschbares Dateiformat, da
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Andere unterstützte Konvertierungen" subTitle="Sie können JPG auch in viele andere Dateiformate konvertieren, darunter einige, die unten aufgeführt sind." >}}
+<!-- {{< blocks/products/pf/agp/other-supported-section title="Andere unterstützte Konvertierungen" subTitle="Sie können JPG auch in viele andere Dateiformate konvertieren, darunter einige, die unten aufgeführt sind." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jpg-to-3ds/" name="JPG zu 3DS" description="3D Studio-Mesh-Dateiformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jpg-to-amf/" name="JPG zu AMF" description="Datei für additive Fertigung" >}}
@@ -132,7 +132,7 @@ STL, Abkürzung für Stereolithrographie, ist ein austauschbares Dateiformat, da
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jpg-to-obj/" name="JPG zu OBJ" description="OBJ Dateiformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jpg-to-ply/" name="JPG zu PLY" description="Polygon-Dateiformat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jpg-to-rvm/" name="JPG zu RVM" description="RVM Dateiformat" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jpg-to-u3d/" name="JPG zu U3D" description="Universal 3D Dateiformat" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/java/conversion/jpg-to-u3d/" name="JPG zu U3D" description="Universal 3D Dateiformat" >}} -->
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -102,8 +102,8 @@ Aspose.3Dは、3Dファイルをロード、変更、変換するためのCADお
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" DRCファイルをアップロードして[表示]ボタンを押すだけです" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" 必要に応じて、リンクからDRCファイルをダウンロードします" >}}
 
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="DRC" readMoreLink="/{{drc_url}}" >}}
-{{drc}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="DRC" readMoreLink="https://docs.fileformat.com/3d/drc/" >}}
+.drc 拡張子を持つファイルは、Google Draco ライブラリで作成された圧縮 3D ファイル形式です。 Google は、3D 幾何学的メッシュと点群を圧縮および解凍するためのオープン ソース ライブラリとして Draco を提供し、3D グラフィックスのストレージと送信を改善します。 入力データをエンコードし、.drc ファイルとして保存します。 受信側では、API は .drc ファイルを読み取り、これらを PLY または OBJ ファイルとして出力できます。 圧縮された出力ファイルにより、ユーザーはアプリをより速くダウンロードし、ブラウザーに 3D グラフィックをすばやく読み込むことができます。
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

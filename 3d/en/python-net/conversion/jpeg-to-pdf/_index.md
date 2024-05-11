@@ -103,7 +103,7 @@ Portable Document Format (PDF) is a type of document created by Adobe back in 19
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert JPEG into many other file formats including few listed below." >}}
+<!-- {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert JPEG into many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/python-net/conversion/jpeg-to-amf/" name="JPEG TO AMF" description="Additive Manufacturing Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/python-net/conversion/jpeg-to-dae/" name="JPEG TO DAE" description="Digital Asset Exchange" >}}
@@ -113,7 +113,7 @@ Portable Document Format (PDF) is a type of document created by Adobe back in 19
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/python-net/conversion/jpeg-to-ply/" name="JPEG TO PLY" description="Polygon File Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/python-net/conversion/jpeg-to-rvm/" name="JPEG TO RVM" description="AVEVA Plant Design Model" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/python-net/conversion/jpeg-to-stl/" name="JPEG TO STL" description="Interchangeable 3D Surface Geometry" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/python-net/conversion/jpeg-to-u3d/" name="JPEG TO U3D" description="Universal 3D" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/python-net/conversion/jpeg-to-u3d/" name="JPEG TO U3D" description="Universal 3D" >}} -->
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

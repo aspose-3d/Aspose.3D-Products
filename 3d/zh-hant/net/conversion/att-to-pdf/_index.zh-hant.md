@@ -78,7 +78,7 @@ document.Save("output.pdf", options);
 
 <!-- aboutfile Starts -->
 
-{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="將 ATT 轉換為 PDF 的免費應用程序" sectionDescription="查看我們的現場演示 [ATT 到 PDF 的轉換](https://products.aspose.app/3d/conversion/att-to-pdf) 具有以下好處。" >}}
+{{< blocks/products/pf/agp/i18n/demobox-app sectionTitle="將 ATT 轉換為 PDF 的免費應用程序" sectionDescription="查看我們的現場演示 [ATT 到 PDF 的轉換](https://products.aspose.app/3d/conversion) 具有以下好處。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" 無需下載或設置任何東西。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" 無需編寫任何代碼。" >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" 只需上傳您的 ATT 文件並點擊“轉換”按鈕。" >}}
@@ -94,8 +94,8 @@ document.Save("output.pdf", options);
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ATT" readMoreLink="/{{att_url}}" >}}
-{{att}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="ATT" readMoreLink="#" >}}
+
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

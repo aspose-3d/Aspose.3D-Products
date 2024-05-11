@@ -102,8 +102,8 @@ Aspose.3D je CAD a herní software API k načítání, úpravě a převodu soubo
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Stačí nahrát soubor DRC a stisknout tlačítko \"Zobrazit\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" V případě potřeby stáhněte soubor DRC z odkazu" >}}
 
-        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="DRC" readMoreLink="/{{drc_url}}" >}}
-{{drc}}
+        {{< blocks/products/pf/agp/i18n/about-file-text fileFormat="DRC" readMoreLink="https://docs.fileformat.com/3d/drc/" >}}
+Soubor s příponou .drc je komprimovaný 3D formát souboru vytvořený pomocí knihovny Google Draco. Google nabízí Draco jako open source knihovnu pro kompresi a dekompresi 3D geometrických sítí a mračen bodů a zlepšuje ukládání a přenos 3D grafiky. Zakóduje vstupní data a uloží je jako soubor .drc. Na přijímací straně rozhraní API čte soubory .drc a může je vydávat jako soubory PLY nebo OBJ. Komprimovaný výstupní soubor umožňuje uživatelům rychlejší stahování aplikací a rychlé načítání 3D grafiky v prohlížečích.
 
         {{< /blocks/products/pf/agp/i18n/about-file-text >}}
 

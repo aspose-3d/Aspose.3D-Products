@@ -102,7 +102,7 @@ A file with 3DS extension represents 3D Studio (DOS) mesh file format used by Au
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert TIFF into many other file formats including few listed below." >}}
+<!-- {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert TIFF into many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/tiff-to-amf/" name="TIFF TO AMF" description="Additive Manufacturing Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/tiff-to-dae/" name="TIFF TO DAE" description="Digital Asset Exchange" >}}
@@ -113,7 +113,7 @@ A file with 3DS extension represents 3D Studio (DOS) mesh file format used by Au
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/tiff-to-ply/" name="TIFF TO PLY" description="Polygon File Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/tiff-to-rvm/" name="TIFF TO RVM" description="AVEVA Plant Design Model" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/tiff-to-stl/" name="TIFF TO STL" description="Interchangeable 3D Surface Geometry" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/tiff-to-u3d/" name="TIFF TO U3D" description="Universal 3D" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/3d/net/conversion/tiff-to-u3d/" name="TIFF TO U3D" description="Universal 3D" >}} -->
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

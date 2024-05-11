@@ -68,9 +68,6 @@ pip install aspose-3d
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
-{{< blocks/products/pf/agp/demobox-app url="https://products.aspose.app/3d/conversion/att-to-rvm/embed&h1&h2&python-net">}}
-{{< /blocks/products/pf/agp/demobox-app >}}
  
 <!-- aboutfile Starts -->
 
@@ -85,8 +82,7 @@ pip install aspose-3d
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ATT" readMoreLink="/{{att_url}}" >}}
-{{att}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ATT" readMoreLink="#" >}}
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
