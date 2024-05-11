@@ -49,6 +49,9 @@ opt.LightingScheme = PdfLightingScheme.CAD;
 // Set rendering mode
 opt.RenderMode = PdfRenderMode.ShadedIllustration;
 
+//Save the scene to PDF file.
+scene.Save("output.pdf", opt);
+
 //ExStep:0-
 scene
 //ExEnd
