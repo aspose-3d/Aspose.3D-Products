@@ -87,39 +87,17 @@ description: Gameware and CAD 3D library to create read convert and modify 3D fi
     General
    </header>
    <ul>
-    <li>
-     Create Scenes
-    </li>
-    <li>
-     Create Mesh Surface
-    </li>
-    <li>
-     Polygon Triangulation
-    </li>
-    <li>
-     Split Mesh by Material
-    </li>
-    <li>
-     Setup Normal for Graphics
-    </li>
-    <li>
-     Set up UV for Graphics
-    </li>
-    <li>
-     Triangulate Mesh
-    </li>
-    <li>
-     Share Mesh Geometry Data
-    </li>
-    <li>
-     Add Material to Object
-    </li>
-    <li>
-     Add Target Camera
-    </li>
-    <li>
-     Cast &amp; Receive Shadows
-    </li>
+    <li> Create Scenes </li>
+    <li> Procedural modeling </li>
+    <li> Mesh Optimization </li>
+    <li> Draco Compression </li>
+    <li> Manifold Mesh </li>
+    <li> Mesh Boolean Operation </li>
+    <li> PBR/Phong/Lambert Material </li>
+    <li> Render 3D View to Images </li>
+    <li> Blind watermark </li>
+    <li> Meta Data </li>
+    <li> Animations </li>
    </ul>
   </div>
   <!--/right-->
@@ -198,63 +176,40 @@ description: Gameware and CAD 3D library to create read convert and modify 3D fi
    </header>
    <ul>
     <li>
-     <b>
-      Autodesk:
-     </b>
-     FBX 7.2 to 7.5 (ASCII/Binary)
+     <b> Autodesk: </b> FBX 6.1, 7.2 to 7.5 (ASCII/Binary)
     </li>
     <li>
-     STL (ASCII/Binary)
+     <b> 3D Systems CAD: </b> STL (ASCII/Binary)
     </li>
     <li>
-     <b>
-      Wavefront:
-     </b>
-     OBJ
+     <b> Wavefront: </b> OBJ
     </li>
     <li>
-     3DS
+     <b> Discreet 3D Studio: </b> 3DS
+    </li>
+    <li> <b> Universal3D: </b> U3D
     </li>
     <li>
-     <b>
-      Universal3D
-     </b>
+     <b> Collada: </b> DAE
     </li>
     <li>
-     <b>
-      Collada:
-     </b>
-     DAE
+     <b> GL Transmission: </b> glTF (ASCII/Binary)
     </li>
     <li>
-     <b>
-      GL Transmission:
-     </b>
-     glTF (ASCII/Binary)
+     <b> Google Draco: </b> DRC
     </li>
     <li>
-     <b>
-      Google Draco:
-     </b>
-     DRC
+     <b> OpenUSD: </b> USDA, USDC, USDZ (Text/Binary)
     </li>
     <li>
-     <b>
-      RVM
-     </b>
-     (Text/Binary)
+     <b> RVM </b> (Text/Binary)
     </li>
     <li>
-     <b>
-      Portable Document Format:
-     </b>
-     PDF
+     <b> Portable Document Format: </b> PDF
     </li>
+    <li><b>Point Clouds:</b> XYZ</li>
     <li>
-     AMF
-    </li>
-    <li>
-     PLY
+     <b> Others: </b> AMF, PLY (ASCII/Binary), A3DW
     </li>
    </ul>
   </div>
@@ -267,33 +222,12 @@ description: Gameware and CAD 3D library to create read convert and modify 3D fi
     Input Only
    </header>
    <ul>
-    <li>
-     <b>
-      DirectX:
-     </b>
-     X (ASCII/Binary)
-    </li>
-    <li>
-     <b>
-      Siemens:
-     </b>
-     JT
-    </li>
-    <li>
-     DXF
-    </li>
-    <li>
-     3MF
-    </li>
-    <li>
-     ASE
-    </li>
-    <li>
-     VRML
-    </li>
-    <li>
-     DirectX: X
-    </li>
+    <li><b>Autodesk:</b> Maya(ASCII/Binary), DXF</li>
+    <li>Blender</li>
+    <li> <b> DirectX: </b> X (ASCII/Binary) </li>
+    <li> <b> Siemens: </b> JT </li>
+    <li> 3MF (3D Manufacturing Format) </li> <li> ASE </li>
+    <li> VRML </li>
    </ul>
    <header>
     <i class="fa fa-mail-forward">
@@ -301,9 +235,8 @@ description: Gameware and CAD 3D library to create read convert and modify 3D fi
     Output Only
    </header>
    <ul>
-    <li>
-     HTML
-    </li>
+    <li> HTML </li>
+    <li><b>Point Clouds:</b> PCD</li>
    </ul>
   </div>
   <!--/right-->
@@ -343,114 +276,85 @@ description: Gameware and CAD 3D library to create read convert and modify 3D fi
    <p>
    </p>
    <div class="col-lg-4">
-    <em class="fa fa-square-o ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Generate scene and save in supported formats
-    </p>
+    <em class="fa fa-square-o ico-blue fa-2x col-lg-2"> </em>
+    <p class="col-lg-10"> Create 3D scene &amp; save in uniform object model </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-file ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Load, save and render 3D document to a stream
-    </p>
+    <em class="fa fa-file ico-blue fa-2x col-lg-2"> </em>
+    <p class="col-lg-10"> Load, save &amp; convert files </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-rocket ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Work with geometry and scene hierarchy
-    </p>
+    <em class="fa fa-rocket ico-blue fa-2x col-lg-2"> </em>
+    <p class="col-lg-10"> Work with geometry &amp; scene hierarchy </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-table ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Share mesh geometry data within multiple nodes
-    </p>
+    <em class="fa fa-table ico-blue fa-2x col-lg-2"> </em>
+    <p class="col-lg-10"> Share mesh geometry data between multiple nodes </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-spinner ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Add animation property to the scene file
-    </p>
+    <em class="fa fa-spinner ico-blue fa-2x col-lg-2"> </em>
+    <p class="col-lg-10"> Property animation and skeleton animation </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-tasks ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Triangulate a Mesh with custom memory layout of the vertex
-    </p>
+    <em class="fa fa-tasks ico-blue fa-2x col-lg-2"> </em>
+    <p class="col-lg-10"> Triangulate a Mesh with Custom Memory Layout of the Vertex </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-video-camera ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Add a target camera as well as animate objects in a 3D scene
-    </p>
-   </div>
-   <!--<div class="col-lg-4"><em class="fa fa-sliders ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Animate objects in a 3D scene</p>
-
-</div>-->
-   <div class="col-lg-4">
-    <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Split meshes by material
-    </p>
+    <em class="fa fa-video-camera ico-blue fa-2x col-lg-2"> </em>
+    <p class="col-lg-10"> Mesh boolean operation </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-edit ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Change plane's orientation by specifying an up normal
-    </p>
+    <em class="fa fa-sliders ico-blue fa-2x col-lg-2"> </em>
+    <p class="col-lg-10"> Animate Objects in a Scene </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-code ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Create geometry by extruding shapes
-    </p>
+    <em class="fa fa-object-ungroup ico-blue fa-2x col-lg-2"> </em>
+    <p class="col-lg-10"> Split Meshes by Material </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-arrows-h ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Enhance the creation of cylinder
-    </p>
+    <em class="fa fa-image ico-blue fa-2x col-lg-2"> </em>
+    <p class="col-lg-10"> Render a 3D View in the Image Format </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-folder ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Archive-based file format-detection
-    </p>
+    <em class="fa fa-industry ico-blue fa-2x col-lg-2"> </em>
+    <p class="col-lg-10"> Vulkan-backed WinForms renderer </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-print ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     support of AMF format
-    </p>
+    <em class="fa fa-check ico-blue fa-2x col-lg-2"> </em>
+    <p class="col-lg-10"> Blind watermark for 3D meshes </p>
    </div>
    <div class="col-lg-4">
-    <em class="fa fa-bolt ico-blue fa-2x col-lg-2">
-    </em>
-    <p class="col-lg-10">
-     Import and export glTF documents using Draco compression
-    </p>
+    <em class="fa fa-arrows-alt ico-blue fa-2x col-lg-2"> </em>
+    <p class="col-lg-10"> Procedural modeling </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-plus ico-blue fa-2x col-lg-2"> </em>
+    <p class="col-lg-10"> Text to 3D Mesh support </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-anchor ico-blue fa-2x col-lg-2"> </em>
+    <p class="col-lg-10"> Create geometry by extruding shapes </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-bolt ico-blue fa-2x col-lg-2"> </em>
+    <p class="col-lg-10"> Generate UV/Normal/Tangent for meshes </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-print ico-blue fa-2x col-lg-2"> </em>
+    <p class="col-lg-10"> Various input and output formats support </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-angle-right ico-blue fa-2x col-lg-2"> </em>
+    <p class="col-lg-10"> Enhanced security for interacting with file dependencies </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-share ico-blue fa-2x col-lg-2"> </em>
+    <p class="col-lg-10"> Draco compression and decompression support</p>
    </div>
    <div class="col-lg-12">
-    <h2 class="h2title">
-     Inter-convert Scene Files
-    </h2>
+    <h2 class="h2title"> 3D File Format Conversion </h2>
     <p>
-     API provides the support of 3D file format conversion in a simple way. Developers can load the source document in a Scene instance, and use its Save function with the FileFormat parameter. That's it!
+     Aspose.3d for Java provides an array of advanced algorithms that makes it an all-in-one solution for 3D file format conversion. The conversion process is as simple as changing the file extension to the desired format. All you need to do is to load the source file in an instance of Scene, and call its Save method with an appropriate FileFormat parameter. That's it!
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -458,79 +362,59 @@ description: Gameware and CAD 3D library to create read convert and modify 3D fi
      </h3>
      <pre><code class="java">// load the file to be converted
 
-Scene scnObj = new Scene(dir + "srctemplate.fbx");
+Scene scnObj = Scene.fromFile("srctemplate.fbx");
 
 // save in different formats
 
-scnObj.save(dir + "trgoutput.stl", FileFormat.STLASCII);
+scnObj.save("output.usd");
 
-scnObj.save(dir + "trgoutput.obj", FileFormat.WAVEFRONTOBJ);</code></pre>
+scnObj.save("output.fbx");</code></pre>
     </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     3D Scenes Creation
+    </h2>
+    <p>
+     Aspose.3D for Java empowers programmers to easily generate scenes from scratch without needing to install any 3D modeling or rendering software. The 3D Java API also enables to save the scenes in formats (OpenUSD, glTF, FBX, STL, WavefrontOBJ, Discreet3DS, Universal3D and Collada) by calling the Save method of the Scene class object.
+    </p>
    </div>
-   <!--<div class="col-lg-12">
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Read Write Asset Information of 3D Scene
+    </h2>
+    <p>
+     Metadata is structured information that describes, locates and makes it easier to retrieve, use and manage an information resource. Aspose.3D for Java API allows developers to define Metadata for the scene.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title"> Encode/Decode Blind watermark </h2>
+    <p>
+     Aspose.3D offers blind watermarking to protect your 3D models. Embed invisible watermarks into the geometry and texture data, making them resilient to modifications. Authorized users can decode the watermark using a secret key to prove ownership and safeguard your 3D intellectual property.
+    </p>
+   </div>
+   <div class="col-lg-12">
 
-<h2 class="h2title">Build Mesh of Various 3D Geometric Shapes</h2>
-
-<p>Aspose.3D for Java API help the developers in building mesh of various 3D geometric shapes, define control points and polygons in the simplest way to create 3D meshes. The API also allows to point a mesh to multiple instances of a shape type or place 3D shapes anywhere on a 3D scene.</p>
+<h2 class="h2title">Procedural Modeling</h2>
+<p>
+Aspose.3D simplifies procedural modeling, allowing you to generate complex 3D scenes and objects using algorithms. Create realistic trees, landscapes, buildings, and more with just a few lines of code. Quickly build detailed, scalable 3D content that can be easily modified by adjusting parameters.
+</p>
 
 </div>
+   <div class="col-lg-12">
 
-<div class="col-lg-12">
+<h2 class="h2title">Boolean Operations on 3D Meshes</h2>
 
-<h2 class="h2title">Managing Normal and UV on Geometric Shapes</h2>
+<p>
+Aspose.3D enables you to perform Boolean operations on 3D meshes, including union, intersection, and difference. Combine multiple meshes into a single object, create complex shapes by intersecting meshes, or subtract one mesh from another. Boolean operations simplify the creation of intricate 3D models and allow you to manipulate meshes programmatically. With Aspose.3D, you can easily apply these operations to your 3D meshes, saving time and effort in constructing sophisticated 3D scenes and objects.
+</p>
 
-<p>Aspose.3D for Java API offers to manage Normal (geometry) and UV on the geometric shapes. A mesh stores the key properties for every vertex at its position in space and its normal - a vector perpendicular to the original surface. The normal is major to shading counts. Most of the mesh formats also support some form of UV coordinates which are a separate 2D representation of the mesh "unfolded" to show what portion of a 2-dimensional texture map to apply to different polygons of the mesh.</p>
-
-</div>-->
+</div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Generate 3D Scenes via API
+     Create 3D Mesh From Text and Font File
     </h2>
     <p>
-     Aspose.3D for Java lets the developers create scenes from scratch without the dependency of any modeling software. The Java API also empowers the developers to save the scenes in any of the supported formats such as (STL, FBX,  Discreet3DS, WavefrontOBJ, Collada and Universal3D).
-    </p>
-    <div class="codeblock" id="code">
-     <h3>
-      Create a scene with primitive 3D shapes - Java
-     </h3>
-     <pre><code class="java">// initialize a Scene object
-
-Scene scn = new Scene();
-
-// create a Box model
-
-scn.getRootNode().createChildNode("box", new Box());
-
-// create a Cylinder model
-
-scn.getRootNode().createChildNode("cylinder", new Cylinder());
-
-// save drawing in the FBX format
-
-scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
-    </div>
-   </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     Build Node Hierarchy in a Simple Way
-    </h2>
-    <p>
-     Aspose.3D for Java API provides the ability to build a Node hierarchy where a Node is the basic building block of a scene. A hierarchy of nodes defines the logical structure and provides visible content by attaching geometries, lights, and cameras to the nodes.
-    </p>
-   </div>
-   <!--<div class="col-lg-12">
-
-<h2 class="h2title">Mesh Geometry Data Sharing</h2>
-
-<p>In order to reduce memory necessities, a single instance of Mesh can be bound to various instances of Node. Envision that you require a system where a large number of 3D cubes seemed indistinguishable; you could spare memory by making one Mesh object when the system starts up. At that point, each time you require another shape, you make another Node object, then point that node to one Mesh. This is how Aspose.3D for Java API manages instancing.</p>
-
-</div>-->
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     Add Animation Property to Scene
-    </h2>
-    <p>
-     Aspose.3D for Java API provides support for keyframe animation via CurveMapping which maps components of a property to different curves. Moreover, library offers to set up the target camera in a 3D file which is useful in animation when you need the camera to face a particular node.
+     Aspose.3D empowers users to effortlessly generate 3D meshes from font files and text inputs. Seamlessly convert text into detailed, customizable 3D models, enriching creative projects and enhancing visualization capabilities. Unlocking a world of possibilities, Aspose.3D's intuitive tools facilitate the swift transformation of textual elements into dynamic, visually captivating assets for diverse applications, from design prototyping to gaming and beyond.
     </p>
    </div>
    <div class="col-lg-12">
@@ -541,13 +425,6 @@ scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
      Aspose.3D for Java is designed to perform equally well on the server or client-side. It is a single Java assembly that can be deployed with any Java application by simply adding its reference. You don't have to worry about other services or modules while working with API.
     </p>
    </div>
-   <!--<div class="col-lg-12">
-
-<h2 class="h2title">Independent of External Software Installation</h2>
-
-<p>Aspose.3D API is built using managed code that never needs any external API or software installation on the machine to work with 3D files. It is perfectly customized solution in terms of supported features, security, stability and price.</p>
-
-</div>-->
   </div>
  </div>
 </div>
@@ -585,6 +462,7 @@ scn.save(dir + "output.fbx", FileFormat.FBX7500ASCII);</code></pre>
 
     {{< blocks/products/pf/offers-section-item link="/3d/net/" imgSrc="/3d/aspose_3d-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/3d/python-net/" imgSrc="/3d/aspose_3d-for-python-via-net.svg" sdkName="Python via .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/3d/nodejs-java/" imgSrc="/3d/aspose_3d-for-nodejs-java.svg" sdkName="Node.js via Java" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 
