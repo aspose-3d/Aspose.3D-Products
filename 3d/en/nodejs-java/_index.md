@@ -10,7 +10,7 @@ description: Node.js library to create read convert and modify 3D files in Windo
 
 {{< blocks/products/pf/main-container pfName="Aspose.3D" subTitlepfName="for Node.js via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/3d/aspose_3d-for-nodejs-java.svg" liveDemosLink="https://products.aspose.app/3d/family" PricingLink="https://purchase.aspose.com/pricing/3d/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/3d/java/" installationsDocsLink="" nugetLink="" nugetPackageName="Aspose.3D" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/3d/nodejs-java/" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/3d/aspose_3d-for-nodejs-java.svg" liveDemosLink="https://products.aspose.app/3d/family" PricingLink="https://purchase.aspose.com/pricing/3d/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/3d/nodejs-java/" installationsDocsLink="" nugetLink="" nugetPackageName="Aspose.3D" mavenRepoLink="" directDownloadLink="https://releases.aspose.com/3d/nodejs-java/" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -134,7 +134,7 @@ description: Node.js library to create read convert and modify 3D files in Windo
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.3D for Node.js via Java [supports famous 3D](https://docs.aspose.com/3d/java/supported-file-formats/)  file formats." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.3D for Node.js via Java [supports famous 3D](https://docs.aspose.com/3d/nodejs-java/supported-file-formats/)  file formats." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -389,7 +389,7 @@ Aspose.3D enables you to perform Boolean operations on 3D meshes, including unio
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/3d/java/" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/3d/nodejs-java/" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-3d/Aspose.3D-for-.NET" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/net/3d" >}}
 {{< blocks/products/pf/slr-element name="Repository" href="https://repository.aspose.com/3d/" >}}
@@ -400,7 +400,7 @@ Aspose.3D enables you to perform Boolean operations on 3D meshes, including unio
 {{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/3d" >}}
 {{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/3d/" >}}
-{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/3d/java/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Release Notes" href="https://releases.aspose.com/3d/nodejs-java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.3D for Node.js via Java" tabId="success-stories" >}}
