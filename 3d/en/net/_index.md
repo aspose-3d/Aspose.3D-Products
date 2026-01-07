@@ -129,7 +129,7 @@ description: C# VB.NET ASP.NET library to create read convert and modify 3D file
  <div class="d1-logo">
   <img width="70" height="75" alt="3D CAD API for .NET" src="/3d/aspose_3d-for-net.svg"/>
   <header>
-   Aspose.3d
+   Aspose.3D
   </header>
   <footer>
    <small>
@@ -156,17 +156,16 @@ description: C# VB.NET ASP.NET library to create read convert and modify 3D file
    </header>
    <ul>
     <li> <b> Autodesk: </b> FBX 6.1, 7.2 to 7.5 (ASCII/Binary) </li>
-    <li> <b> 3D Systems CAD: </b> STL (ASCII/Binary) </li>
-    <li> <b> Wavefront: </b> OBJ </li>
     <li> <b> Discreet 3D Studio: </b> 3DS </li>
     <li> <b> Universal3D: </b> U3D </li>
     <li> <b> Collada: </b> DAE </li>
     <li> <b> GL Transmission: </b> glTF (ASCII/Binary) </li>
     <li> <b> Google Draco: </b> DRC </li>
     <li> <b> OpenUSD: </b> USDA, USDC, USDZ (Text/Binary) </li>
+    <li> <b> 3D Printing: </b> 3MF (3D Manufacturing Format), STL (ASCII/Binary), OBJ</li>
     <li> <b> RVM </b> (Text/Binary) </li>
     <li> <b> Portable Document Format: </b> PDF </li>
-    <li><b>Point Clouds:</b> XYZ</li>
+    <li> <b>Point Clouds:</b> XYZ, PCD</li>
     <li> <b> Others: </b> AMF, PLY (ASCII/Binary), A3DW </li>
    </ul>
   </div>
@@ -183,7 +182,7 @@ description: C# VB.NET ASP.NET library to create read convert and modify 3D file
     <li>Blender</li>
     <li> <b> DirectX: </b> X (ASCII/Binary) </li>
     <li> <b> Siemens: </b> JT </li>
-    <li> 3MF (3D Manufacturing Format) </li> <li> ASE </li>
+     <li> ASE </li>
     <li> VRML </li>
    </ul>
    <header>
@@ -193,7 +192,6 @@ description: C# VB.NET ASP.NET library to create read convert and modify 3D file
    </header>
    <ul>
     <li> HTML </li>
-    <li><b>Point Clouds:</b> PCD</li>
    </ul>
   </div>
   <!--/right-->
@@ -202,7 +200,7 @@ description: C# VB.NET ASP.NET library to create read convert and modify 3D file
  <div class="d1-logo">
   <img width="70" height="75" alt="FBX Manipulation API" src="/3d/aspose_3d-for-net.svg"/>
   <header>
-   Aspose.3d
+   Aspose.3D
   </header>
   <footer>
    <small>
@@ -246,7 +244,7 @@ description: C# VB.NET ASP.NET library to create read convert and modify 3D file
    </div>
    <div class="col-lg-4">
     <em class="fa fa-table ico-blue fa-2x col-lg-2"> </em>
-    <p class="col-lg-10"> Share mesh geometry data between multiple nodes </p>
+    <p class="col-lg-10"> Mesh manifold verification </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-spinner ico-blue fa-2x col-lg-2"> </em>
