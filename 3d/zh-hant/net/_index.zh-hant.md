@@ -1,4 +1,4 @@
-﻿---
+---
 title: C# .NET 3D 文檔處理 API - Aspose 
 weight: 1020
 url: /zh-hant/net/ 
@@ -297,14 +297,12 @@ description: C# VB.NET ASP.NET 庫，用於在 Windows 窗體 Web 服務和 Mono
       直連：
      </b>
      X（ASCII/二進制）
-    </li>
-    <li>
-     <b>
-      西門子：
-     </b>
-     JT
-    </li>
-    <li>
+    </li>     <li>
+      <b>
+       西門子：
+      </b>
+      JT 10
+     </li>    <li>
      DXF
     </li>
     <li>

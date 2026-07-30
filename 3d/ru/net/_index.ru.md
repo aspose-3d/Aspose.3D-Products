@@ -1,4 +1,4 @@
-﻿---
+---
 title: C# .NET 3D Обработка документов API - Aspose 
 weight: 1020
 url: /ru/net/ 
@@ -297,14 +297,12 @@ description: Библиотека C# VB.NET ASP.NET для создания чт
       DirectX:
      </b>
      X (ASCII/Двоичный)
-    </li>
-    <li>
-     <b>
-      Сименс:
-     </b>
-     JT
-    </li>
-    <li>
+    </li>     <li>
+      <b>
+       Сименс:
+      </b>
+      JT 10
+     </li>    <li>
      DXF
     </li>
     <li>

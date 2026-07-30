@@ -302,7 +302,7 @@ description: C# VB.NET ASP.NET-Bibliothek zum Erstellen von Lese-/Konvertierungs
      <b>
       Siemens:
      </b>
-     JT
+     JT 10
     </li>
     <li>
      DXF

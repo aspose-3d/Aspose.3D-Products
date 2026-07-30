@@ -1,4 +1,4 @@
-﻿---
+---
 title: Java 3D API | 3D 文件操作和轉換 
 weight: 2820
 url: /zh-hant/java/ 
@@ -271,14 +271,12 @@ description: 用於在 Java 應用程序中創建讀取轉換和修改 3D 文件
       直連：
      </b>
      X（ASCII/二進制）
-    </li>
-    <li>
-     <b>
-      西門子：
-     </b>
-     JT
-    </li>
-    <li>
+    </li>     <li>
+      <b>
+       西門子：
+      </b>
+      JT 10
+     </li>    <li>
      DXF
     </li>
     <li>

@@ -1,4 +1,4 @@
-﻿---
+---
 title: C# .NET 3D Belge İşleme API - Aspose 
 weight: 1020
 url: /tr/net/ 
@@ -297,14 +297,12 @@ description: Windows Forms Web Hizmetleri ve Mono uygulamalarında okuma dönü�
       DirectX:
      </b>
      X (ASCII/İkili)
-    </li>
-    <li>
-     <b>
-      Siemens:
-     </b>
-     JT
-    </li>
-    <li>
+    </li>     <li>
+      <b>
+       Siemens:
+      </b>
+      JT 10
+     </li>    <li>
      DXF
     </li>
     <li>

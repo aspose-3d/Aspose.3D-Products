@@ -1,4 +1,4 @@
-﻿---
+---
 title: Java 3D API | 3D Работа с файлами и преобразование 
 weight: 2820
 url: /ru/java/ 
@@ -271,14 +271,12 @@ description: Программное обеспечение для игр и би
       DirectX:
      </b>
      X (ASCII/Двоичный)
-    </li>
-    <li>
-     <b>
-      Сименс:
-     </b>
-     JT
-    </li>
-    <li>
+    </li>     <li>
+      <b>
+       Сименс:
+      </b>
+      JT 10
+     </li>    <li>
      DXF
     </li>
     <li>

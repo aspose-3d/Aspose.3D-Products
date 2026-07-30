@@ -302,7 +302,7 @@ description: مكتبة C# VB .NET ASP .NET لإنشاء ملفات قراءة �
      <b>
       سيمنز:
      </b>
-     JT
+     JT 10
     </li>
     <li>
      DXF

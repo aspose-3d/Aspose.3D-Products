@@ -225,7 +225,7 @@ description: Gameware and CAD 3D library to create read convert and modify 3D fi
     <li><b>Autodesk:</b> Maya(ASCII/Binary), DXF</li>
     <li>Blender</li>
     <li> <b> DirectX: </b> X (ASCII/Binary) </li>
-    <li> <b> Siemens: </b> JT </li>
+    <li> <b> Siemens: </b> JT 10 </li>
     <li> 3MF (3D Manufacturing Format) </li> <li> ASE </li>
     <li> VRML </li>
    </ul>
@@ -264,9 +264,7 @@ description: Gameware and CAD 3D library to create read convert and modify 3D fi
 {{< /blocks/products/pf/carousel >}}
 <!--Diagrams End-->
 
-<!--Feature-section Start-->
-<div class="container-fluid features-section bg-gray singleproduct">
- <a class="anchor" id="features" name="features">
+<!--Feature-section Start-->     \u003Cli\u003E \u003Cb\u003E Siemens: \u003C/b\u003E JT 10 \u003C/li\u003E <a class="anchor" id="features" name="features">
  </a>
  <div class="row">
   <div class="container">
@@ -404,9 +402,7 @@ Aspose.3D simplifies procedural modeling, allowing you to generate complex 3D sc
 
 <h2 class="h2title">Boolean Operations on 3D Meshes</h2>
 
-<p>
-Aspose.3D enables you to perform Boolean operations on 3D meshes, including union, intersection, and difference. Combine multiple meshes into a single object, create complex shapes by intersecting meshes, or subtract one mesh from another. Boolean operations simplify the creation of intricate 3D models and allow you to manipulate meshes programmatically. With Aspose.3D, you can easily apply these operations to your 3D meshes, saving time and effort in constructing sophisticated 3D scenes and objects.
-</p>
+<p>    \u003Cul\u003E\n     \u003Cli\u003E\u003Cb\u003EAutodesk:\u003C/b\u003E Maya(ASCII/Binary), DXF\u003C/li\u003E\n     \u003Cli\u003EBlender\u003C/li\u003E\n     \u003Cli\u003E \u003Cb\u003E DirectX: \u003C/b\u003E X (ASCII/Binary) \u003C/li\u003E\n     \u003Cli\u003E \u003Cb\u003E Siemens: \u003C/b\u003E JT 10 \u003C/li\u003E\n     \u003Cli\u003E 3MF (3D Manufacturing Format) \u003C/li\u003E \u003Cli\u003E ASE \u003C/li\u003E\n     \u003Cli\u003E VRML \u003C/li\u003E\n    \u003C/ul\u003E</p>
 
 </div>
    <div class="col-lg-12">

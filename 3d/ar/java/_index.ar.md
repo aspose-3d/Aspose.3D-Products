@@ -276,7 +276,7 @@ description: Gameware و CAD 3D مكتبة لإنشاء قراءة وتحويل 
      <b>
       سيمنز:
      </b>
-     JT
+     JT 10
     </li>
     <li>
      DXF

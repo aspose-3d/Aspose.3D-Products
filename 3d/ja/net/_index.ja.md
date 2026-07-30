@@ -1,4 +1,4 @@
-﻿---
+---
 title: C#.NET3Dドキュメント処理API-Aspose 
 weight: 1020
 url: /ja/net/ 
@@ -168,9 +168,7 @@ description: C# VB .NET ASP .NETライブラリを使用して、Windowsフォ�
     .NETフレームワーク
    </header>
    <!-- <ul>
-
-<li>ASP.NET Application</li>
-
+     <li> <b>シーメンス：</b> JT 10 </li>
 <li>Windows Application</li>
 
 <li>Web Services</li>

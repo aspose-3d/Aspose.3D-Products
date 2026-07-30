@@ -276,7 +276,7 @@ description: Gameware und CAD 3D-Bibliothek zum Erstellen von Lese-, Konvertieru
      <b>
       Siemens:
      </b>
-     JT
+     JT 10
     </li>
     <li>
      DXF

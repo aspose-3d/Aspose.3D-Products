@@ -276,7 +276,7 @@ description: เกมแวร์และไลบรารี CAD 3D เพ�
      <b>
       ซีเมนส์:
      </b>
-     JT
+     JT 10
     </li>
     <li>
      DXF

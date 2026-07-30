@@ -302,7 +302,7 @@ description: ไลบรารี C# VB.NET ASP.NET เพื่อสร้า
      <b>
       ซีเมนส์:
      </b>
-     JT
+     JT 10
     </li>
     <li>
      DXF

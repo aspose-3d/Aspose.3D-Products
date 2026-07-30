@@ -1,4 +1,4 @@
-﻿---
+---
 title: Java 3D API | 3D Manipulacja i konwersja plików 
 weight: 2820
 url: /pl/java/ 
@@ -271,14 +271,12 @@ description: Oprogramowanie do gier i biblioteka CAD3D do tworzenia odczytów, k
       DirectX:
      </b>
      X (ASCII/binarny)
-    </li>
-    <li>
-     <b>
-      Siemens:
-     </b>
-     JT
-    </li>
-    <li>
+    </li>     <li>
+      <b>
+       Siemens:
+      </b>
+      JT 10
+     </li>    <li>
      DXF
     </li>
     <li>

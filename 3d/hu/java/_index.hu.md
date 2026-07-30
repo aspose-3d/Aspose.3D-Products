@@ -1,4 +1,4 @@
-﻿---
+---
 title: Java 3D API | 3D Fájlkezelés és átalakítás 
 weight: 2820
 url: /hu/java/ 
@@ -271,14 +271,12 @@ description: Játékprogram és CAD 3D könyvtár olvasási konvertáláshoz és
       DirectX:
      </b>
      X (ASCII/bináris)
-    </li>
-    <li>
-     <b>
-      Siemens:
-     </b>
-     JT
-    </li>
-    <li>
+    </li>     <li>
+      <b>
+       Siemens:
+      </b>
+      JT 10
+     </li>    <li>
      DXF
     </li>
     <li>

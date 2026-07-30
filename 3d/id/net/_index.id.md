@@ -1,4 +1,4 @@
-﻿---
+---
 title: C# .NET 3D Pemrosesan Dokumen API - Aspose 
 weight: 1020
 url: /id/net/ 
@@ -297,14 +297,12 @@ description: Pustaka C# VB.NET ASP.NET untuk membuat baca, konversi, dan modifik
       DirectX:
      </b>
      X (ASCII/Biner)
-    </li>
-    <li>
-     <b>
-      Siemens:
-     </b>
-     JT
-    </li>
-    <li>
+    </li>     <li>
+      <b>
+       Siemens:
+      </b>
+      JT 10
+     </li>    <li>
      DXF
     </li>
     <li>

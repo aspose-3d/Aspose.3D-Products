@@ -1,4 +1,4 @@
-﻿---
+---
 title: C# .NET 3D Documentverwerking API - Aspose 
 weight: 1020
 url: /nl/net/ 
@@ -297,14 +297,12 @@ description: C# VB.NET ASP.NET-bibliotheek om 3D-bestanden voor lezen, converter
       DirectX:
      </b>
      X (ASCII/Binair)
-    </li>
-    <li>
-     <b>
-      Siemens:
-     </b>
-     JT
-    </li>
-    <li>
+    </li>     <li>
+      <b>
+       Siemens:
+      </b>
+      JT 10
+     </li>    <li>
      DXF
     </li>
     <li>

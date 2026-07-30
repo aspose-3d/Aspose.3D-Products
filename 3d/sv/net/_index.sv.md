@@ -1,4 +1,4 @@
-﻿---
+---
 title: C# .NET 3D Dokumentbearbetning API - Aspose 
 weight: 1020
 url: /sv/net/ 
@@ -297,14 +297,12 @@ description: C# VB.NET ASP.NET-bibliotek för att skapa läskonvertera och ändr
       DirectX:
      </b>
      X (ASCII/binär)
-    </li>
-    <li>
-     <b>
-      Siemens:
-     </b>
-     JT
-    </li>
-    <li>
+    </li>     <li>
+      <b>
+       Siemens:
+      </b>
+      JT 10
+     </li>    <li>
      DXF
     </li>
     <li>

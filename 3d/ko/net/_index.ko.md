@@ -1,4 +1,4 @@
-﻿---
+---
 title: C# .NET 3D 문서 처리 API - Aspose 
 weight: 1020
 url: /ko/net/ 
@@ -302,7 +302,7 @@ description: Windows Forms 웹 서비스 및 Mono 애플리케이션에서 읽�
      <b>
       지멘스:
      </b>
-     JT
+     JT 10
     </li>
     <li>
      DXF
@@ -356,14 +356,12 @@ description: Windows Forms 웹 서비스 및 Mono 애플리케이션에서 읽�
 <!--Feature-section Start-->
 <div class="container-fluid features-section bg-gray singleproduct">
  <a class="anchor" id="features" name="features">
- </a>
- <div class="row">
-  <div class="container">
-   <h2 class="pr-ft">
-    고급 .NET 3D API 기능
-   </h2>
-   <p>
-   </p>
+ </a>     \u003Cli\u003E
+      \u003Cb\u003E
+       \uC9C0\uBA58\uC2A4:
+      \u003C/b\u003E
+      JT 10
+     \u003C/li\u003E   </p>
    <div class="col-lg-4">
     <em class="fa fa-square-o ico-blue fa-2x col-lg-2">
     </em>

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Java 3D API | 3Dファイルの操作と変換 
 weight: 2820
 url: /ja/java/ 
@@ -23,9 +23,7 @@ description: ゲームウェアとCAD3Dライブラリを使用して、Javaア�
 
 {{< blocks/products/pf/carousel-item h3="一目で" description="APIの概要。" >}}
 <div class="diagram1 d1-java">
- <div class="d1-row">
-  <div class="d1-col d1-left">
-   <header>
+ <div class="d1-row">     <li> <b>シーメンス：</b> JT 10 </li>   <header>
     <i class="fa fa-object-ungroup">
     </i>
     オブジェクトモデル

@@ -1,4 +1,4 @@
-﻿---
+---
 title: C# .NET 3D Xử lý Tài liệu API - Aspose 
 weight: 1020
 url: /vi/net/ 
@@ -297,14 +297,12 @@ description: Thư viện C# VB .NET ASP .NET để tạo các tệp đọc chuy�
       DirectX:
      </b>
      X (ASCII / Nhị phân)
-    </li>
-    <li>
-     <b>
-      Siemens:
-     </b>
-     JT
-    </li>
-    <li>
+    </li>     <li>
+      <b>
+       Siemens:
+      </b>
+      JT 10
+     </li>    <li>
      DXF
     </li>
     <li>

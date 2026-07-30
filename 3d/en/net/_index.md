@@ -13,9 +13,7 @@ description: C# VB.NET ASP.NET library to create read convert and modify 3D file
 {{< blocks/products/pf/sub-menu logoImageSrc="/3d/aspose_3d-for-net.svg" liveDemosLink="https://products.aspose.app/3d/family" PricingLink="https://purchase.aspose.com/pricing/3d/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/3d/net/" installationsDocsLink="https://docs.aspose.com/3d/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.3D/" nugetPackageName="Aspose.3D" mavenRepoLink="https://repository.aspose.com/3d/" directDownloadLink="https://releases.aspose.com/3d/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>
- Aspose.3D for .NET is a feature-rich Gameware and Computer-Aided-Designing (CAD) API to manipulate documents without any 3D modeling and rendering software dependencies. API supports Blender, Maya, OpenUSD, WavefrontOBJ, FBX (ASCII, Binary), STL (ASCII, Binary), Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco file formats and more. Developers can create, read, convert, modify and control the substance of 3D document formats easily.
-</p>
+<p>    \u003Cul\u003E\n     \u003Cli\u003E\u003Cb\u003EAutodesk:\u003C/b\u003E Maya(ASCII/Binary), DXF\u003C/li\u003E\n     \u003Cli\u003EBlender\u003C/li\u003E\n     \u003Cli\u003E \u003Cb\u003E DirectX: \u003C/b\u003E X (ASCII/Binary) \u003C/li\u003E\n     \u003Cli\u003E \u003Cb\u003E Siemens: \u003C/b\u003E JT 10 \u003C/li\u003E\n      \u003Cli\u003E ASE \u003C/li\u003E\n     \u003Cli\u003E VRML \u003C/li\u003E\n    \u003C/ul\u003E</p>
 
 <p>
  Aspose.3D for .NET API is user-friendly and can be deployed with any .NET application as easy as copying it without worrying about other services and modules that are installed already.
@@ -181,7 +179,7 @@ description: C# VB.NET ASP.NET library to create read convert and modify 3D file
     <li><b>Autodesk:</b> Maya(ASCII/Binary), DXF</li>
     <li>Blender</li>
     <li> <b> DirectX: </b> X (ASCII/Binary) </li>
-    <li> <b> Siemens: </b> JT </li>
+    <li> <b> Siemens: </b> JT 10 </li>
      <li> ASE </li>
     <li> VRML </li>
    </ul>
@@ -219,9 +217,7 @@ description: C# VB.NET ASP.NET library to create read convert and modify 3D file
 {{< /blocks/products/pf/carousel >}}
 <!--Diagrams End-->
 
-<!--Feature-section Start-->
-<div class="container-fluid features-section bg-gray singleproduct">
- <a class="anchor" id="features" name="features">
+<!--Feature-section Start-->     \u003Cli\u003E \u003Cb\u003E Siemens: \u003C/b\u003E JT 10 \u003C/li\u003E <a class="anchor" id="features" name="features">
  </a>
  <div class="row">
   <div class="container">

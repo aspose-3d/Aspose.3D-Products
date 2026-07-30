@@ -1,4 +1,4 @@
-﻿---
+---
 title: Java 3D API | 3D Dosya Manipülasyonu ve Dönüştürme 
 weight: 2820
 url: /tr/java/ 
@@ -271,14 +271,12 @@ description: Oyun yazılımı ve CAD 3D kitaplığı okuma oluşturmak için Jav
       DirectX:
      </b>
      X (ASCII/İkili)
-    </li>
-    <li>
-     <b>
-      Siemens:
-     </b>
-     JT
-    </li>
-    <li>
+    </li>     <li>
+      <b>
+       Siemens:
+      </b>
+      JT 10
+     </li>    <li>
      DXF
     </li>
     <li>

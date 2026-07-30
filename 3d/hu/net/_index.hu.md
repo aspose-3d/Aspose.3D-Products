@@ -1,4 +1,4 @@
-﻿---
+---
 title: C# .NET 3D Dokumentum feldolgozás API - Aspose 
 weight: 1020
 url: /hu/net/ 
@@ -297,14 +297,12 @@ description: C# VB.NET ASP.NET könyvtár olvasási konvertáló és 3D fájlok 
       DirectX:
      </b>
      X (ASCII/bináris)
-    </li>
-    <li>
-     <b>
-      Siemens:
-     </b>
-     JT
-    </li>
-    <li>
+    </li>     <li>
+      <b>
+       Siemens:
+      </b>
+      JT 10
+     </li>    <li>
      DXF
     </li>
     <li>

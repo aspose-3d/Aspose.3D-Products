@@ -1,4 +1,4 @@
-﻿---
+---
 title: Java 3D API | 3D 파일 조작 및 변환 
 weight: 2820
 url: /ko/java/ 
@@ -276,7 +276,7 @@ description: Java 애플리케이션 내에서 읽기 변환 및 3D 파일 형�
      <b>
       지멘스:
      </b>
-     JT
+     JT 10
     </li>
     <li>
      DXF
@@ -333,14 +333,12 @@ description: Java 애플리케이션 내에서 읽기 변환 및 3D 파일 형�
 <!--Feature-section Start-->
 <div class="container-fluid features-section bg-gray singleproduct">
  <a class="anchor" id="features" name="features">
- </a>
- <div class="row">
-  <div class="container">
-   <h2 class="pr-ft">
-    고급 Java 3D API 기능
-   </h2>
-   <p>
-   </p>
+ </a>     \u003Cli\u003E
+      \u003Cb\u003E
+       \uC9C0\uBA58\uC2A4:
+      \u003C/b\u003E
+      JT 10
+     \u003C/li\u003E   </p>
    <div class="col-lg-4">
     <em class="fa fa-square-o ico-blue fa-2x col-lg-2">
     </em>

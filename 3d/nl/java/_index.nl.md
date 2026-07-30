@@ -1,4 +1,4 @@
-﻿---
+---
 title: Java 3D API | 3D Bestandsmanipulatie en conversie 
 weight: 2820
 url: /nl/java/ 
@@ -271,14 +271,12 @@ description: Gameware en CAD 3D-bibliotheek om lees-conversie en 3D-bestandsinde
       DirectX:
      </b>
      X (ASCII/Binair)
-    </li>
-    <li>
-     <b>
-      Siemens:
-     </b>
-     JT
-    </li>
-    <li>
+    </li>     <li>
+      <b>
+       Siemens:
+      </b>
+      JT 10
+     </li>    <li>
      DXF
     </li>
     <li>
