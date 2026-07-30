@@ -1,4 +1,4 @@
-﻿---
+---
 title: C# .NET 3D Zpracování dokumentu API – Aspose 
 weight: 1020
 url: /cs/net/ 
@@ -297,14 +297,12 @@ description: Knihovna C# VB.NET ASP.NET k vytváření souborů pro čtení, př
       DirectX:
      </b>
      X (ASCII/binární)
-    </li>
-    <li>
-     <b>
-      Siemens:
-     </b>
-     JT
-    </li>
-    <li>
+    </li>     <li>
+      <b>
+       Siemens:
+      </b>
+      JT 10
+     </li>    <li>
      DXF
     </li>
     <li>
