@@ -1,4 +1,4 @@
-﻿---
+---
 title: C# .NET 3D Procesamiento de documentos API - Aspose 
 weight: 1020
 url: /es/net/ 
@@ -297,14 +297,12 @@ description: Biblioteca C# VB.NET ASP.NET para crear, convertir, leer y modifica
       DirectX:
      </b>
      X (ASCII/Binario)
-    </li>
-    <li>
-     <b>
-      Siemens:
-     </b>
-     JT
-    </li>
-    <li>
+    </li>     <li>
+      <b>
+       Siemens:
+      </b>
+      JT 10
+     </li>    <li>
      DXF
     </li>
     <li>
