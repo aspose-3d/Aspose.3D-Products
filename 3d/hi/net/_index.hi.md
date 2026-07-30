@@ -1,4 +1,4 @@
-﻿---
+---
 title: C# .NET 3D दस्तावेज़ संसाधन API - Aspose 
 weight: 1020
 url: /hi/net/ 
@@ -297,14 +297,12 @@ description: Windows प्रपत्र वेब सेवाओं और M
       डायरेक्टएक्स:
      </b>
      एक्स (एएससीआईआई/बाइनरी)
-    </li>
-    <li>
-     <b>
-      सीमेंस:
-     </b>
-     JT
-    </li>
-    <li>
+    </li>     <li>
+      <b>
+       सीमेंस:
+      </b>
+      JT 10
+     </li>    <li>
      DXF
     </li>
     <li>
