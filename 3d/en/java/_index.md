@@ -224,21 +224,18 @@ description: Gameware and CAD 3D library to create read convert and modify 3D fi
    <ul>
     <li><b>Autodesk:</b> Maya(ASCII/Binary), DXF</li>
     <li>Blender</li>
-    <li> <b> DirectX: </b> X (ASCII/Binary) </li>
-    <li> <b> Siemens: </b> JT 10 </li>
-    <li> 3MF (3D Manufacturing Format) </li> <li> ASE </li>
+    <li> <b> DirectX: </b> X (ASCII/Binary) </li>     <li><b>Siemens:</b> JT 8/9/10/10.5 </li>    <li> 3MF (3D Manufacturing Format) </li> <li> ASE </li>
     <li> VRML </li>
-   </ul>
-   <header>
-    <i class="fa fa-mail-forward">
-    </i>
-    Output Only
-   </header>
-   <ul>
-    <li> HTML </li>
-    <li><b>Point Clouds:</b> PCD</li>
-   </ul>
-  </div>
+   </ul>    <header>
+     <i class="fa fa-mail-forward">
+     </i>
+     Output Only
+    </header>
+    <ul>
+     <li><b>Siemens:</b> JT 10 </li>
+     <li> HTML </li>
+     <li><b>Point Clouds:</b> PCD</li>
+    </ul>  </div>
   <!--/right-->
  </div>
  <!--/row-->

@@ -59,9 +59,8 @@ description: C# VB.NET ASP.NET library to create read convert and modify 3D file
     <li> Draco Compression </li>
     <li> Manifold Mesh </li>
     <li> Mesh Boolean Operation </li>
-    <li> PBR/Phong/Lambert Material </li>
-    <li> Render 3D View to Images </li>
-    <li> Blind watermark </li>
+    <li> PBR/Phong/Lambert Material </li>     \u003Cli\u003E HTML \u003C/li\u003E
+     \u003Cli\u003E \u003Cb\u003E Siemens: \u003C/b\u003E JT 10 \u003C/li\u003E    <li> Blind watermark </li>
     <li> Meta Data </li>
     <li> Animations </li>
    </ul>
@@ -159,10 +158,8 @@ description: C# VB.NET ASP.NET library to create read convert and modify 3D file
     <li> <b> Collada: </b> DAE </li>
     <li> <b> GL Transmission: </b> glTF (ASCII/Binary) </li>
     <li> <b> Google Draco: </b> DRC </li>
-    <li> <b> OpenUSD: </b> USDA, USDC, USDZ (Text/Binary) </li>
-    <li> <b> 3D Printing: </b> 3MF (3D Manufacturing Format), STL (ASCII/Binary), OBJ</li>
-    <li> <b> RVM </b> (Text/Binary) </li>
-    <li> <b> Portable Document Format: </b> PDF </li>
+    <li> <b> OpenUSD: </b> USDA, USDC, USDZ (Text/Binary) </li>    \u003Cli\u003E \u003Cb\u003E Siemens: \u003C/b\u003E JT 8/9/10/10.5 \u003C/li\u003E
+     \u003Cli\u003E ASE \u003C/li\u003E    <li> <b> Portable Document Format: </b> PDF </li>
     <li> <b>Point Clouds:</b> XYZ, PCD</li>
     <li> <b> Others: </b> AMF, PLY (ASCII/Binary), A3DW </li>
    </ul>
