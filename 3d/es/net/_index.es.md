@@ -298,12 +298,10 @@ description: Biblioteca C# VB.NET ASP.NET para crear, convertir, leer y modifica
      </b>
      X (ASCII/Binario)
     </li>     <li>
-      <b>
-       Siemens:
+      <b>       Siemens:
       </b>
-      JT 10
-     </li>    <li>
-     DXF
+       JT 8/9/10/10.5
+     </li>     DXF
     </li>
     <li>
      3MF (3D formato de fabricación)
@@ -320,11 +318,10 @@ description: Biblioteca C# VB.NET ASP.NET para crear, convertir, leer y modifica
     </i>
     Solo salida
    </header>
-   <ul>
-    <li>
-     HTML
-    </li>
-   </ul>
+   <ul>     <li><b>Siemens:</b> JT 10</li>
+      <li>
+      HTML
+     </li>   </ul>
   </div>
   <!--/right-->
  </div>

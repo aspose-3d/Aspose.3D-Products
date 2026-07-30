@@ -295,14 +295,12 @@ description: C# VB .NET ASP .NETライブラリを使用して、Windowsフォ�
       DirectX：
      </b>
      X（ASCII /バイナリ）
-    </li>
-    <li>
-     <b>
-      シーメンス：
-     </b>
-     JT
-    </li>
-    <li>
+    </li>     <li>
+      <b>
+       シーメンス：
+      </b>
+      JT 8/9/10/10.5
+     </li>    <li>
      DXF
     </li>
     <li>
@@ -320,12 +318,16 @@ description: C# VB .NET ASP .NETライブラリを使用して、Windowsフォ�
     </i>
     出力のみ
    </header>
-   <ul>
-    <li>
-     HTML
-    </li>
-   </ul>
-  </div>
+   <ul>     <li>
+      <b>
+       シーメンス：
+      </b>
+      JT 10
+     </li>
+     <li>
+      HTML
+     </li>
+    </ul>  </div>
   <!--/right-->
  </div>
  <!--/row-->

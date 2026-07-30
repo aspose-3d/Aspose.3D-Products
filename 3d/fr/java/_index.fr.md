@@ -275,7 +275,7 @@ description: Logiciel de jeu et bibliothèque CAD 3D pour créer, lire, converti
       \u003Cb\u003E
        Siemens :
       \u003C/b\u003E
-      JT 10
+      JT 8/9/10/10.5
      \u003C/li\u003E    <li>
      DXF
     </li>
@@ -298,6 +298,12 @@ description: Logiciel de jeu et bibliothèque CAD 3D pour créer, lire, converti
     Sortie uniquement
    </header>
    <ul>
+    <li>
+     <b>
+      Siemens :
+     </b>
+     JT 10
+    </li>
     <li>
      HTML
     </li>

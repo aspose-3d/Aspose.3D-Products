@@ -275,7 +275,7 @@ description: Gameware e libreria CAD 3D per creare formati di file in lettura, c
       <b>
        Siemens:
       </b>
-      JT 10
+      JT 8/9/10/10.5
      </li>    <li>
      DXF
     </li>
@@ -296,13 +296,17 @@ description: Gameware e libreria CAD 3D per creare formati di file in lettura, c
     <i class="fa fa-mail-forward">
     </i>
     Solo uscita
-   </header>
-   <ul>
-    <li>
-     HTML
-    </li>
-   </ul>
-  </div>
+   </header>    <ul>
+     <li>
+      <b>
+       Siemens:
+      </b>
+      JT 10
+     </li>
+     <li>
+      HTML
+     </li>
+    </ul>  </div>
   <!--/right-->
  </div>
  <!--/row-->

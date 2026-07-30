@@ -301,7 +301,7 @@ description: Libreria C# VB.NET ASP.NET per creare file di lettura, conversione 
       <b>
        Siemens:
       </b>
-      JT 10
+      JT 8/9/10/10.5
      </li>    <li>
      DXF
     </li>
@@ -319,13 +319,17 @@ description: Libreria C# VB.NET ASP.NET per creare file di lettura, conversione 
     <i class="fa fa-mail-forward">
     </i>
     Solo uscita
-   </header>
-   <ul>
-    <li>
-     HTML
-    </li>
-   </ul>
-  </div>
+   </header>    <ul>
+     <li>
+      <b>
+       Siemens:
+      </b>
+      JT 10
+     </li>
+     <li>
+      HTML
+     </li>
+    </ul>  </div>
   <!--/right-->
  </div>
  <!--/row-->

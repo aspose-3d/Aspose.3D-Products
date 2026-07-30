@@ -302,7 +302,7 @@ description: Bibliothèque C# VB.NET ASP.NET pour créer des fichiers en lecture
      <b>
       Siemens :
      </b>
-     JT 10
+     JT 8/9/10/10.5
     </li>
     <li>
      DXF
@@ -323,6 +323,12 @@ description: Bibliothèque C# VB.NET ASP.NET pour créer des fichiers en lecture
     Sortie uniquement
    </header>
    <ul>
+    <li>
+     <b>
+      Siemens :
+     </b>
+     JT 10
+    </li>
     <li>
      HTML
     </li>

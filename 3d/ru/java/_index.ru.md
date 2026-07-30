@@ -259,27 +259,25 @@ description: Программное обеспечение для игр и би
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
-   <br/>
-   <header>
-    <i class="fa fa-long-arrow-down">
-    </i>
-    Только ввод
-   </header>
-   <ul>
-    <li>
-     <b>
-      DirectX:
-     </b>
-     X (ASCII/Двоичный)
-    </li>     <li>
+   <br/>    <header>
+     <i class="fa fa-long-arrow-down">
+     </i>
+     Только ввод
+    </header>
+    <ul>
+     <li>
       <b>
-       Сименс:
+       DirectX:
       </b>
-      JT 10
+      X (ASCII/Двоичный код)
+     </li>     <li>
+       <b>
+        Сименс:
+       </b>
+       JT 8/9/10/10.5
+      </li>    <li>
+      DXF
      </li>    <li>
-     DXF
-    </li>
-    <li>
      3MF
     </li>
     <li>
@@ -291,18 +289,22 @@ description: Программное обеспечение для игр и би
     <li>
      ДиректХ: Х
     </li>
-   </ul>
-   <header>
-    <i class="fa fa-mail-forward">
-    </i>
-    Только вывод
-   </header>
-   <ul>
-    <li>
-     HTML
-    </li>
-   </ul>
-  </div>
+   </ul>    <header>
+     <i class="fa fa-mail-forward">
+     </i>
+     Только вывод
+    </header>
+    <ul>
+     <li>
+      <b>
+       Сименс:
+      </b>
+      JT 10
+     </li>
+     <li>
+      HTML
+     </li>
+    </ul>  </div>
   <!--/right-->
  </div>
  <!--/row-->

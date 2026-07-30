@@ -276,7 +276,7 @@ description: Gameware und CAD 3D-Bibliothek zum Erstellen von Lese-, Konvertieru
      <b>
       Siemens:
      </b>
-     JT 10
+     JT 8/9/10/10.5
     </li>
     <li>
      DXF
@@ -301,6 +301,10 @@ description: Gameware und CAD 3D-Bibliothek zum Erstellen von Lese-, Konvertieru
    </header>
    <ul>
     <li>
+     Siemens:
+     </b>
+     JT 10
+    </li>
      HTML
     </li>
    </ul>

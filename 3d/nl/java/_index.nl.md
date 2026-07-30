@@ -270,15 +270,13 @@ description: Gameware en CAD 3D-bibliotheek om lees-conversie en 3D-bestandsinde
      <b>
       DirectX:
      </b>
-     X (ASCII/Binair)
-    </li>     <li>
-      <b>
-       Siemens:
-      </b>
-      JT 10
-     </li>    <li>
-     DXF
-    </li>
+     X (ASCII/Binair)     \u003Cli\u003E
+       \u003Cb\u003E
+        Siemens:
+       \u003C/b\u003E
+       JT 8/9/10/10.5
+      \u003C/li\u003E    \u003Cli\u003E
+      DXF    </li>
     <li>
      3MF
     </li>
@@ -291,18 +289,22 @@ description: Gameware en CAD 3D-bibliotheek om lees-conversie en 3D-bestandsinde
     <li>
      DirectX: X
     </li>
-   </ul>
-   <header>
-    <i class="fa fa-mail-forward">
-    </i>
-    Alleen uitvoer
-   </header>
-   <ul>
-    <li>
-     HTML
-    </li>
-   </ul>
-  </div>
+   </ul>    \u003Cheader\u003E
+     \u003Ci class=\u0022fa fa-mail-forward\u0022\u003E
+     \u003C/i\u003E
+     Alleen uitvoer
+    \u003C/header\u003E
+    \u003Cul\u003E
+     \u003Cli\u003E
+      \u003Cb\u003E
+       Siemens:
+      \u003C/b\u003E
+      JT 10
+     \u003C/li\u003E
+     \u003Cli\u003E
+      HTML
+     \u003C/li\u003E
+    \u003C/ul\u003E  </div>
   <!--/right-->
  </div>
  <!--/row-->

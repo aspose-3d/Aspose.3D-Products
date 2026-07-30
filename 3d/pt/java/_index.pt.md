@@ -259,50 +259,40 @@ description: Gameware e biblioteca CAD 3D para criar ler, converter e modificar 
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
-   <br/>
-   <header>
-    <i class="fa fa-long-arrow-down">
-    </i>
-    Somente entrada
-   </header>
-   <ul>
-    <li>
-     <b>
-      DirectX:
-     </b>
-     X (ASCII/Binário)
-    </li>     <li>
+   <br/>    <header>
+     <i class="fa fa-long-arrow-down">
+     </i>
+     Somente entrada
+    </header>
+    <ul>
+     <li>
+      <b>
+       DirectX:
+      </b>
+      X (ASCII/Binário)
+     </li>     <li>
+       <b>
+        Siemens:
+       </b>
+       JT 8/9/10/10.5
+      </li>    <li> DXF
+     </li>     <li> 3MF (3D Manufacturing Format)      </li>     <li> ASE
+     </li>     <li> VRML
+     </li>     <li> DirectX: X
+      </li>    </ul>    <header>     <i class="fa fa-mail-forward">     </i>
+     Somente saída
+    </header>
+    <ul>
+     <li>
       <b>
        Siemens:
       </b>
       JT 10
-     </li>    <li>
-     DXF
-    </li>
-    <li>
-     3MF
-    </li>
-    <li>
-     ASE
-    </li>
-    <li>
-     VRML
-    </li>
-    <li>
-     DirectX: X
-    </li>
-   </ul>
-   <header>
-    <i class="fa fa-mail-forward">
-    </i>
-    Somente saída
-   </header>
-   <ul>
-    <li>
-     HTML
-    </li>
-   </ul>
-  </div>
+     </li>
+     <li>
+      HTML
+     </li>
+    </ul>  </div>
   <!--/right-->
  </div>
  <!--/row-->

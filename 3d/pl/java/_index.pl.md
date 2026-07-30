@@ -264,22 +264,20 @@ description: Oprogramowanie do gier i biblioteka CAD3D do tworzenia odczytów, k
     <i class="fa fa-long-arrow-down">
     </i>
     Tylko wejście
-   </header>
-   <ul>
-    <li>
-     <b>
-      DirectX:
-     </b>
-     X (ASCII/binarny)
-    </li>     <li>
+   </header>    <ul>
+     <li>
       <b>
-       Siemens:
+       DirectX:
       </b>
-      JT 10
+      X (ASCII/binarny)
+     </li>     <li>
+       <b>
+        Siemens:
+       </b>
+       JT 8/9/10/10.5
+      </li>    <li>
+      DXF
      </li>    <li>
-     DXF
-    </li>
-    <li>
      3MF
     </li>
     <li>
@@ -291,18 +289,22 @@ description: Oprogramowanie do gier i biblioteka CAD3D do tworzenia odczytów, k
     <li>
      DirectX: X
     </li>
-   </ul>
-   <header>
-    <i class="fa fa-mail-forward">
-    </i>
-    Tylko wyjście
-   </header>
-   <ul>
-    <li>
-     HTML
-    </li>
-   </ul>
-  </div>
+   </ul>    <header>
+     <i class="fa fa-mail-forward">
+     </i>
+     Tylko wyjście
+    </header>
+    <ul>
+     <li>
+      <b>
+       Siemens:
+      </b>
+      JT 10
+     </li>
+     <li>
+      HTML
+     </li>
+    </ul>  </div>
   <!--/right-->
  </div>
  <!--/row-->
