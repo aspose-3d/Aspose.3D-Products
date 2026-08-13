@@ -1,7 +1,7 @@
 ---
 title: Penampil Format 3D C#
 url: /id/net/viewer/
-description: Lihat format 3D 3ds 3mf amf ase att dae drc dxf fbx gltf jt obj ply rvm stl u3d usdz usd vrml x melalui pustaka .NET menggunakan beberapa baris kode C#.
+description: "Lihat format 3D 3ds 3mf amf ase att dae drc dxf fbx gltf jt obj ply rvm stl u3d usdz usd vrml x melalui pustaka .NET menggunakan beberapa baris kode C#."
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

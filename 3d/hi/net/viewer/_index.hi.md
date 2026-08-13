@@ -1,7 +1,7 @@
 ---
 title: C# 3D फॉर्मेट दर्शक
 url: /hi/net/viewer/
-description: 3ds, 3mf, amf, ase, att, dae, drc, dxf, fbx, gltf, jt, obj, ply, rvm, stl, u3d, usdz, usd, vrml, x को .NET लाइब्रेरी का उपयोग करके कुछ पंक्तियों के C# कोड के साथ 3D प्रारूप में देखें।
+description: "3ds, 3mf, amf, ase, att, dae, drc, dxf, fbx, gltf, jt, obj, ply, rvm, stl, u3d, usdz, usd, vrml, x को .NET लाइब्रेरी का उपयोग करके कुछ पंक्तियों के C# कोड के साथ 3D प्रारूप में देखें।"
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

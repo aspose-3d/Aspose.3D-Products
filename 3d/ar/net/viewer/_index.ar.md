@@ -1,7 +1,7 @@
 ---
 title: عارض صيغ ثلاثية الأبعاد بلغة سي شارب
 url: /ar/net/viewer/
-description: عرض تنسيقات ثلاثية الأبعاد 3ds 3mf amf ase att dae drc dxf fbx gltf jt obj ply rvm stl u3d usdz usd vrml x عبر مكتبة .NET باستخدام بضعة أسطر من التعليمات البرمجية C#.
+description: "عرض تنسيقات ثلاثية الأبعاد 3ds 3mf amf ase att dae drc dxf fbx gltf jt obj ply rvm stl u3d usdz usd vrml x عبر مكتبة .NET باستخدام بضعة أسطر من التعليمات البرمجية C#."
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

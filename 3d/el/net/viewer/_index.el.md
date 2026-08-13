@@ -1,7 +1,7 @@
 ---
 title: Προβολέας μορφών 3D C#
 url: /el/net/viewer/
-description: Προβολή μορφής 3D 3ds 3mf amf ase att dae drc dxf fbx gltf jt obj ply rvm stl u3d usdz usd vrml x μέσω βιβλιοθήκης .NET χρησιμοποιώντας λίγες γραμμές κώδικα C#.
+description: "Προβολή μορφής 3D 3ds 3mf amf ase att dae drc dxf fbx gltf jt obj ply rvm stl u3d usdz usd vrml x μέσω βιβλιοθήκης .NET χρησιμοποιώντας λίγες γραμμές κώδικα C#."
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -1,7 +1,7 @@
 ---
 title: ตัวอย่างรูปแบบ 3 มิติ C#
 url: /th/net/viewer/
-description: ดูรูปแบบ 3 มิติ 3ds 3mf amf ase att dae drc dxf fbx gltf jt obj ply rvm stl u3d usdz usd vrml x ผ่านไลบรารี .NET โดยใช้โค้ด C# ไม่กี่บรรทัด
+description: "ดูรูปแบบ 3 มิติ 3ds 3mf amf ase att dae drc dxf fbx gltf jt obj ply rvm stl u3d usdz usd vrml x ผ่านไลบรารี .NET โดยใช้โค้ด C# ไม่กี่บรรทัด"
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

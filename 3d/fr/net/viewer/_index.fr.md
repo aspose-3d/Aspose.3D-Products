@@ -1,7 +1,7 @@
 ---
 title: Visualiseur de formats 3D C#
 url: /fr/net/viewer/
-description: Visualiser les formats 3D 3ds 3mf amf ase att dae drc dxf fbx gltf jt obj ply rvm stl u3d usdz usd vrml x via une bibliothèque .NET en utilisant quelques lignes de code C#.
+description: "Visualiser les formats 3D 3ds 3mf amf ase att dae drc dxf fbx gltf jt obj ply rvm stl u3d usdz usd vrml x via une bibliothèque .NET en utilisant quelques lignes de code C#."
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

@@ -1,7 +1,7 @@
 ---
 title: Prohlížeč 3D formátů v C#
 url: /cs/net/viewer/
-description: Zobrazte 3D formáty 3ds 3mf amf ase att dae drc dxf fbx gltf jt obj ply rvm stl u3d usdz usd vrml x pomocí .NET knihovny pomocí několika řádků C# kódu.
+description: "Zobrazte 3D formáty 3ds 3mf amf ase att dae drc dxf fbx gltf jt obj ply rvm stl u3d usdz usd vrml x pomocí .NET knihovny pomocí několika řádků C# kódu."
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

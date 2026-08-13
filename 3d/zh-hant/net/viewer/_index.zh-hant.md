@@ -1,7 +1,7 @@
 ---
 title: C# 三維格式文件檢視器
 url: "/zh-hant/net/viewer/"
-description: 檢視 3D 格式 3ds 3mf amf ase att dae drc dxf fbx gltf jt obj ply rvm stl u3d usdz usd vrml x via .NET 函式庫，使用幾行 C# 程式碼。
+description: "檢視 3D 格式 3ds 3mf amf ase att dae drc dxf fbx gltf jt obj ply rvm stl u3d usdz usd vrml x via .NET 函式庫，使用幾行 C# 程式碼。"
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

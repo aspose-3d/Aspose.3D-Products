@@ -1,7 +1,7 @@
 ---
 title: C# 3D Formatları Görüntüleyici
 url: /tr/net/viewer/
-description: 3D formatları 3ds, 3mf, amf, ase, att, dae, drc, dxf, fbx, gltf, jt, obj, ply, rvm, stl, u3d, usdz, usd, vrml, x, .NET kütüphanesi aracılığıyla birkaç satır C# kodu kullanarak görüntüleyin.
+description: "3D formatları 3ds, 3mf, amf, ase, att, dae, drc, dxf, fbx, gltf, jt, obj, ply, rvm, stl, u3d, usdz, usd, vrml, x, .NET kütüphanesi aracılığıyla birkaç satır C# kodu kullanarak görüntüleyin."
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

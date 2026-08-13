@@ -1,7 +1,7 @@
 ---
 title: C# 3D 格式查看器
 url: /zh/net/viewer/
-description: 查看 3D 格式 3ds 3mf amf ase att dae drc dxf fbx gltf jt obj ply rvm stl u3d usdz usd vrml x 通过 .NET 库，使用几行 C# 代码。
+description: "查看 3D 格式 3ds 3mf amf ase att dae drc dxf fbx gltf jt obj ply rvm stl u3d usdz usd vrml x 通过 .NET 库，使用几行 C# 代码。"
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

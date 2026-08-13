@@ -1,7 +1,7 @@
 ---
 title: "Просмотрщик 3D-форматов на C#"
 url: /ru/net/viewer/
-description: Просмотр 3D форматов 3ds 3mf amf ase att dae drc dxf fbx gltf jt obj ply rvm stl u3d usdz usd vrml x с использованием .NET библиотеки в несколько строк C# кода.
+description: "Просмотр 3D форматов 3ds 3mf amf ase att dae drc dxf fbx gltf jt obj ply rvm stl u3d usdz usd vrml x с использованием .NET библиотеки в несколько строк C# кода."
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

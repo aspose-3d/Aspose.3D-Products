@@ -1,7 +1,7 @@
 ---
 title: C# 3D Formátumok Betekintő
 url: /hu/net/viewer/
-description: Tekintse meg a 3D formátumokat: 3ds 3mf amf ase att dae drc dxf fbx gltf jt obj ply rvm stl u3d usdz usd vrml x .NET könyvtár segítségével néhány sor C# kóddal.
+description: "Tekintse meg a 3D formátumokat: 3ds 3mf amf ase att dae drc dxf fbx gltf jt obj ply rvm stl u3d usdz usd vrml x .NET könyvtár segítségével néhány sor C# kóddal."
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}

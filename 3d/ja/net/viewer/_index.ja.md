@@ -1,7 +1,7 @@
 ---
 title: C# 3Dフォーマットビューア
 url: /ja/net/viewer/
-description: 3D形式の3ds、3mf、amf、ase、att、dae、drc、dxf、fbx、gltf、jt、obj、ply、rvm、stl、u3d、usdz、usd、vrml、xを.NETライブラリを使用して、数行のC#コードで表示します。
+description: "3D形式の3ds、3mf、amf、ase、att、dae、drc、dxf、fbx、gltf、jt、obj、ply、rvm、stl、u3d、usdz、usd、vrml、xを.NETライブラリを使用して、数行のC#コードで表示します。"
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
