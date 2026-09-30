@@ -272,10 +272,12 @@ description: Gameware y biblioteca CAD 3D para crear, convertir, leer y modifica
      </b>
      X (ASCII/Binario)
     </li>     <li>
-      <b>       Siemens:
+      <b>
+       Siemens:
       </b>
-       JT 8/9/10/10.5
-     </li>     DXF
+      JT 8/9/10/10.5
+     </li>    <li>
+     DXF
     </li>
     <li>
      3MF
@@ -295,10 +297,17 @@ description: Gameware y biblioteca CAD 3D para crear, convertir, leer y modifica
     </i>
     Solo salida
    </header>
-   <ul>     <li><b>Siemens:</b> JT 10</li>
-      <li>
-      HTML
-     </li>   </ul>
+   <ul>
+     <li>
+      <b>
+       Siemens:
+      </b>
+      JT 10
+     </li>
+    <li>
+     HTML
+    </li>
+   </ul>
   </div>
   <!--/right-->
  </div>

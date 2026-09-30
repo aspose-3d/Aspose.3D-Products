@@ -1,4 +1,4 @@
----
+﻿---
 title: C# .NET 3D 文档处理 API - Aspose 
 weight: 1020
 url: /zh/net/ 
@@ -302,7 +302,7 @@ description: C# VB.NET ASP.NET 库，用于在 Windows 窗体 Web 服务和 Mono
      <b>
       西门子：
      </b>
-     JT 10
+     JT 8/9/10/10.5
     </li>
     <li>
      DXF
@@ -323,6 +323,12 @@ description: C# VB.NET ASP.NET 库，用于在 Windows 窗体 Web 服务和 Mono
     仅输出
    </header>
    <ul>
+    <li>
+     <b>
+      西门子：
+     </b>
+     JT 10
+    </li>
     <li>
      HTML
     </li>
@@ -493,7 +499,9 @@ description: C# VB.NET ASP.NET 库，用于在 Windows 窗体 Web 服务和 Mono
    <div class="col-lg-4">
     <em class="fa fa-share ico-blue fa-2x col-lg-2">
     </em>
-    <p class="col-lg-10">      \u003C/b\u003E\n      JT 10    </p>
+    <p class="col-lg-10">
+     使用 draco 压缩导出和导入 glTF 文件
+    </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
@@ -608,7 +616,9 @@ scn.Save(dir + "output.obj", Aspose.ThreeD.FileFormat.WavefrontOBJ);</code></pre
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
-     \u003C/li\u003E\n     \u003Cli\u003E\n      \u003Cb\u003E\n       \u897F\u95E8\u5B50\uFF1A\n      \u003C/b\u003E\n      JT 10\n     \u003C/li\u003E\n     \u003Cli\u003E\n      DXF\n     \u003C/li\u003E
+
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/3d/net" pricingInformationLink="https://purchase.aspose.com/pricing/3d/net" >}}
+
 {{< blocks/products/pf/offers-section pfName="Aspose.3D" description="Aspose.3D 为其他流行的开发环境提供单独的 3D 处理 API，如下所列：" >}}
 
     {{< blocks/products/pf/offers-section-item link="/3d/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/3d/aspose_3d-for-java.svg" sdkName="Java" >}}

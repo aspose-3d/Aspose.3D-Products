@@ -13,7 +13,9 @@ description: C# VB.NET ASP.NET library to create read convert and modify 3D file
 {{< blocks/products/pf/sub-menu logoImageSrc="/3d/aspose_3d-for-net.svg" liveDemosLink="https://products.aspose.app/3d/family" PricingLink="https://purchase.aspose.com/pricing/3d/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/3d/net/" installationsDocsLink="https://docs.aspose.com/3d/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.3D/" nugetPackageName="Aspose.3D" mavenRepoLink="https://repository.aspose.com/3d/" directDownloadLink="https://releases.aspose.com/3d/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>    \u003Cul\u003E\n     \u003Cli\u003E\u003Cb\u003EAutodesk:\u003C/b\u003E Maya(ASCII/Binary), DXF\u003C/li\u003E\n     \u003Cli\u003EBlender\u003C/li\u003E\n     \u003Cli\u003E \u003Cb\u003E DirectX: \u003C/b\u003E X (ASCII/Binary) \u003C/li\u003E\n     \u003Cli\u003E \u003Cb\u003E Siemens: \u003C/b\u003E JT 10 \u003C/li\u003E\n      \u003Cli\u003E ASE \u003C/li\u003E\n     \u003Cli\u003E VRML \u003C/li\u003E\n    \u003C/ul\u003E</p>
+<p>
+ Aspose.3D for .NET is a feature-rich Gameware and Computer-Aided-Designing (CAD) API to manipulate documents without any 3D modeling and rendering software dependencies. API supports Blender, Maya, OpenUSD, WavefrontOBJ, FBX (ASCII, Binary), STL (ASCII, Binary), Universal3D, Collada, glTF, GLB, PLY, DirectX, Google Draco file formats and more. Developers can create, read, convert, modify and control the substance of 3D document formats easily.
+</p>
 
 <p>
  Aspose.3D for .NET API is user-friendly and can be deployed with any .NET application as easy as copying it without worrying about other services and modules that are installed already.
@@ -59,8 +61,9 @@ description: C# VB.NET ASP.NET library to create read convert and modify 3D file
     <li> Draco Compression </li>
     <li> Manifold Mesh </li>
     <li> Mesh Boolean Operation </li>
-    <li> PBR/Phong/Lambert Material </li>     \u003Cli\u003E HTML \u003C/li\u003E
-     \u003Cli\u003E \u003Cb\u003E Siemens: \u003C/b\u003E JT 10 \u003C/li\u003E    <li> Blind watermark </li>
+    <li> PBR/Phong/Lambert Material </li>
+    <li> Render 3D View to Images </li>
+    <li> Blind watermark </li>
     <li> Meta Data </li>
     <li> Animations </li>
    </ul>
@@ -158,8 +161,10 @@ description: C# VB.NET ASP.NET library to create read convert and modify 3D file
     <li> <b> Collada: </b> DAE </li>
     <li> <b> GL Transmission: </b> glTF (ASCII/Binary) </li>
     <li> <b> Google Draco: </b> DRC </li>
-    <li> <b> OpenUSD: </b> USDA, USDC, USDZ (Text/Binary) </li>    \u003Cli\u003E \u003Cb\u003E Siemens: \u003C/b\u003E JT 8/9/10/10.5 \u003C/li\u003E
-     \u003Cli\u003E ASE \u003C/li\u003E    <li> <b> Portable Document Format: </b> PDF </li>
+    <li> <b> OpenUSD: </b> USDA, USDC, USDZ (Text/Binary) </li>
+    <li> <b> 3D Printing: </b> 3MF (3D Manufacturing Format), STL (ASCII/Binary), OBJ</li>
+    <li> <b> RVM </b> (Text/Binary) </li>
+    <li> <b> Portable Document Format: </b> PDF </li>
     <li> <b>Point Clouds:</b> XYZ, PCD</li>
     <li> <b> Others: </b> AMF, PLY (ASCII/Binary), A3DW </li>
    </ul>
@@ -169,50 +174,57 @@ description: C# VB.NET ASP.NET library to create read convert and modify 3D file
    <br/>
    <header>
     <i class="fa fa-long-arrow-down">
-    </i>     Input Only
-     <ul>
-      <li><b>Autodesk:</b> Maya(ASCII/Binary), DXF</li>
-      <li>Blender</li>
-      <li> <b> DirectX: </b> X (ASCII/Binary) </li>
-      <li> <b> Siemens: </b> JT 10 </li>
-       <li> ASE </li>
-      <li> VRML </li>
-      <li><b>URDF</b></li>
-      <li><b>Parasolid XT</b></li>
-     </ul>    <header>
-     <i class="fa fa-mail-forward">
-     </i>
-     Output Only
-    </header>
-    <ul>
-     <li> HTML </li>
-    </ul>
-   </div>
-   <!--/right-->
-  </div>
-  <!--/row-->
-  <div class="d1-logo">
-   <img width="70" height="75" alt="FBX Manipulation API" src="/3d/aspose_3d-for-net.svg"/>
-   <header>
-    Aspose.3D
+    </i>
+    Input Only
    </header>
-   <footer>
-    <small>
-     <em>
-      for
-     </em>
-     .NET
-    </small>
-   </footer>
+   <ul>
+    <li><b>Autodesk:</b> Maya(ASCII/Binary), DXF</li>
+    <li>Blender</li>
+    <li> <b> DirectX: </b> X (ASCII/Binary) </li>
+    <li> <b> Siemens: </b> JT 8/9/10/10.5 </li>
+     <li> ASE </li>
+    <li> VRML </li>
+    <li><b>URDF</b></li>
+    <li><b>Parasolid XT</b></li>
+   </ul>
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Output Only
+   </header>
+   <ul>
+    <li> <b> Siemens: </b> JT 10 </li>
+    <li> HTML </li>
+   </ul>
   </div>
-  <!--/logo-->
+  <!--/right-->
  </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img width="70" height="75" alt="FBX Manipulation API" src="/3d/aspose_3d-for-net.svg"/>
+  <header>
+   Aspose.3D
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    .NET
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
 
- {{< /blocks/products/pf/carousel-item >}}
+{{< /blocks/products/pf/carousel-item >}}
 
- {{< /blocks/products/pf/carousel >}}
- <!--Diagrams End-->
-<!--Feature-section Start-->     \u003Cli\u003E \u003Cb\u003E Siemens: \u003C/b\u003E JT 10 \u003C/li\u003E <a class="anchor" id="features" name="features">
+{{< /blocks/products/pf/carousel >}}
+<!--Diagrams End-->
+
+<!--Feature-section Start-->
+<div class="container-fluid features-section bg-gray singleproduct">
+ <a class="anchor" id="features" name="features">
  </a>
  <div class="row">
   <div class="container">

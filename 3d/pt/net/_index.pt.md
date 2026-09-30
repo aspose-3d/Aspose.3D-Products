@@ -1,4 +1,4 @@
----
+﻿---
 title: C# .NET 3D Processamento de documentos API - Aspose 
 weight: 1020
 url: /pt/net/ 
@@ -296,12 +296,16 @@ description: Biblioteca C# VB.NET ASP.NET para criar ler, converter e modificar 
      <b>
       DirectX:
      </b>
-     X (ASCII/Binário)     </li>     <li>
-       <b>
-        Siemens:
-       </b>
-       JT 8/9/10/10.5
-      </li>    <li> DXF
+     X (ASCII/Binário)
+    </li>
+    <li>
+     <b>
+      Siemens:
+     </b>
+     JT 8/9/10/10.5
+    </li>
+    <li>
+     DXF
     </li>
     <li>
      3MF (3D Formato de Fabricação)
@@ -312,22 +316,24 @@ description: Biblioteca C# VB.NET ASP.NET para criar ler, converter e modificar 
     <li>
      VRML
     </li>
-   </ul>    <header>
-     <i class="fa fa-mail-forward">
-     </i>
-     Somente saída
-    </header>
-    <ul>
-     <li>
-      <b>
-       Siemens:
-      </b>
-      JT 10
-     </li>
-     <li>
-      HTML
-     </li>
-    </ul>  </div>
+   </ul>
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Somente saída
+   </header>
+   <ul>
+    <li>
+     <b>
+      Siemens:
+     </b>
+     JT 10
+    </li>
+    <li>
+     HTML
+    </li>
+   </ul>
+  </div>
   <!--/right-->
  </div>
  <!--/row-->
@@ -356,11 +362,13 @@ description: Biblioteca C# VB.NET ASP.NET para criar ler, converter e modificar 
 <!--Feature-section Start-->
 <div class="container-fluid features-section bg-gray singleproduct">
  <a class="anchor" id="features" name="features">
- </a>       JT 8/9/10/10.5
-      </li>    <li> DXF
-     </li>     <li>
-      3MF (3D Formato de Fabricação)
-     </li>   <p>
+ </a>
+ <div class="row">
+  <div class="container">
+   <h2 class="pr-ft">
+    Recursos avançados de .NET 3D API
+   </h2>
+   <p>
    </p>
    <div class="col-lg-4">
     <em class="fa fa-square-o ico-blue fa-2x col-lg-2">
