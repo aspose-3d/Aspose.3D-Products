@@ -169,51 +169,49 @@ description: C# VB.NET ASP.NET library to create read convert and modify 3D file
    <br/>
    <header>
     <i class="fa fa-long-arrow-down">
-    </i>
-    Input Only
-   </header>
-   <ul>
-    <li><b>Autodesk:</b> Maya(ASCII/Binary), DXF</li>
-    <li>Blender</li>
-    <li> <b> DirectX: </b> X (ASCII/Binary) </li>
-    <li> <b> Siemens: </b> JT 10 </li>
-     <li> ASE </li>
-    <li> VRML </li>
-   </ul>
-   <header>
-    <i class="fa fa-mail-forward">
-    </i>
-    Output Only
-   </header>
-   <ul>
-    <li> HTML </li>
-   </ul>
+    </i>     Input Only
+     <ul>
+      <li><b>Autodesk:</b> Maya(ASCII/Binary), DXF</li>
+      <li>Blender</li>
+      <li> <b> DirectX: </b> X (ASCII/Binary) </li>
+      <li> <b> Siemens: </b> JT 10 </li>
+       <li> ASE </li>
+      <li> VRML </li>
+      <li><b>URDF</b></li>
+      <li><b>Parasolid XT</b></li>
+     </ul>    <header>
+     <i class="fa fa-mail-forward">
+     </i>
+     Output Only
+    </header>
+    <ul>
+     <li> HTML </li>
+    </ul>
+   </div>
+   <!--/right-->
   </div>
-  <!--/right-->
+  <!--/row-->
+  <div class="d1-logo">
+   <img width="70" height="75" alt="FBX Manipulation API" src="/3d/aspose_3d-for-net.svg"/>
+   <header>
+    Aspose.3D
+   </header>
+   <footer>
+    <small>
+     <em>
+      for
+     </em>
+     .NET
+    </small>
+   </footer>
+  </div>
+  <!--/logo-->
  </div>
- <!--/row-->
- <div class="d1-logo">
-  <img width="70" height="75" alt="FBX Manipulation API" src="/3d/aspose_3d-for-net.svg"/>
-  <header>
-   Aspose.3D
-  </header>
-  <footer>
-   <small>
-    <em>
-     for
-    </em>
-    .NET
-   </small>
-  </footer>
- </div>
- <!--/logo-->
-</div>
 
-{{< /blocks/products/pf/carousel-item >}}
+ {{< /blocks/products/pf/carousel-item >}}
 
-{{< /blocks/products/pf/carousel >}}
-<!--Diagrams End-->
-
+ {{< /blocks/products/pf/carousel >}}
+ <!--Diagrams End-->
 <!--Feature-section Start-->     \u003Cli\u003E \u003Cb\u003E Siemens: \u003C/b\u003E JT 10 \u003C/li\u003E <a class="anchor" id="features" name="features">
  </a>
  <div class="row">

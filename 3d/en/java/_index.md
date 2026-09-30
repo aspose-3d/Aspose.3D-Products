@@ -220,39 +220,39 @@ description: Gameware and CAD 3D library to create read convert and modify 3D fi
     <i class="fa fa-long-arrow-down">
     </i>
     Input Only
+   </header>    <ul>
+     <li><b>Autodesk:</b> Maya(ASCII/Binary), DXF</li>
+     <li>Blender</li>
+     <li> <b> DirectX: </b> X (ASCII/Binary) </li>     <li><b>Siemens:</b> JT 8/9/10/10.5 </li>    <li> 3MF (3D Manufacturing Format) </li> <li> ASE </li>
+     <li> VRML </li>
+     <li><b>URDF</b></li>
+     <li><b>Parasolid XT</b></li>
+    </ul>    <header>
+      <i class="fa fa-mail-forward">
+      </i>
+      Output Only
+     </header>
+     <ul>
+      <li><b>Siemens:</b> JT 10 </li>
+      <li> HTML </li>
+      <li><b>Point Clouds:</b> PCD</li>
+     </ul>  </div>
+   <!--/right-->
+  </div>
+  <!--/row-->
+  <div class="d1-logo">
+   <img width="70" height="75" alt="FBX Manipulation API" src="/3d/aspose_3d-for-java.svg"/>
+   <header>
+    Aspose.3d
    </header>
-   <ul>
-    <li><b>Autodesk:</b> Maya(ASCII/Binary), DXF</li>
-    <li>Blender</li>
-    <li> <b> DirectX: </b> X (ASCII/Binary) </li>     <li><b>Siemens:</b> JT 8/9/10/10.5 </li>    <li> 3MF (3D Manufacturing Format) </li> <li> ASE </li>
-    <li> VRML </li>
-   </ul>    <header>
-     <i class="fa fa-mail-forward">
-     </i>
-     Output Only
-    </header>
-    <ul>
-     <li><b>Siemens:</b> JT 10 </li>
-     <li> HTML </li>
-     <li><b>Point Clouds:</b> PCD</li>
-    </ul>  </div>
-  <!--/right-->
- </div>
- <!--/row-->
- <div class="d1-logo">
-  <img width="70" height="75" alt="FBX Manipulation API" src="/3d/aspose_3d-for-java.svg"/>
-  <header>
-   Aspose.3d
-  </header>
-  <footer>
-   <small>
-    <em>
-     for
-    </em>
-    Java
-   </small>
-  </footer>
- </div>
+   <footer>
+    <small>
+     <em>
+      for
+     </em>
+     Java
+    </small>
+   </footer> </div>
  <!--/logo-->
 </div>
 
